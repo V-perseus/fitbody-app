@@ -1,0 +1,10 @@
+3.2.4-1154 Release Candidate
+
+Change weight preference lb-kg
+Secondary timer for time based exercises
+You can now download each day's workout!
+New workout designs with "next exercise" preview
+All recipes in the 12 week meal plan are now unlocked!
+New profile menu to make your experience more seamless and enjoyable
+Faster, more efficient guidance video player
+Overall optimizations for speed and performance - yay!

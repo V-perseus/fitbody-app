@@ -1,0 +1,4 @@
+3.3.2-1212 Internal test release
+- Initial meal plan rework
+- Restored deployment target to 9.3+
+- Instabug to beta

@@ -1,0 +1,7 @@
++ SignupCompleted event sent from app
++ Download workouts
++ Remove downloaded workouts
++ Contact Us links on login, signup and subscription screens
++ Reworked contact form to include name and email
+
+See provided test instructions for details

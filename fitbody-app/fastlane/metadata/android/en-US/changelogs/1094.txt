@@ -1,0 +1,4 @@
+- Mealplan week selector drop down
+- Exercise equipment icon cut-off
+- Disappearing status bar on some screens
+- Logic to allow calendar navigation to April

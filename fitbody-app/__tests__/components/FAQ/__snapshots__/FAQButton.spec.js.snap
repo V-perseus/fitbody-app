@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FAQButton renders snapshot correctly 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "opacity": 1,
+      "paddingTop": 100,
+    }
+  }
+  testID="tab_btn"
+>
+  <BVLinearGradient
+    colors={
+      [
+        4279220154,
+        4286300671,
+      ]
+    }
+    endPoint={
+      {
+        "x": 0.5,
+        "y": 1,
+      }
+    }
+    locations={null}
+    startPoint={
+      {
+        "x": 0.5,
+        "y": 0,
+      }
+    }
+    style={
+      {
+        "alignItems": "center",
+        "borderRadius": 50,
+        "height": 57,
+        "justifyContent": "center",
+        "marginBottom": 5,
+        "marginLeft": 9,
+        "marginRight": 9,
+        "marginTop": 5,
+        "width": 160,
+      }
+    }
+    testID="tab_bg"
+  >
+    <Text
+      style={
+        {
+          "color": "#ffffff",
+          "fontFamily": "OpenSans-Bold",
+          "fontSize": 16,
+        }
+      }
+    >
+      TECH SUPPORT
+    </Text>
+  </BVLinearGradient>
+</View>
+`;

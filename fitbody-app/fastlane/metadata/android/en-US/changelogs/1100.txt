@@ -1,0 +1,5 @@
++ SignupCompleted event sent from app
++ Download workouts
++ Remove downloaded workouts
+
+See provided test instructions for details

@@ -1,0 +1,136 @@
+{
+  "identifier" : "CD4B3668",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "7AA97290",
+      "localizations" : [
+
+      ],
+      "name" : "Main",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "99.0",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "2FF48BB1",
+          "introductoryOffer" : {
+            "internalID" : "7D065348",
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P1W"
+          },
+          "localizations" : [
+            {
+              "description" : "",
+              "displayName" : "",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.BodyLoveGroupLLC.BodyLove.oneyearmembership",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "A 1 year sub w/intro offer 7 days",
+          "subscriptionGroupID" : "7AA97290",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "19.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "5E45010D",
+          "introductoryOffer" : {
+            "internalID" : "875AAFB9",
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P1W"
+          },
+          "localizations" : [
+            {
+              "description" : "",
+              "displayName" : "",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.BodyLoveGroupLLC.BodyLove.onemonthmembership",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "A 1 month sub w/intro offer 7 days",
+          "subscriptionGroupID" : "7AA97290",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+            {
+              "displayPrice" : "1.00",
+              "internalID" : "2034C850",
+              "offerID" : "PANIKI",
+              "paymentMode" : "payUpFront",
+              "referenceName" : "First month 1 dollar",
+              "subscriptionPeriod" : "P1M"
+            },
+            {
+              "internalID" : "CAAC476C",
+              "offerID" : "FREETRIAL",
+              "paymentMode" : "free",
+              "referenceName" : "7 DAY FREE TRIAL",
+              "subscriptionPeriod" : "P1W"
+            },
+            {
+              "displayPrice" : "19.99",
+              "internalID" : "8C798BCF",
+              "offerID" : "SPRING2022",
+              "paymentMode" : "payUpFront",
+              "referenceName" : "3 MONTHS FOR THE PRICE OF 1",
+              "subscriptionPeriod" : "P3M"
+            }
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "499.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "413F69D4",
+          "introductoryOffer" : {
+            "internalID" : "828C22DC",
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P1W"
+          },
+          "localizations" : [
+            {
+              "description" : "",
+              "displayName" : "",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.BodyLoveGroupLLC.BodyLove.onemonthoffercode",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "3 Month Promo",
+          "subscriptionGroupID" : "7AA97290",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 2
+  }
+}

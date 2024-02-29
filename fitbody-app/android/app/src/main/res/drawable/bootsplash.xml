@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" android:opacity="opaque">
+    <item android:drawable="@drawable/gradient"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center_horizontal|center"
+        android:orientation="vertical"
+        android:scaleType="fitCenter"
+    />
+    
+    <item
+        android:id="@+id/FitBodyLogo"
+        android:width="375dp"
+        android:height="286dp"
+        android:gravity="center"
+        android:background="@drawable/fitbodylogo"
+        android:drawable="@drawable/fitbodylogo"
+        android:contentDescription="@string/fit_body_with_anna_victoria"/>
+</layer-list>

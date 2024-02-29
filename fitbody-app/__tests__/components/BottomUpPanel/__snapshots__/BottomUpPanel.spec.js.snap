@@ -1,0 +1,128 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BottomPanelUp renders snapshot correctly 1`] = `
+<View
+  pointerEvents="box-none"
+  style={
+    [
+      {
+        "alignItems": "center",
+        "bottom": 0,
+        "justifyContent": "flex-end",
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+      },
+      {},
+    ]
+  }
+>
+  <View
+    collapsable={false}
+    style={
+      {
+        "backgroundColor": "transparent",
+        "bottom": 0,
+        "height": 1334,
+        "left": 0,
+        "paddingBottom": 400,
+        "position": "absolute",
+        "right": 0,
+        "transform": [
+          {
+            "translateY": 400,
+          },
+          {
+            "translateX": 0,
+          },
+        ],
+      }
+    }
+  >
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      hitSlop={12}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onFocus={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "height": -117,
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "backgroundColor": "white",
+              "borderRadius": 24,
+              "elevation": 21,
+              "height": 48,
+              "justifyContent": "center",
+              "marginBottom": -24,
+              "width": 48,
+              "zIndex": 10,
+            }
+          }
+        >
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "borderColor": "#bbbbbb",
+                "borderRadius": 17.5,
+                "borderWidth": 1.7,
+                "height": 35,
+                "justifyContent": "center",
+                "width": 35,
+              }
+            }
+          >
+            <close.svg
+              color="#bbbbbb"
+            />
+          </View>
+        </View>
+      </View>
+    </View>
+    <View
+      style={{}}
+    >
+      <RCTScrollView
+        bounces={false}
+        contentContainerStyle={
+          {
+            "backgroundColor": "#ffffff",
+            "flexGrow": 1,
+          }
+        }
+        indicatorStyle="black"
+        scrollEnabled={true}
+        scrollEventThrottle={16}
+        showsHorizontalScrollIndicator={false}
+        showsVerticalScrollIndicator={false}
+      >
+        <View>
+          <Text
+            testID="content"
+          >
+            content
+          </Text>
+        </View>
+      </RCTScrollView>
+    </View>
+  </View>
+</View>
+`;

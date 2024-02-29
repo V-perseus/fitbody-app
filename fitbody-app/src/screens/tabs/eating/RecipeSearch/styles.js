@@ -1,0 +1,128 @@
+import { StyleSheet } from 'react-native'
+import globals from '../../../../config/globals'
+
+const styles = StyleSheet.create({
+  container: {
+    width: '100%',
+    height: '100%',
+    flexDirection: 'column',
+  },
+  headerContainer: {
+    width: '100%',
+    paddingHorizontal: 27,
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    marginTop: 19,
+  },
+  searchContainer: {
+    flex: 1,
+    height: 47,
+    justifyContent: 'center',
+    backgroundColor: globals.styles.colors.colorGrayLight,
+    position: 'relative',
+    borderRadius: 23.5,
+  },
+  barcodeIcon: {
+    width: 25,
+    marginLeft: 17,
+  },
+  titleContainer: {
+    marginTop: 24,
+    width: '100%',
+    paddingHorizontal: 27,
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+  },
+  title: {
+    fontFamily: globals.fonts.secondary.style.fontFamily,
+    fontSize: 25,
+    color: globals.styles.colors.colorBlack,
+  },
+  veganBtn: {
+    width: 95,
+    height: 38,
+    borderRadius: 19,
+    borderWidth: 1,
+    borderColor: globals.styles.colors.colorGray,
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    paddingHorizontal: 12,
+  },
+  veganText: {
+    fontFamily: globals.fonts.primary.semiboldStyle.fontFamily,
+    fontSize: 14,
+    color: globals.styles.colors.colorBlackDark,
+  },
+  divider: {
+    marginTop: 15,
+    width: '100%',
+    height: 1,
+    backgroundColor: '#eaeaea',
+  },
+  warningContainer: {
+    flexGrow: 1,
+    height: '100%',
+    width: '100%',
+    flexDirection: 'column',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  warningText: {
+    fontFamily: globals.fonts.primary.boldStyle.fontFamily,
+    fontSize: 16,
+    color: globals.styles.colors.colorBlackDark,
+    textAlign: 'center',
+  },
+  foodsContainer: {
+    paddingLeft: 27,
+    paddingRight: 19,
+    width: '100%',
+    flexGrow: 1,
+    paddingBottom: 20,
+  },
+  searchAllContainer: {
+    marginTop: 23,
+    width: '100%',
+    flexDirection: 'row',
+    alignItems: 'center',
+  },
+  searchAllText: {
+    fontFamily: globals.fonts.primary.semiboldStyle.fontFamily,
+    fontSize: 14,
+    letterSpacing: 0,
+    color: globals.styles.colors.colorPink,
+    marginLeft: 15,
+  },
+  emptyContainer: { flex: 1, justifyContent: 'center', alignItems: 'center' },
+  emptyText: { fontFamily: globals.fonts.primary.boldStyle.fontFamily, fontSize: 16, textAlign: 'center' },
+  listContentContainer: {
+    marginTop: 8,
+    paddingBottom: 80,
+    marginHorizontal: 16,
+  },
+  loadingContainer: { marginTop: 58, flex: 1, alignItems: 'center' },
+  loadMoreContainer: { marginTop: 64, alignItems: 'center' },
+  loadMoreButton: {
+    width: 123,
+    flexDirection: 'row',
+    justifyContent: 'center',
+    alignItems: 'center',
+    paddingHorizontal: 16,
+    height: 32,
+    borderRadius: 16,
+    backgroundColor: globals.styles.colors.colorPink,
+  },
+  loadMoreText: {
+    marginRight: 4,
+    fontFamily: globals.fonts.primary.boldStyle.fontFamily,
+    fontSize: 12,
+    color: globals.styles.colors.colorWhite,
+  },
+  endContainer: { marginTop: 69, alignSelf: 'stretch', alignItems: 'center' },
+  endText: { fontFamily: globals.fonts.primary.boldStyle.fontFamily, fontSize: 16 },
+})
+
+export default styles

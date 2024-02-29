@@ -1,0 +1,3 @@
+- New 12 week meal plan logic
+- Keyboard issues on Guidance fixed
+- Progress Photo date selection starts in 2015

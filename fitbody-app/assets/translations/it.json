@@ -1,0 +1,276 @@
+{
+    "app": {
+        "register": {
+            "loginsignup": "Accedi/Registrati",
+            "password": "Password",
+            "login": "Accedi",
+            "forgot": {
+                "password": "Hai dimenticato la password? "
+            },
+            "email": "Email",
+            "zip": "Zip",
+            "signup": "Registrati",
+            "newsletter": "Vorrei accedere al Bollettino Body Love per ricevere gli utili consigli offerti da Anna Victoria. Iscrivimi!  ",
+            "full": {
+                "name": "Nome completo"
+            },
+            "confirmemail": "Confermare indirizzo email",
+            "continue": {
+                "policy ": "Se clicchi qui, accetti i termini del servizio e l'informativa sulla privacy"
+            },
+            "valid": {
+                "email": "Inserisci un indirizzo email valido"
+            },
+            "slimdown": "Dimagrire + Tonificare",
+            "select": {
+                "membership ": "Scegli un tipo di affiliazione"
+            },
+            "save": {
+                "twenty": "Risparmia il 20%",
+                "ten": {
+                    "percent": "Risparmia il 10%"
+                }
+            },
+            "monthlyworkout": "Workout Challenges: sfide mensili",
+            "three": {
+                "month": "3 mesi"
+            },
+            "twelve": {
+                "month": "12 mesi"
+            },
+            "one": {
+                "month": "1 mese"
+            },
+            "sixteen": {
+                "month": "$16.99/Mese"
+            },
+            "reset": {
+                "password": "Resettare Password "
+            },
+            "terms": {
+                "service": "Termini del Servizio"
+            },
+            "privacy": {
+                "policy": "Informativa sulla privacy"
+            }
+        },
+        "selectgoal": {
+            "burn": "Bruciare grasso + Snellire",
+            "home": "A CASA O IN PALESTRA",
+            "in": "CI STO!",
+            "minutes": "MINUTI PER SESSIONE",
+            "mygoal": "IL MIO OBIETTIVO È",
+            "platform": "PIATTAFORMA",
+            "sessions": "SESSIONI ALLA SETTIMANA",
+            "yogamat": "TAPPETINO DA YOGA",
+            "choose": {
+                "tone": "Scegli questo programma se vuoi bruciare grasso e costruire muscoli contemporaneamente!"
+            },
+            "tone": "CORPO FIT TONIFICATO",
+            "copy": {
+                "tone": "Guadagnare forza + Tonificare"
+            },
+            "title": {
+                "tone": "TONIFICARE"
+            },
+            "sculpt": "SCOLPIRE UN CORPO FIT",
+            "description": {
+                "sculpt": "Costruire muscoli + Scolpire il tuo corpo"
+            },
+            "gym": "IN PALESTRA",
+            "sculptgoal": "SCOLPIRE"
+        },
+        "workoutoverview": {
+            "copy7": "CHALLENGES",
+            "copy8": "VENERDÌ",
+            "copy11": "LUNEDÌ",
+            "copy12": "SABATO",
+            "copy13": "DOMENICA",
+            "copy14": "GIOVEDÌ",
+            "copy15": "WORKOUT DEL GIORNO",
+            "copy16": "MARTEDÌ",
+            "copy17": "MERCOLEDÌ",
+            "copy18": "SETTIMANA",
+            "copy19": "WORKOUTS",
+            "copy20": "SCHIENA + BRACCIA + CORE",
+            "copy21": "GAMBE + CARDIO",
+            "copy22": "GIORNO DI RIPOSO SUGGERITO",
+            "copy30": "NO",
+            "copy31": "SÌ",
+            "copy53": "LIVELLO AVANZATO",
+            "copy54": "LIVELLO PRINCIPIANTE",
+            "copy63": "___ min",
+            "copy65": "PENSI DI POTER FARLO MEGLIO?",
+            "copy67": "LIVELLI DI DIFFICOLTÀ"
+        },
+        "workouts": {
+            "copy7": "PAUSA",
+            "copy14": "RIPOSO",
+            "copy16": "COMPLIMENTI",
+            "copy17": "HAI FINITO",
+            "copy19": "LA MIA PERFORMANCE",
+            "copy23": "HASHTAGS",
+            "copy24": "SCEGLI ALCUNI HASHTAGS, COPIALI E CONDIVIDILI SULLE RETI SOCIALI"
+        },
+        "workouthistory": {
+            "jan": "GENNAIO",
+            "feb": "FEBBRAIO",
+            "march": "MARZO",
+            "april": "APRILE",
+            "may": "MAGGIO",
+            "june": "GIUGNO",
+            "july": "LUGLIO",
+            "august": "AGOSTO",
+            "september": "SETTEMBRE",
+            "october": "OTTOBRE",
+            "november ": "NOVEMBRE",
+            "december": "DICEMBRE"
+        },
+        "meals": {
+            "copy1": "REGOLARE",
+            "copy2": "VEGANO",
+            "copy3": "VEGETARIANO",
+            "copy7": "LO SPUNTINO DEL POMERIGGIO",
+            "copy8": "PRIMA COLAZIONE",
+            "copy10": "PRANZO",
+            "copy11": "LO SPUNTINO DEL MATTINO",
+            "copy12": "I MIEI MACROS",
+            "copy13": "(Ingredienti)",
+            "copy14": "(Istruzioni)",
+            "copy16": "(Avrai bisogno di)",
+            "copy17": "LO SPUNTINO DEL POMERIGGIO: RICETTA",
+            "copy18": "OPZIONI ALTERNATIVE",
+            "copy19": "RICETTA PER LA PRIMA COLAZIONE",
+            "copy20": "CALORIE",
+            "copy21": "CARBOIDRATI",
+            "copy22": "GRASSI",
+            "copy23": "INGREDIENTI",
+            "copy24": "ISTRUZIONI",
+            "copy25": "RICETTA PER IL PRANZO",
+            "copy26": "LO SPUNTINO DEL MATTINO: RICETTA",
+            "copy28": "PROTEINA",
+            "copy31": "AVRAI BISOGNO DI: ",
+            "copy32": "(Descrizione)",
+            "copy33": "Clicca qui per vedere altre opzioni!",
+            "copy35": "SPUNTINI ALTERNATIVI PER IL POMERIGGIO",
+            "copy36": "COLAZIONI ALTERNATIVE",
+            "copy37": "PRANZI ALTERNATIVI",
+            "copy38": "SPUNTINI ALTERNATIVI PER LA MATTINA",
+            "copy42": "Scegli questa opzione se vuoi perdere grasso!",
+            "copy43": "PERDERE",
+            "copy45": "Scegli questa opzione se vuoi mantenere il tuo peso!",
+            "copy46": "MANTENERE",
+            "copy47": "Scegli questa opzione se vuoi guadagnare peso o muscolo!",
+            "copy48": "AUMENTARE",
+            "copy49": "0-1 giorni alla settimana",
+            "copy50": "1-3 giorni alla settimana",
+            "copy51": "3-5 giorni alla settimana",
+            "copy52": "5 giorni alla settimana",
+            "copy53": "6 giorni alla settimana",
+            "copy54": "6-7 giorni alla settimana",
+            "copy56": "età",
+            "copy57": "CALCOLARE",
+            "copy58": "centimetro",
+            "copy59": "piedi",
+            "copy62": "Quanti anni hai?",
+            "copy63": "Qual è la tua altezza?",
+            "copy64": "pollici",
+            "copy65": "kg",
+            "copy66": "chilogrammi",
+            "copy74": "RICALCOLARE",
+            "copy79": "ALTERNATIVE AI LATTICINI\n",
+            "copy80": "FRUTTA",
+            "copy82": "EDULCORANTI",
+            "copy83": "VEGETALI",
+            "copy84": "PIANO ALIMENTARE"
+        },
+        "profile": {
+            "copy19": "STATO",
+            "copy20": "Cambiare Password",
+            "copy21": "Instagram",
+            "copy23": "Termini e Condizioni",
+            "copy32": "NUOVA PASSWORD",
+            "copy33": "VECCHIA PASSWORD",
+            "copy48": "VERIFICATO"
+        },
+        "faq": [
+            null,
+            null,
+            null,
+            null,
+            "Posso fare gli allenamenti da casa o in palestra?",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "Clicca qui per contattarci!",
+            null,
+            "Pasti:",
+            "Com'è strutturato il tuo piano alimentare?",
+            null,
+            "Quante calorie ci sono nei tuoi pasti?",
+            null,
+            "È il tuo piano alimentare macro friendly?",
+            null,
+            null,
+            null,
+            null,
+            "Nuovi piani alimentari saranno disponibili nel 2019!",
+            "Ci sono ancora delle domande riguardo ai pasti?",
+            null,
+            null,
+            "Community: ",
+            "Come posso aderire alla Fit Body Community?",
+            null,
+            null,
+            null,
+            null,
+            null,
+            "Anna offre dei consigli alla community ogni settimana?",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "In quali paesi è disponibile il programma Fit Body?",
+            null,
+            "Quali piattaforme sono disponibili nella Fit Body App?",
+            "Fit Body with Anna Victoria è disponibile su iTunes App Store e Google Play Store. ",
+            null,
+            "l"
+        ],
+        "leaderboard": {
+            "copy12": "Consigli per ottenere più punti"
+        },
+        "progressphoto": {
+            "copy1": "AGGIUNGI FOTO",
+            "copy8": "'Prima, scegli una data, poi...'",
+            "copy9": "SCARICA",
+            "copy13": "PARAGONA + CONDIVIDI",
+            "copy16": "BENE",
+            "copy19": "COLLAGE ",
+            "copy20": "PRIMA",
+            "copy21": "DOPO"
+        }
+    }
+}

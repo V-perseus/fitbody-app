@@ -1,0 +1,4 @@
+3.2.6-1170 Release Candidate 3
+
+- Always navigate back to the same date on the calendar from My Performance
+- Don't change dates when toggling between month and week and back to month

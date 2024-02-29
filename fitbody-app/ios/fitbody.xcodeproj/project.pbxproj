@@ -1,0 +1,1160 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		11988A601A424991804BB1A2 /* OpenSans-SemiboldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8322C0A20419480C83736606 /* OpenSans-SemiboldItalic.ttf */; };
+		11EDF49AF54D117BAE59CAAC /* ExpoModulesProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C6B233781E08D1D777FA4F7 /* ExpoModulesProvider.swift */; };
+		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
+		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
+		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		18255B1229030661005F693E /* RCTAudioDuckingModule.m in Sources */ = {isa = PBXBuildFile; fileRef = 18255B1129030661005F693E /* RCTAudioDuckingModule.m */; };
+		18255B1329030661005F693E /* RCTAudioDuckingModule.m in Sources */ = {isa = PBXBuildFile; fileRef = 18255B1129030661005F693E /* RCTAudioDuckingModule.m */; };
+		18255B1529030740005F693E /* AudioDucking.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18255B1429030740005F693E /* AudioDucking.swift */; };
+		18255B1629030740005F693E /* AudioDucking.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18255B1429030740005F693E /* AudioDucking.swift */; };
+		187743732704F1CA0040A8E5 /* Void.swift in Sources */ = {isa = PBXBuildFile; fileRef = 187743722704F1CA0040A8E5 /* Void.swift */; };
+		187743742704F1CA0040A8E5 /* Void.swift in Sources */ = {isa = PBXBuildFile; fileRef = 187743722704F1CA0040A8E5 /* Void.swift */; };
+		18A67BCE27F4D0A7007B4B2C /* Expo.plist in Resources */ = {isa = PBXBuildFile; fileRef = 18A67BCD27F4D0A7007B4B2C /* Expo.plist */; };
+		18A67BCF27F4D0A7007B4B2C /* Expo.plist in Resources */ = {isa = PBXBuildFile; fileRef = 18A67BCD27F4D0A7007B4B2C /* Expo.plist */; };
+		18CAEF4E27A08B2E0093BAE6 /* Configuration.storekit in Resources */ = {isa = PBXBuildFile; fileRef = 18CAEF4D27A08B2E0093BAE6 /* Configuration.storekit */; };
+		18CAEF4F27A08B2E0093BAE6 /* Configuration.storekit in Resources */ = {isa = PBXBuildFile; fileRef = 18CAEF4D27A08B2E0093BAE6 /* Configuration.storekit */; };
+		18CAEF5227A1E4780093BAE6 /* StoreKitTestCertificate.cer in Resources */ = {isa = PBXBuildFile; fileRef = 18CAEF5127A1E4780093BAE6 /* StoreKitTestCertificate.cer */; };
+		18CAEF5327A1E4780093BAE6 /* StoreKitTestCertificate.cer in Resources */ = {isa = PBXBuildFile; fileRef = 18CAEF5127A1E4780093BAE6 /* StoreKitTestCertificate.cer */; };
+		18EDD51629AEBA4A00CBA2B8 /* libPods-fitbody.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 18EDD51529AEBA4A00CBA2B8 /* libPods-fitbody.a */; };
+		18EDD51829AEBA5900CBA2B8 /* libPods-fitbody BETA.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 18EDD51729AEBA5900CBA2B8 /* libPods-fitbody BETA.a */; };
+		1E6DD639E50B4F4881DF25BE /* OpenSans-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EAE5A5EBA61748C3A280CB41 /* OpenSans-ExtraBoldItalic.ttf */; };
+		2B044486E7EE4EF79B815803 /* OpenSans-Semibold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6BBC2D6A4BE24F4EBAB143A6 /* OpenSans-Semibold.ttf */; };
+		3B34B75A2565429A00F8952B /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B34B7592565429A00F8952B /* iAd.framework */; };
+		3B34B75C256542A400F8952B /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B34B75B256542A400F8952B /* AdSupport.framework */; };
+		3B79A0DB260C150600587F6B /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
+		3B79A0DC260C150600587F6B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		3B79A0DF260C150600587F6B /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B34B75B256542A400F8952B /* AdSupport.framework */; };
+		3B79A0E0260C150600587F6B /* libz.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 6B5359B1E97C41F688FCE4ED /* libz.tbd */; };
+		3B79A0E2260C150600587F6B /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B34B7592565429A00F8952B /* iAd.framework */; };
+		3B79A0E5260C150600587F6B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
+		3B79A0E6260C150600587F6B /* fitbody_icons.svg in Resources */ = {isa = PBXBuildFile; fileRef = 6D409FB9F2A84EC5B87BD388 /* fitbody_icons.svg */; };
+		3B79A0E7260C150600587F6B /* fitbody_icons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DA0D580AE8554E808D467791 /* fitbody_icons.ttf */; };
+		3B79A0E8260C150600587F6B /* fitbody_icons.woff in Resources */ = {isa = PBXBuildFile; fileRef = FAC51F1A313942749F148139 /* fitbody_icons.woff */; };
+		3B79A0E9260C150600587F6B /* OpenSans-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3529C0AD568848BEA79DDE43 /* OpenSans-Bold.ttf */; };
+		3B79A0EA260C150600587F6B /* OpenSans-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 99A3DD6BDBC944E3881F2E7B /* OpenSans-BoldItalic.ttf */; };
+		3B79A0EB260C150600587F6B /* OpenSans-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 640B0310175542B1A7F4FA43 /* OpenSans-ExtraBold.ttf */; };
+		3B79A0EC260C150600587F6B /* OpenSans-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EAE5A5EBA61748C3A280CB41 /* OpenSans-ExtraBoldItalic.ttf */; };
+		3B79A0ED260C150600587F6B /* JustLovely.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3BB8201B253E54410076C193 /* JustLovely.ttf */; };
+		3B79A0EE260C150600587F6B /* OpenSans-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B7116BA083614AC7AFE66AF0 /* OpenSans-Italic.ttf */; };
+		3B79A0EF260C150600587F6B /* OpenSans-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2EE1D3FF3EEF41249FE2480E /* OpenSans-Light.ttf */; };
+		3B79A0F0260C150600587F6B /* OpenSans-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9D762D01511842E59C23B470 /* OpenSans-LightItalic.ttf */; };
+		3B79A0F1260C150600587F6B /* Strawberry Blossom.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FCFCCB4A59AC405CBE1A7A15 /* Strawberry Blossom.ttf */; };
+		3B79A0F6260C150600587F6B /* Ionicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3B8CA6F52554B2A30098F23C /* Ionicons.ttf */; };
+		3B79A0FA260C150600587F6B /* BootSplash.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3BF92DE9243149CD0041B5D9 /* BootSplash.storyboard */; };
+		3B79A106260C150600587F6B /* OpenSans.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7C3E5A1122F54D9498F98992 /* OpenSans.ttf */; };
+		3B79A107260C150600587F6B /* BebasNeue.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 03428F338FE749219941E1C6 /* BebasNeue.ttf */; };
+		3B79A108260C150600587F6B /* OpenSans-Semibold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6BBC2D6A4BE24F4EBAB143A6 /* OpenSans-Semibold.ttf */; };
+		3B79A109260C150600587F6B /* OpenSans-SemiboldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8322C0A20419480C83736606 /* OpenSans-SemiboldItalic.ttf */; };
+		3B79A10A260C150600587F6B /* trainers.zip in Resources */ = {isa = PBXBuildFile; fileRef = 3B8CA91B2557F9EE0098F23C /* trainers.zip */; };
+		3B8CA6F62554B2A30098F23C /* Ionicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3B8CA6F52554B2A30098F23C /* Ionicons.ttf */; };
+		3B8CA91C2557F9EE0098F23C /* trainers.zip in Resources */ = {isa = PBXBuildFile; fileRef = 3B8CA91B2557F9EE0098F23C /* trainers.zip */; };
+		3BB8201C253E54410076C193 /* JustLovely.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3BB8201B253E54410076C193 /* JustLovely.ttf */; };
+		3BF92DEA243149CD0041B5D9 /* BootSplash.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3BF92DE9243149CD0041B5D9 /* BootSplash.storyboard */; };
+		6C9C3A2A2507411CB560E345 /* OpenSans-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9D762D01511842E59C23B470 /* OpenSans-LightItalic.ttf */; };
+		74FDA346878046E08D76F064 /* fitbody_icons.svg in Resources */ = {isa = PBXBuildFile; fileRef = 6D409FB9F2A84EC5B87BD388 /* fitbody_icons.svg */; };
+		86680007A6414B01B45A7E86 /* OpenSans-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 640B0310175542B1A7F4FA43 /* OpenSans-ExtraBold.ttf */; };
+		8E96F4783DB947CDA33CFF41 /* OpenSans-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3529C0AD568848BEA79DDE43 /* OpenSans-Bold.ttf */; };
+		989DFBC8E53743248D9619F4 /* libz.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 6B5359B1E97C41F688FCE4ED /* libz.tbd */; };
+		9B0AEC49883C4F3F983BD4E8 /* fitbody_icons.woff in Resources */ = {isa = PBXBuildFile; fileRef = FAC51F1A313942749F148139 /* fitbody_icons.woff */; };
+		A9EB3C5CDF3047969C53F33E /* OpenSans-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 99A3DD6BDBC944E3881F2E7B /* OpenSans-BoldItalic.ttf */; };
+		AE7C050EE158469B84A9E52E /* OpenSans-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B7116BA083614AC7AFE66AF0 /* OpenSans-Italic.ttf */; };
+		B2FF969193904B64B7E1BE8D /* OpenSans.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7C3E5A1122F54D9498F98992 /* OpenSans.ttf */; };
+		C5B62669982F4B4983CEA68D /* OpenSans-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2EE1D3FF3EEF41249FE2480E /* OpenSans-Light.ttf */; };
+		C8D0517410A944A59023BE5B /* BebasNeue.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 03428F338FE749219941E1C6 /* BebasNeue.ttf */; };
+		D0D44936C38C7F38CB46BF55 /* ExpoModulesProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9780C1B2DB4ED1C89E0DC6E /* ExpoModulesProvider.swift */; };
+		DD8D75AF17D341CE8250BFDF /* Strawberry Blossom.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FCFCCB4A59AC405CBE1A7A15 /* Strawberry Blossom.ttf */; };
+		DE3671DB30684295893F8218 /* fitbody_icons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DA0D580AE8554E808D467791 /* fitbody_icons.ttf */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		008F07F21AC5B25A0029DE68 /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = main.jsbundle; sourceTree = "<group>"; };
+		03428F338FE749219941E1C6 /* BebasNeue.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = BebasNeue.ttf; path = ../assets/fonts/BebasNeue.ttf; sourceTree = "<group>"; };
+		0E4606F9BF314F4FAFA462F1 /* Feather.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Feather.ttf; path = "../node_modules/native-base/Fonts/Feather.ttf"; sourceTree = "<group>"; };
+		0F53895B921745ECADF63F38 /* Roboto.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Roboto.ttf; path = "../node_modules/native-base/Fonts/Roboto.ttf"; sourceTree = "<group>"; };
+		13B07F961A680F5B00A75B9A /* BodyLove.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BodyLove.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = fitbody/AppDelegate.h; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = fitbody/AppDelegate.mm; sourceTree = "<group>"; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = fitbody/Images.xcassets; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = fitbody/Info.plist; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = fitbody/main.m; sourceTree = "<group>"; };
+		1562E19FF0904B86A931812C /* Roboto_medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Roboto_medium.ttf; path = "../node_modules/native-base/Fonts/Roboto_medium.ttf"; sourceTree = "<group>"; };
+		1817243627F76A2D00E597F6 /* fitbody BETARelease.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "fitbody BETARelease.entitlements"; sourceTree = "<group>"; };
+		18255B10290305C3005F693E /* RCTAudioDuckingModule.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RCTAudioDuckingModule.h; sourceTree = "<group>"; };
+		18255B1129030661005F693E /* RCTAudioDuckingModule.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RCTAudioDuckingModule.m; sourceTree = "<group>"; };
+		18255B1429030740005F693E /* AudioDucking.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioDucking.swift; sourceTree = "<group>"; };
+		1838993C27FB795600D7CF7C /* fitbody-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "fitbody-Info.plist"; sourceTree = "<group>"; };
+		187743702704F1C90040A8E5 /* fitbody-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "fitbody-Bridging-Header.h"; sourceTree = "<group>"; };
+		187743712704F1C90040A8E5 /* fitbody BETA-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "fitbody BETA-Bridging-Header.h"; sourceTree = "<group>"; };
+		187743722704F1CA0040A8E5 /* Void.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Void.swift; sourceTree = "<group>"; };
+		18A67BCD27F4D0A7007B4B2C /* Expo.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; name = Expo.plist; path = fitbody/Supporting/Expo.plist; sourceTree = SOURCE_ROOT; };
+		18B983AA29AEF53E00E538DE /* libReact-hermes.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = "libReact-hermes.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		18B983AC29AEF54D00E538DE /* libReact-hermes.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = "libReact-hermes.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		18B983AE29AF8DC300E538DE /* hermes.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = hermes.xcframework; path = "Pods/hermes-engine/destroot/Library/Frameworks/universal/hermes.xcframework"; sourceTree = "<group>"; };
+		18CAEF4D27A08B2E0093BAE6 /* Configuration.storekit */ = {isa = PBXFileReference; lastKnownFileType = text; path = Configuration.storekit; sourceTree = "<group>"; };
+		18CAEF5127A1E4780093BAE6 /* StoreKitTestCertificate.cer */ = {isa = PBXFileReference; lastKnownFileType = file; path = StoreKitTestCertificate.cer; sourceTree = "<group>"; };
+		18EDD51529AEBA4A00CBA2B8 /* libPods-fitbody.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = "libPods-fitbody.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		18EDD51729AEBA5900CBA2B8 /* libPods-fitbody BETA.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = "libPods-fitbody BETA.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1A75080FA3DB432D933BC8C7 /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = SimpleLineIcons.ttf; path = "../node_modules/native-base/Fonts/SimpleLineIcons.ttf"; sourceTree = "<group>"; };
+		23D14612ACB040CBB472184A /* Foundation.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Foundation.ttf; path = "../node_modules/native-base/Fonts/Foundation.ttf"; sourceTree = "<group>"; };
+		244B4D7FF7837427B9700B05 /* libPods-fitbody.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-fitbody.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2C9A2481582E4400ADF40178 /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialCommunityIcons.ttf; path = "../node_modules/native-base/Fonts/MaterialCommunityIcons.ttf"; sourceTree = "<group>"; };
+		2EE1D3FF3EEF41249FE2480E /* OpenSans-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "OpenSans-Light.ttf"; path = "../assets/fonts/OpenSans-Light.ttf"; sourceTree = "<group>"; };
+		3529C0AD568848BEA79DDE43 /* OpenSans-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "OpenSans-Bold.ttf"; path = "../assets/fonts/OpenSans-Bold.ttf"; sourceTree = "<group>"; };
+		352A029673D2476F9B4DAA2D /* Octicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Octicons.ttf; path = "../node_modules/native-base/Fonts/Octicons.ttf"; sourceTree = "<group>"; };
+		3B34B7592565429A00F8952B /* iAd.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = iAd.framework; path = System/Library/Frameworks/iAd.framework; sourceTree = SDKROOT; };
+		3B34B75B256542A400F8952B /* AdSupport.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AdSupport.framework; path = System/Library/Frameworks/AdSupport.framework; sourceTree = SDKROOT; };
+		3B79A113260C150600587F6B /* fitbody BETA.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "fitbody BETA.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3B8CA6F52554B2A30098F23C /* Ionicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Ionicons.ttf; path = ../assets/fonts/Ionicons.ttf; sourceTree = "<group>"; };
+		3B8CA91B2557F9EE0098F23C /* trainers.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; name = trainers.zip; path = ../assets/trainers.zip; sourceTree = "<group>"; };
+		3BB8201B253E54410076C193 /* JustLovely.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = JustLovely.ttf; path = ../assets/fonts/JustLovely.ttf; sourceTree = "<group>"; };
+		3BE6F6F62482C150003C52DD /* fitbody.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; name = fitbody.entitlements; path = fitbody/fitbody.entitlements; sourceTree = "<group>"; };
+		3BF92DE9243149CD0041B5D9 /* BootSplash.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = BootSplash.storyboard; sourceTree = "<group>"; };
+		4381B4B16AB64DD9B97752C3 /* OpenSans-SemiBoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "OpenSans-SemiBoldItalic.ttf"; path = "../assets/fonts/OpenSans-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
+		4C6B233781E08D1D777FA4F7 /* ExpoModulesProvider.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ExpoModulesProvider.swift; path = "Pods/Target Support Files/Pods-fitbody/ExpoModulesProvider.swift"; sourceTree = "<group>"; };
+		56C006E82DA1479EAEA96FF7 /* OpenSans-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "OpenSans-SemiBold.ttf"; path = "../assets/fonts/OpenSans-SemiBold.ttf"; sourceTree = "<group>"; };
+		57960E98AF16458BA88DB294 /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Regular.ttf; path = "../node_modules/native-base/Fonts/FontAwesome5_Regular.ttf"; sourceTree = "<group>"; };
+		63CC35EEA95B4C72B3DABDA8 /* Fontisto.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Fontisto.ttf; path = "../node_modules/native-base/Fonts/Fontisto.ttf"; sourceTree = "<group>"; };
+		640B0310175542B1A7F4FA43 /* OpenSans-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "OpenSans-ExtraBold.ttf"; path = "../assets/fonts/OpenSans-ExtraBold.ttf"; sourceTree = "<group>"; };
+		682EDD598068B29E53D76DF3 /* Pods-fitbody BETA.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-fitbody BETA.debug.xcconfig"; path = "Target Support Files/Pods-fitbody BETA/Pods-fitbody BETA.debug.xcconfig"; sourceTree = "<group>"; };
+		698F26A510A24E3BAF49CC1A /* Entypo.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Entypo.ttf; path = "../node_modules/native-base/Fonts/Entypo.ttf"; sourceTree = "<group>"; };
+		6B5359B1E97C41F688FCE4ED /* libz.tbd */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libz.tbd; path = usr/lib/libz.tbd; sourceTree = SDKROOT; };
+		6BBC2D6A4BE24F4EBAB143A6 /* OpenSans-Semibold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "OpenSans-Semibold.ttf"; path = "../assets/fonts/OpenSans-Semibold.ttf"; sourceTree = "<group>"; };
+		6D409FB9F2A84EC5B87BD388 /* fitbody_icons.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = fitbody_icons.svg; path = ../assets/fonts/fitbody_icons.svg; sourceTree = "<group>"; };
+		6FEDD6D394F6409EB0B2F06D /* BebasNeue-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "BebasNeue-Regular.ttf"; path = "../assets/fonts/BebasNeue-Regular.ttf"; sourceTree = "<group>"; };
+		7C3E5A1122F54D9498F98992 /* OpenSans.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = OpenSans.ttf; path = ../assets/fonts/OpenSans.ttf; sourceTree = "<group>"; };
+		7CDD7A8C28194C1BB734F6ED /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Solid.ttf; path = "../node_modules/native-base/Fonts/FontAwesome5_Solid.ttf"; sourceTree = "<group>"; };
+		82BF8E15DE7843B2862474F3 /* FontAwesome.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome.ttf; path = "../node_modules/native-base/Fonts/FontAwesome.ttf"; sourceTree = "<group>"; };
+		8322C0A20419480C83736606 /* OpenSans-SemiboldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "OpenSans-SemiboldItalic.ttf"; path = "../assets/fonts/OpenSans-SemiboldItalic.ttf"; sourceTree = "<group>"; };
+		99A3DD6BDBC944E3881F2E7B /* OpenSans-BoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "OpenSans-BoldItalic.ttf"; path = "../assets/fonts/OpenSans-BoldItalic.ttf"; sourceTree = "<group>"; };
+		9D762D01511842E59C23B470 /* OpenSans-LightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "OpenSans-LightItalic.ttf"; path = "../assets/fonts/OpenSans-LightItalic.ttf"; sourceTree = "<group>"; };
+		ADEAFF42853B447A8A2049D8 /* MaterialIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialIcons.ttf; path = "../node_modules/native-base/Fonts/MaterialIcons.ttf"; sourceTree = "<group>"; };
+		B7116BA083614AC7AFE66AF0 /* OpenSans-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "OpenSans-Italic.ttf"; path = "../assets/fonts/OpenSans-Italic.ttf"; sourceTree = "<group>"; };
+		B9780C1B2DB4ED1C89E0DC6E /* ExpoModulesProvider.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ExpoModulesProvider.swift; path = "Pods/Target Support Files/Pods-fitbody BETA/ExpoModulesProvider.swift"; sourceTree = "<group>"; };
+		C1F730792B544FF7905A2367 /* AntDesign.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = AntDesign.ttf; path = "../node_modules/native-base/Fonts/AntDesign.ttf"; sourceTree = "<group>"; };
+		C544745FBA4DABFE063E4193 /* Pods-fitbody.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-fitbody.release.xcconfig"; path = "Target Support Files/Pods-fitbody/Pods-fitbody.release.xcconfig"; sourceTree = "<group>"; };
+		CB049934CD2F4770AFE77560 /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Brands.ttf; path = "../node_modules/native-base/Fonts/FontAwesome5_Brands.ttf"; sourceTree = "<group>"; };
+		CF3609EECE1A2B3B1C3C7AAB /* Pods-fitbody.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-fitbody.debug.xcconfig"; path = "Target Support Files/Pods-fitbody/Pods-fitbody.debug.xcconfig"; sourceTree = "<group>"; };
+		D0F437955B0D48DE8051BE7C /* rubicon-icon-font.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "rubicon-icon-font.ttf"; path = "../node_modules/native-base/Fonts/rubicon-icon-font.ttf"; sourceTree = "<group>"; };
+		D63B50803C15437199787776 /* EvilIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = EvilIcons.ttf; path = "../node_modules/native-base/Fonts/EvilIcons.ttf"; sourceTree = "<group>"; };
+		D77C6CCC5549E7CD909E9BA9 /* Instabug.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Instabug.framework; path = "../node_modules/instabug-reactnative/ios/Instabug.framework"; sourceTree = "<group>"; };
+		DA0D580AE8554E808D467791 /* fitbody_icons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = fitbody_icons.ttf; path = ../assets/fonts/fitbody_icons.ttf; sourceTree = "<group>"; };
+		EAE5A5EBA61748C3A280CB41 /* OpenSans-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "OpenSans-ExtraBoldItalic.ttf"; path = "../assets/fonts/OpenSans-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
+		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
+		EE7DBFB737DBB5B85EABA612 /* Pods-fitbody BETA.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-fitbody BETA.release.xcconfig"; path = "Target Support Files/Pods-fitbody BETA/Pods-fitbody BETA.release.xcconfig"; sourceTree = "<group>"; };
+		EF50AF561962140BB8444F88 /* libPods-fitbody BETA.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-fitbody BETA.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F664479E80244FA6A5C3DB1C /* Zocial.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Zocial.ttf; path = "../node_modules/native-base/Fonts/Zocial.ttf"; sourceTree = "<group>"; };
+		FAC51F1A313942749F148139 /* fitbody_icons.woff */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = fitbody_icons.woff; path = ../assets/fonts/fitbody_icons.woff; sourceTree = "<group>"; };
+		FCFCCB4A59AC405CBE1A7A15 /* Strawberry Blossom.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Strawberry Blossom.ttf"; path = "../assets/fonts/Strawberry Blossom.ttf"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		13B07F8C1A680F5B00A75B9A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3B34B75C256542A400F8952B /* AdSupport.framework in Frameworks */,
+				989DFBC8E53743248D9619F4 /* libz.tbd in Frameworks */,
+				3B34B75A2565429A00F8952B /* iAd.framework in Frameworks */,
+				18EDD51629AEBA4A00CBA2B8 /* libPods-fitbody.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3B79A0DD260C150600587F6B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				18EDD51829AEBA5900CBA2B8 /* libPods-fitbody BETA.a in Frameworks */,
+				3B79A0DF260C150600587F6B /* AdSupport.framework in Frameworks */,
+				3B79A0E0260C150600587F6B /* libz.tbd in Frameworks */,
+				3B79A0E2260C150600587F6B /* iAd.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		13B07FAE1A68108700A75B9A /* fitbody */ = {
+			isa = PBXGroup;
+			children = (
+				18255B0E29030537005F693E /* NativeModules */,
+				18EE649427F4AB640074F64D /* Supporting */,
+				3BE6F6F62482C150003C52DD /* fitbody.entitlements */,
+				008F07F21AC5B25A0029DE68 /* main.jsbundle */,
+				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
+				13B07FB01A68108700A75B9A /* AppDelegate.mm */,
+				13B07FB51A68108700A75B9A /* Images.xcassets */,
+				13B07FB61A68108700A75B9A /* Info.plist */,
+				13B07FB71A68108700A75B9A /* main.m */,
+				3BF92DE9243149CD0041B5D9 /* BootSplash.storyboard */,
+				187743722704F1CA0040A8E5 /* Void.swift */,
+				187743702704F1C90040A8E5 /* fitbody-Bridging-Header.h */,
+				187743712704F1C90040A8E5 /* fitbody BETA-Bridging-Header.h */,
+			);
+			name = fitbody;
+			sourceTree = "<group>";
+		};
+		18255B0E29030537005F693E /* NativeModules */ = {
+			isa = PBXGroup;
+			children = (
+				18255B0F2903055E005F693E /* RN-Audio-Ducking */,
+			);
+			path = NativeModules;
+			sourceTree = "<group>";
+		};
+		18255B0F2903055E005F693E /* RN-Audio-Ducking */ = {
+			isa = PBXGroup;
+			children = (
+				18255B10290305C3005F693E /* RCTAudioDuckingModule.h */,
+				18255B1129030661005F693E /* RCTAudioDuckingModule.m */,
+				18255B1429030740005F693E /* AudioDucking.swift */,
+			);
+			path = "RN-Audio-Ducking";
+			sourceTree = "<group>";
+		};
+		18CAEF5027A08B380093BAE6 /* Storekit */ = {
+			isa = PBXGroup;
+			children = (
+				18CAEF4D27A08B2E0093BAE6 /* Configuration.storekit */,
+				18CAEF5127A1E4780093BAE6 /* StoreKitTestCertificate.cer */,
+			);
+			name = Storekit;
+			sourceTree = "<group>";
+		};
+		18EE649427F4AB640074F64D /* Supporting */ = {
+			isa = PBXGroup;
+			children = (
+				18A67BCD27F4D0A7007B4B2C /* Expo.plist */,
+			);
+			path = Supporting;
+			sourceTree = "<group>";
+		};
+		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				18B983AE29AF8DC300E538DE /* hermes.xcframework */,
+				18B983AC29AEF54D00E538DE /* libReact-hermes.a */,
+				18B983AA29AEF53E00E538DE /* libReact-hermes.a */,
+				18EDD51729AEBA5900CBA2B8 /* libPods-fitbody BETA.a */,
+				18EDD51529AEBA4A00CBA2B8 /* libPods-fitbody.a */,
+				3B34B75B256542A400F8952B /* AdSupport.framework */,
+				3B34B7592565429A00F8952B /* iAd.framework */,
+				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
+				ED2971642150620600B7C4FE /* JavaScriptCore.framework */,
+				D77C6CCC5549E7CD909E9BA9 /* Instabug.framework */,
+				6B5359B1E97C41F688FCE4ED /* libz.tbd */,
+				244B4D7FF7837427B9700B05 /* libPods-fitbody.a */,
+				EF50AF561962140BB8444F88 /* libPods-fitbody BETA.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		32ACA6640059CAA027B0BDC5 /* ExpoModulesProviders */ = {
+			isa = PBXGroup;
+			children = (
+				9C7E9F1EF08B39CF467F6533 /* fitbody */,
+				5CD63A5F0308CFAF6A75DFF3 /* fitbody BETA */,
+			);
+			name = ExpoModulesProviders;
+			sourceTree = "<group>";
+		};
+		5CD63A5F0308CFAF6A75DFF3 /* fitbody BETA */ = {
+			isa = PBXGroup;
+			children = (
+				B9780C1B2DB4ED1C89E0DC6E /* ExpoModulesProvider.swift */,
+			);
+			name = "fitbody BETA";
+			sourceTree = "<group>";
+		};
+		61F2796B307543398933861D /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				3B8CA91B2557F9EE0098F23C /* trainers.zip */,
+				3BB8201B253E54410076C193 /* JustLovely.ttf */,
+				6D409FB9F2A84EC5B87BD388 /* fitbody_icons.svg */,
+				6FEDD6D394F6409EB0B2F06D /* BebasNeue-Regular.ttf */,
+				DA0D580AE8554E808D467791 /* fitbody_icons.ttf */,
+				FAC51F1A313942749F148139 /* fitbody_icons.woff */,
+				3529C0AD568848BEA79DDE43 /* OpenSans-Bold.ttf */,
+				99A3DD6BDBC944E3881F2E7B /* OpenSans-BoldItalic.ttf */,
+				640B0310175542B1A7F4FA43 /* OpenSans-ExtraBold.ttf */,
+				EAE5A5EBA61748C3A280CB41 /* OpenSans-ExtraBoldItalic.ttf */,
+				B7116BA083614AC7AFE66AF0 /* OpenSans-Italic.ttf */,
+				2EE1D3FF3EEF41249FE2480E /* OpenSans-Light.ttf */,
+				9D762D01511842E59C23B470 /* OpenSans-LightItalic.ttf */,
+				3B8CA6F52554B2A30098F23C /* Ionicons.ttf */,
+				56C006E82DA1479EAEA96FF7 /* OpenSans-SemiBold.ttf */,
+				4381B4B16AB64DD9B97752C3 /* OpenSans-SemiBoldItalic.ttf */,
+				FCFCCB4A59AC405CBE1A7A15 /* Strawberry Blossom.ttf */,
+				C1F730792B544FF7905A2367 /* AntDesign.ttf */,
+				698F26A510A24E3BAF49CC1A /* Entypo.ttf */,
+				D63B50803C15437199787776 /* EvilIcons.ttf */,
+				0E4606F9BF314F4FAFA462F1 /* Feather.ttf */,
+				82BF8E15DE7843B2862474F3 /* FontAwesome.ttf */,
+				CB049934CD2F4770AFE77560 /* FontAwesome5_Brands.ttf */,
+				57960E98AF16458BA88DB294 /* FontAwesome5_Regular.ttf */,
+				7CDD7A8C28194C1BB734F6ED /* FontAwesome5_Solid.ttf */,
+				63CC35EEA95B4C72B3DABDA8 /* Fontisto.ttf */,
+				23D14612ACB040CBB472184A /* Foundation.ttf */,
+				2C9A2481582E4400ADF40178 /* MaterialCommunityIcons.ttf */,
+				ADEAFF42853B447A8A2049D8 /* MaterialIcons.ttf */,
+				352A029673D2476F9B4DAA2D /* Octicons.ttf */,
+				1562E19FF0904B86A931812C /* Roboto_medium.ttf */,
+				0F53895B921745ECADF63F38 /* Roboto.ttf */,
+				D0F437955B0D48DE8051BE7C /* rubicon-icon-font.ttf */,
+				1A75080FA3DB432D933BC8C7 /* SimpleLineIcons.ttf */,
+				F664479E80244FA6A5C3DB1C /* Zocial.ttf */,
+				7C3E5A1122F54D9498F98992 /* OpenSans.ttf */,
+				03428F338FE749219941E1C6 /* BebasNeue.ttf */,
+				6BBC2D6A4BE24F4EBAB143A6 /* OpenSans-Semibold.ttf */,
+				8322C0A20419480C83736606 /* OpenSans-SemiboldItalic.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		7218CE01B3C6BDD094099118 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				CF3609EECE1A2B3B1C3C7AAB /* Pods-fitbody.debug.xcconfig */,
+				C544745FBA4DABFE063E4193 /* Pods-fitbody.release.xcconfig */,
+				682EDD598068B29E53D76DF3 /* Pods-fitbody BETA.debug.xcconfig */,
+				EE7DBFB737DBB5B85EABA612 /* Pods-fitbody BETA.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Libraries;
+			sourceTree = "<group>";
+		};
+		83CBB9F61A601CBA00E9B192 = {
+			isa = PBXGroup;
+			children = (
+				1817243627F76A2D00E597F6 /* fitbody BETARelease.entitlements */,
+				18CAEF5027A08B380093BAE6 /* Storekit */,
+				13B07FAE1A68108700A75B9A /* fitbody */,
+				832341AE1AAA6A7D00B99B32 /* Libraries */,
+				83CBBA001A601CBA00E9B192 /* Products */,
+				2D16E6871FA4F8E400B85C8A /* Frameworks */,
+				7218CE01B3C6BDD094099118 /* Pods */,
+				61F2796B307543398933861D /* Resources */,
+				1838993C27FB795600D7CF7C /* fitbody-Info.plist */,
+				32ACA6640059CAA027B0BDC5 /* ExpoModulesProviders */,
+			);
+			indentWidth = 2;
+			sourceTree = "<group>";
+			tabWidth = 2;
+			usesTabs = 0;
+		};
+		83CBBA001A601CBA00E9B192 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				13B07F961A680F5B00A75B9A /* BodyLove.app */,
+				3B79A113260C150600587F6B /* fitbody BETA.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		9C7E9F1EF08B39CF467F6533 /* fitbody */ = {
+			isa = PBXGroup;
+			children = (
+				4C6B233781E08D1D777FA4F7 /* ExpoModulesProvider.swift */,
+			);
+			name = fitbody;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		13B07F861A680F5B00A75B9A /* fitbody */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "fitbody" */;
+			buildPhases = (
+				CB5071C720C2984F66190E54 /* [CP] Check Pods Manifest.lock */,
+				FD10A7F022414F080027D42C /* Start Packager */,
+				13B07F871A680F5B00A75B9A /* Sources */,
+				13B07F8C1A680F5B00A75B9A /* Frameworks */,
+				13B07F8E1A680F5B00A75B9A /* Resources */,
+				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
+				1972E9DD27D03CFCC16AE44A /* Upload Sourcemap */,
+				9805C4645EF949C897EA3842 /* Upload Debug Symbols to Sentry */,
+				1C540923911B0AE88960857C /* [CP] Copy Pods Resources */,
+				E26C7A888B21AA17DF260E27 /* [CP] Embed Pods Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = fitbody;
+			productName = fitbody;
+			productReference = 13B07F961A680F5B00A75B9A /* BodyLove.app */;
+			productType = "com.apple.product-type.application";
+		};
+		3B79A0D7260C150600587F6B /* fitbody BETA */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3B79A110260C150600587F6B /* Build configuration list for PBXNativeTarget "fitbody BETA" */;
+			buildPhases = (
+				C44E703B206CE5A4ABF81193 /* [CP] Check Pods Manifest.lock */,
+				3B79A0D9260C150600587F6B /* Start Packager */,
+				3B79A0DA260C150600587F6B /* Sources */,
+				3B79A0DD260C150600587F6B /* Frameworks */,
+				3B79A0E4260C150600587F6B /* Resources */,
+				3B79A10B260C150600587F6B /* Bundle React Native code and images */,
+				3B79A10D260C150600587F6B /* Upload Sourcemap */,
+				3B79A10F260C150600587F6B /* Upload Debug Symbols to Sentry */,
+				A7016CCBF628CF21767674A0 /* [CP] Copy Pods Resources */,
+				67D897368D3AC7B8AFAB2E67 /* [CP] Embed Pods Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "fitbody BETA";
+			productName = fitbody;
+			productReference = 3B79A113260C150600587F6B /* fitbody BETA.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		83CBB9F71A601CBA00E9B192 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1130;
+				TargetAttributes = {
+					13B07F861A680F5B00A75B9A = {
+						DevelopmentTeam = 6GHK722CX4;
+						LastSwiftMigration = 1300;
+						ProvisioningStyle = Automatic;
+					};
+					3B79A0D7260C150600587F6B = {
+						DevelopmentTeam = 6GHK722CX4;
+						LastSwiftMigration = 1300;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "fitbody" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 83CBB9F61A601CBA00E9B192;
+			productRefGroup = 83CBBA001A601CBA00E9B192 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				13B07F861A680F5B00A75B9A /* fitbody */,
+				3B79A0D7260C150600587F6B /* fitbody BETA */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		13B07F8E1A680F5B00A75B9A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				74FDA346878046E08D76F064 /* fitbody_icons.svg in Resources */,
+				DE3671DB30684295893F8218 /* fitbody_icons.ttf in Resources */,
+				9B0AEC49883C4F3F983BD4E8 /* fitbody_icons.woff in Resources */,
+				8E96F4783DB947CDA33CFF41 /* OpenSans-Bold.ttf in Resources */,
+				A9EB3C5CDF3047969C53F33E /* OpenSans-BoldItalic.ttf in Resources */,
+				86680007A6414B01B45A7E86 /* OpenSans-ExtraBold.ttf in Resources */,
+				1E6DD639E50B4F4881DF25BE /* OpenSans-ExtraBoldItalic.ttf in Resources */,
+				3BB8201C253E54410076C193 /* JustLovely.ttf in Resources */,
+				AE7C050EE158469B84A9E52E /* OpenSans-Italic.ttf in Resources */,
+				C5B62669982F4B4983CEA68D /* OpenSans-Light.ttf in Resources */,
+				6C9C3A2A2507411CB560E345 /* OpenSans-LightItalic.ttf in Resources */,
+				DD8D75AF17D341CE8250BFDF /* Strawberry Blossom.ttf in Resources */,
+				3B8CA6F62554B2A30098F23C /* Ionicons.ttf in Resources */,
+				3BF92DEA243149CD0041B5D9 /* BootSplash.storyboard in Resources */,
+				18A67BCE27F4D0A7007B4B2C /* Expo.plist in Resources */,
+				18CAEF4E27A08B2E0093BAE6 /* Configuration.storekit in Resources */,
+				B2FF969193904B64B7E1BE8D /* OpenSans.ttf in Resources */,
+				18CAEF5227A1E4780093BAE6 /* StoreKitTestCertificate.cer in Resources */,
+				C8D0517410A944A59023BE5B /* BebasNeue.ttf in Resources */,
+				2B044486E7EE4EF79B815803 /* OpenSans-Semibold.ttf in Resources */,
+				11988A601A424991804BB1A2 /* OpenSans-SemiboldItalic.ttf in Resources */,
+				3B8CA91C2557F9EE0098F23C /* trainers.zip in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3B79A0E4260C150600587F6B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3B79A0E5260C150600587F6B /* Images.xcassets in Resources */,
+				3B79A0E6260C150600587F6B /* fitbody_icons.svg in Resources */,
+				3B79A0E7260C150600587F6B /* fitbody_icons.ttf in Resources */,
+				3B79A0E8260C150600587F6B /* fitbody_icons.woff in Resources */,
+				3B79A0E9260C150600587F6B /* OpenSans-Bold.ttf in Resources */,
+				3B79A0EA260C150600587F6B /* OpenSans-BoldItalic.ttf in Resources */,
+				3B79A0EB260C150600587F6B /* OpenSans-ExtraBold.ttf in Resources */,
+				3B79A0EC260C150600587F6B /* OpenSans-ExtraBoldItalic.ttf in Resources */,
+				3B79A0ED260C150600587F6B /* JustLovely.ttf in Resources */,
+				3B79A0EE260C150600587F6B /* OpenSans-Italic.ttf in Resources */,
+				3B79A0EF260C150600587F6B /* OpenSans-Light.ttf in Resources */,
+				3B79A0F0260C150600587F6B /* OpenSans-LightItalic.ttf in Resources */,
+				3B79A0F1260C150600587F6B /* Strawberry Blossom.ttf in Resources */,
+				3B79A0F6260C150600587F6B /* Ionicons.ttf in Resources */,
+				3B79A0FA260C150600587F6B /* BootSplash.storyboard in Resources */,
+				18A67BCF27F4D0A7007B4B2C /* Expo.plist in Resources */,
+				18CAEF4F27A08B2E0093BAE6 /* Configuration.storekit in Resources */,
+				3B79A106260C150600587F6B /* OpenSans.ttf in Resources */,
+				18CAEF5327A1E4780093BAE6 /* StoreKitTestCertificate.cer in Resources */,
+				3B79A107260C150600587F6B /* BebasNeue.ttf in Resources */,
+				3B79A108260C150600587F6B /* OpenSans-Semibold.ttf in Resources */,
+				3B79A109260C150600587F6B /* OpenSans-SemiboldItalic.ttf in Resources */,
+				3B79A10A260C150600587F6B /* trainers.zip in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Bundle React Native code and images";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "export SENTRY_PROPERTIES=sentry.properties\nexport NODE_BINARY=node\n../node_modules/@sentry/cli/bin/sentry-cli react-native xcode ../node_modules/react-native/scripts/react-native-xcode.sh\n";
+		};
+		1972E9DD27D03CFCC16AE44A /* Upload Sourcemap */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			name = "Upload Sourcemap";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+			shellPath = /bin/sh;
+			shellScript = "\n";
+		};
+		1C540923911B0AE88960857C /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-fitbody/Pods-fitbody-resources.sh",
+				"${PODS_CONFIGURATION_BUILD_DIR}/EXConstants/EXConstants.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/EXUpdates/EXUpdates.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/RNImageCropPicker/QBImagePicker.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/TOCropViewController/TOCropViewControllerBundle.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/expo-dev-launcher/EXDevLauncher.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/expo-dev-menu/EXDevMenu.bundle",
+				"${PODS_ROOT}/google-cast-sdk-no-bluetooth/GoogleCastSDK-ios-4.7.0_static/GoogleCast.framework/GoogleCastCoreResources.bundle",
+				"${PODS_ROOT}/google-cast-sdk-no-bluetooth/GoogleCastSDK-ios-4.7.0_static/GoogleCast.framework/GoogleCastUIResources.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/react-native-image-filter-kit/bundle.bundle",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/EXConstants.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/EXUpdates.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/QBImagePicker.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AccessibilityResources.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/TOCropViewControllerBundle.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/EXDevLauncher.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/EXDevMenu.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GoogleCastCoreResources.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GoogleCastUIResources.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/bundle.bundle",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-fitbody/Pods-fitbody-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		3B79A0D9260C150600587F6B /* Start Packager */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			name = "Start Packager";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "export RCT_METRO_PORT=\"${RCT_METRO_PORT:=8081}\"\necho \"export RCT_METRO_PORT=${RCT_METRO_PORT}\" > \"${SRCROOT}/../node_modules/react-native/scripts/.packager.env\"\nif [ -z \"${RCT_NO_LAUNCH_PACKAGER+xxx}\" ] ; then\n if nc -w 5 -z localhost ${RCT_METRO_PORT} ; then\n  if ! curl -s \"http://localhost:${RCT_METRO_PORT}/status\" | grep -q \"packager-status:running\" ; then\n   echo \"Port ${RCT_METRO_PORT} already in use, packager is either not running or not running correctly\"\n   exit 2\n  fi\n else\n  open \"$SRCROOT/../node_modules/react-native/scripts/launchPackager.command\" || echo \"Can't start packager automatically\"\n fi\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		3B79A10B260C150600587F6B /* Bundle React Native code and images */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Bundle React Native code and images";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "export SENTRY_PROPERTIES=sentry.properties\nexport NODE_BINARY=node\n../node_modules/@sentry/cli/bin/sentry-cli react-native xcode ../node_modules/react-native/scripts/react-native-xcode.sh\n";
+		};
+		3B79A10D260C150600587F6B /* Upload Sourcemap */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			name = "Upload Sourcemap";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+			shellPath = /bin/sh;
+			shellScript = "\n";
+		};
+		3B79A10F260C150600587F6B /* Upload Debug Symbols to Sentry */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Upload Debug Symbols to Sentry";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "export SENTRY_PROPERTIES=sentry.properties\n../node_modules/@sentry/cli/bin/sentry-cli upload-dsym\n";
+		};
+		67D897368D3AC7B8AFAB2E67 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-fitbody BETA/Pods-fitbody BETA-frameworks.sh",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/Flipper-DoubleConversion/double-conversion.framework/double-conversion",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/Flipper-Glog/glog.framework/glog",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/OpenSSL-Universal/OpenSSL.framework/OpenSSL",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/hermes-engine/hermes.framework/hermes",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/double-conversion.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/glog.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/OpenSSL.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/hermes.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-fitbody BETA/Pods-fitbody BETA-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		9805C4645EF949C897EA3842 /* Upload Debug Symbols to Sentry */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Upload Debug Symbols to Sentry";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "export SENTRY_PROPERTIES=sentry.properties\n../node_modules/@sentry/cli/bin/sentry-cli upload-dsym\n";
+		};
+		A7016CCBF628CF21767674A0 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-fitbody BETA/Pods-fitbody BETA-resources.sh",
+				"${PODS_CONFIGURATION_BUILD_DIR}/EXConstants/EXConstants.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/EXUpdates/EXUpdates.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/RNImageCropPicker/QBImagePicker.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/TOCropViewController/TOCropViewControllerBundle.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/expo-dev-launcher/EXDevLauncher.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/expo-dev-menu/EXDevMenu.bundle",
+				"${PODS_ROOT}/google-cast-sdk-no-bluetooth/GoogleCastSDK-ios-4.7.0_static/GoogleCast.framework/GoogleCastCoreResources.bundle",
+				"${PODS_ROOT}/google-cast-sdk-no-bluetooth/GoogleCastSDK-ios-4.7.0_static/GoogleCast.framework/GoogleCastUIResources.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/react-native-image-filter-kit/bundle.bundle",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/EXConstants.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/EXUpdates.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/QBImagePicker.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AccessibilityResources.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/TOCropViewControllerBundle.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/EXDevLauncher.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/EXDevMenu.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GoogleCastCoreResources.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GoogleCastUIResources.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/bundle.bundle",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-fitbody BETA/Pods-fitbody BETA-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C44E703B206CE5A4ABF81193 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-fitbody BETA-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		CB5071C720C2984F66190E54 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-fitbody-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		E26C7A888B21AA17DF260E27 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-fitbody/Pods-fitbody-frameworks.sh",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/Flipper-DoubleConversion/double-conversion.framework/double-conversion",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/Flipper-Glog/glog.framework/glog",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/OpenSSL-Universal/OpenSSL.framework/OpenSSL",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/hermes-engine/hermes.framework/hermes",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/double-conversion.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/glog.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/OpenSSL.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/hermes.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-fitbody/Pods-fitbody-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		FD10A7F022414F080027D42C /* Start Packager */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			name = "Start Packager";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "export RCT_METRO_PORT=\"${RCT_METRO_PORT:=8081}\"\necho \"export RCT_METRO_PORT=${RCT_METRO_PORT}\" > \"${SRCROOT}/../node_modules/react-native/scripts/.packager.env\"\nif [ -z \"${RCT_NO_LAUNCH_PACKAGER+xxx}\" ] ; then\n  if nc -w 5 -z localhost ${RCT_METRO_PORT} ; then\n    if ! curl -s \"http://localhost:${RCT_METRO_PORT}/status\" | grep -q \"packager-status:running\" ; then\n      echo \"Port ${RCT_METRO_PORT} already in use, packager is either not running or not running correctly\"\n      exit 2\n    fi\n  else\n    open \"$SRCROOT/../node_modules/react-native/scripts/launchPackager.command\" || echo \"Can't start packager automatically\"\n  fi\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		13B07F871A680F5B00A75B9A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */,
+				18255B1229030661005F693E /* RCTAudioDuckingModule.m in Sources */,
+				18255B1529030740005F693E /* AudioDucking.swift in Sources */,
+				13B07FC11A68108700A75B9A /* main.m in Sources */,
+				187743732704F1CA0040A8E5 /* Void.swift in Sources */,
+				11EDF49AF54D117BAE59CAAC /* ExpoModulesProvider.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3B79A0DA260C150600587F6B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3B79A0DB260C150600587F6B /* AppDelegate.mm in Sources */,
+				18255B1329030661005F693E /* RCTAudioDuckingModule.m in Sources */,
+				18255B1629030740005F693E /* AudioDucking.swift in Sources */,
+				3B79A0DC260C150600587F6B /* main.m in Sources */,
+				187743742704F1CA0040A8E5 /* Void.swift in Sources */,
+				D0D44936C38C7F38CB46BF55 /* ExpoModulesProvider.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		13B07F941A680F5B00A75B9A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = CF3609EECE1A2B3B1C3C7AAB /* Pods-fitbody.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon.beta;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = "fitbody/Fit Body.entitlements";
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1714;
+				DEVELOPMENT_TEAM = 6GHK722CX4;
+				ENABLE_BITCODE = NO;
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "arm64 i386";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					"FB_SONARKIT_ENABLED=1",
+				);
+				INFOPLIST_FILE = fitbody/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Fit Body";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.healthcare-fitness";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				MARKETING_VERSION = 4.7.0;
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-ObjC",
+					"-lc++",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -D EXPO_CONFIGURATION_DEBUG";
+				PRODUCT_BUNDLE_IDENTIFIER = com.BodyLoveGroupLLC.BodyLove;
+				PRODUCT_NAME = BodyLove;
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_OBJC_BRIDGING_HEADER = "fitbody-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				VERSIONING_SYSTEM = "apple-generic";
+			};
+			name = Debug;
+		};
+		13B07F951A680F5B00A75B9A /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C544745FBA4DABFE063E4193 /* Pods-fitbody.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon.beta;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = "fitbody/Fit Body.entitlements";
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				CODE_SIGN_STYLE = Manual;
+				CURRENT_PROJECT_VERSION = 1714;
+				DEVELOPMENT_TEAM = 6GHK722CX4;
+				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 6GHK722CX4;
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "arm64 i386";
+				INFOPLIST_FILE = fitbody/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Fit Body";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.healthcare-fitness";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				MARKETING_VERSION = 4.7.0;
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-ObjC",
+					"-lc++",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -D EXPO_CONFIGURATION_RELEASE";
+				PRODUCT_BUNDLE_IDENTIFIER = com.BodyLoveGroupLLC.BodyLove;
+				PRODUCT_NAME = BodyLove;
+				PROVISIONING_PROFILE_SPECIFIER = "*[expo] com.BodyLoveGroupLLC.BodyLove AppStore 2022-04-13T13:34:53.333Z";
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = "*[expo] com.BodyLoveGroupLLC.BodyLove AppStore 2023-01-11T17:46:48.358Z";
+				SWIFT_OBJC_BRIDGING_HEADER = "fitbody-Bridging-Header.h";
+				SWIFT_VERSION = 5.0;
+				VERSIONING_SYSTEM = "apple-generic";
+			};
+			name = Release;
+		};
+		3B79A111260C150600587F6B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 682EDD598068B29E53D76DF3 /* Pods-fitbody BETA.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = "fitbody/Fit Body.entitlements";
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1714;
+				DEVELOPMENT_TEAM = 6GHK722CX4;
+				ENABLE_BITCODE = NO;
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "i386 arm64";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					"FB_SONARKIT_ENABLED=1",
+				);
+				INFOPLIST_FILE = "$(SRCROOT)/fitbody-Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Fit Body";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.healthcare-fitness";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				MARKETING_VERSION = 4.7.0;
+				OTHER_CPLUSPLUSFLAGS = "$(OTHER_CFLAGS)";
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-ObjC",
+					"-lc++",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -D EXPO_CONFIGURATION_DEBUG";
+				PRODUCT_BUNDLE_IDENTIFIER = com.BodyLoveGroupLLC.BodyLove;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_OBJC_BRIDGING_HEADER = "fitbody BETA-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				VERSIONING_SYSTEM = "apple-generic";
+			};
+			name = Debug;
+		};
+		3B79A112260C150600587F6B /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = EE7DBFB737DBB5B85EABA612 /* Pods-fitbody BETA.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = "fitbody BETARelease.entitlements";
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				CODE_SIGN_STYLE = Manual;
+				CURRENT_PROJECT_VERSION = 1714;
+				DEVELOPMENT_TEAM = 6GHK722CX4;
+				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 6GHK722CX4;
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "i386 arm64";
+				INFOPLIST_FILE = "$(SRCROOT)/fitbody-Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Fit Body";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.healthcare-fitness";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				MARKETING_VERSION = 4.7.0;
+				OTHER_CPLUSPLUSFLAGS = "$(OTHER_CFLAGS)";
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-ObjC",
+					"-lc++",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -D EXPO_CONFIGURATION_RELEASE";
+				PRODUCT_BUNDLE_IDENTIFIER = com.BodyLoveGroupLLC.BodyLove;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "*[expo] com.BodyLoveGroupLLC.BodyLove AdHoc 1651166060522";
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = "*[expo] com.BodyLoveGroupLLC.BodyLove AppStore 2023-01-11T17:46:48.358Z";
+				SWIFT_OBJC_BRIDGING_HEADER = "fitbody BETA-Bridging-Header.h";
+				SWIFT_VERSION = 5.0;
+				VERSIONING_SYSTEM = "apple-generic";
+			};
+			name = Release;
+		};
+		83CBBA201A601CBA00E9B192 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "c++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_ENTITLEMENTS = "fitbody/Fit Body.entitlements";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = i386;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = "/usr/lib/swift $(inherited)";
+				LIBRARY_SEARCH_PATHS = (
+					"$(SDKROOT)/usr/lib/swift",
+					"\"$(TOOLCHAIN_DIR)/usr/lib/swift/$(PLATFORM_NAME)\"",
+					"\"$(inherited)\"",
+				);
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		83CBBA211A601CBA00E9B192 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "c++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_ENTITLEMENTS = "fitbody/Fit Body.entitlements";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = i386;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = "/usr/lib/swift $(inherited)";
+				LIBRARY_SEARCH_PATHS = (
+					"$(SDKROOT)/usr/lib/swift",
+					"\"$(TOOLCHAIN_DIR)/usr/lib/swift/$(PLATFORM_NAME)\"",
+					"\"$(inherited)\"",
+				);
+				MTL_ENABLE_DEBUG_INFO = NO;
+				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "fitbody" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				13B07F941A680F5B00A75B9A /* Debug */,
+				13B07F951A680F5B00A75B9A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3B79A110260C150600587F6B /* Build configuration list for PBXNativeTarget "fitbody BETA" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3B79A111260C150600587F6B /* Debug */,
+				3B79A112260C150600587F6B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "fitbody" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				83CBBA201A601CBA00E9B192 /* Debug */,
+				83CBBA211A601CBA00E9B192 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 83CBB9F71A601CBA00E9B192 /* Project object */;
+}

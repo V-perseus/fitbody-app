@@ -1,0 +1,13 @@
+diff --git a/node_modules/@types/redux-sentry-middleware/index.d.ts b/node_modules/@types/redux-sentry-middleware/index.d.ts
+index e5581ae..259bf6d 100755
+--- a/node_modules/@types/redux-sentry-middleware/index.d.ts
++++ b/node_modules/@types/redux-sentry-middleware/index.d.ts
+@@ -5,7 +5,7 @@
+ // TypeScript Version: 3.5
+ 
+ import { Action, Middleware } from "redux";
+-import * as Sentry from "@sentry/browser";
++import * as Sentry from "@sentry/react-native";
+ 
+ declare namespace createSentryMiddleware {
+     interface Options<T> {

@@ -1,0 +1,59 @@
+diff --git a/node_modules/react-native-snap-carousel/src/carousel/Carousel.js b/node_modules/react-native-snap-carousel/src/carousel/Carousel.js
+index dae71a3..0745dc5 100644
+--- a/node_modules/react-native-snap-carousel/src/carousel/Carousel.js
++++ b/node_modules/react-native-snap-carousel/src/carousel/Carousel.js
+@@ -1,5 +1,6 @@
+ import React, { Component } from 'react';
+-import { Animated, Easing, FlatList, I18nManager, Platform, ScrollView, View, ViewPropTypes } from 'react-native';
++import { Animated, Easing, FlatList, I18nManager, Platform, ScrollView, View } from 'react-native';
++import { ViewPropTypes } from 'deprecated-react-native-prop-types'
+ import PropTypes from 'prop-types';
+ import shallowCompare from 'react-addons-shallow-compare';
+ import {
+@@ -489,7 +490,7 @@ export default class Carousel extends Component {
+         }
+         // https://github.com/facebook/react-native/issues/10635
+         // https://stackoverflow.com/a/48786374/8412141
+-        return this._carouselRef && this._carouselRef.getNode && this._carouselRef.getNode();
++        return this._carouselRef; //&& this._carouselRef.getNode && this._carouselRef.getNode();
+     }
+ 
+     _getScrollEnabled () {
+diff --git a/node_modules/react-native-snap-carousel/src/pagination/Pagination.js b/node_modules/react-native-snap-carousel/src/pagination/Pagination.js
+index 5c021cf..7734962 100644
+--- a/node_modules/react-native-snap-carousel/src/pagination/Pagination.js
++++ b/node_modules/react-native-snap-carousel/src/pagination/Pagination.js
+@@ -1,5 +1,6 @@
+ import React, { PureComponent } from 'react';
+-import { I18nManager, Platform, View, ViewPropTypes } from 'react-native';
++import { ViewPropTypes } from 'deprecated-react-native-prop-types'
++import { I18nManager, Platform, View } from 'react-native';
+ import PropTypes from 'prop-types';
+ import PaginationDot from './PaginationDot';
+ import styles from './Pagination.style';
+diff --git a/node_modules/react-native-snap-carousel/src/pagination/PaginationDot.js b/node_modules/react-native-snap-carousel/src/pagination/PaginationDot.js
+index e59d196..9317174 100644
+--- a/node_modules/react-native-snap-carousel/src/pagination/PaginationDot.js
++++ b/node_modules/react-native-snap-carousel/src/pagination/PaginationDot.js
+@@ -1,5 +1,6 @@
+ import React, { PureComponent } from 'react';
+-import { View, Animated, Easing, TouchableOpacity, ViewPropTypes } from 'react-native';
++import { ViewPropTypes } from 'deprecated-react-native-prop-types'
++import { View, Animated, Easing, TouchableOpacity } from 'react-native';
+ import PropTypes from 'prop-types';
+ import styles from './Pagination.style';
+ 
+diff --git a/node_modules/react-native-snap-carousel/src/parallaximage/ParallaxImage.js b/node_modules/react-native-snap-carousel/src/parallaximage/ParallaxImage.js
+index 8bc774a..4523e82 100644
+--- a/node_modules/react-native-snap-carousel/src/parallaximage/ParallaxImage.js
++++ b/node_modules/react-native-snap-carousel/src/parallaximage/ParallaxImage.js
+@@ -1,7 +1,8 @@
+ // Parallax effect inspired by https://github.com/oblador/react-native-parallax/
+ 
+ import React, { Component } from 'react';
+-import { View, ViewPropTypes, Image, Animated, Easing, ActivityIndicator, findNodeHandle } from 'react-native';
++import { ViewPropTypes } from 'deprecated-react-native-prop-types'
++import { View, Image, Animated, Easing, ActivityIndicator, findNodeHandle } from 'react-native';
+ import PropTypes from 'prop-types';
+ import styles from './ParallaxImage.style';
+ 

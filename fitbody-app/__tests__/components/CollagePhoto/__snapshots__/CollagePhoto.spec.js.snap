@@ -1,0 +1,192 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CollagePhoto renders snapshot correctly 1`] = `
+<View
+  style={
+    Object {
+      "height": 702,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+        "flexWrap": "wrap",
+        "height": 654,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "borderWidth": 0.2,
+          "width": "50%",
+        }
+      }
+    >
+      <View
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <Image
+          source={
+            Object {
+              "uri": "../../",
+            }
+          }
+          style={
+            Object {
+              "height": "100%",
+              "width": "100%",
+            }
+          }
+          testID="before_img"
+        />
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "borderWidth": 0.2,
+          "width": "50%",
+        }
+      }
+    >
+      <View
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <Image
+          source={
+            Object {
+              "uri": "",
+            }
+          }
+          style={
+            Object {
+              "height": "100%",
+              "width": "100%",
+            }
+          }
+        />
+      </View>
+    </View>
+  </View>
+  <BVLinearGradient
+    colors={
+      Array [
+        4294610389,
+        4294929551,
+      ]
+    }
+    endPoint={
+      Object {
+        "x": 0.5,
+        "y": 1,
+      }
+    }
+    locations={null}
+    startPoint={
+      Object {
+        "x": 0.5,
+        "y": 0,
+      }
+    }
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "flexWrap": "wrap",
+        "height": 48,
+        "justifyContent": "center",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "height": 48,
+          "justifyContent": "center",
+          "width": "50%",
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#ffffff",
+            "fontFamily": "BebasNeue",
+            "fontSize": 15,
+            "lineHeight": 19.5,
+          }
+        }
+      >
+        Before
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "height": 48,
+          "justifyContent": "center",
+          "width": "50%",
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#ffffff",
+            "fontFamily": "BebasNeue",
+            "fontSize": 15,
+            "lineHeight": 19.5,
+          }
+        }
+      >
+        After
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "position": "absolute",
+        }
+      }
+    >
+      <fitbody.svg
+        color="#ffffff"
+        width={87}
+      />
+    </View>
+  </BVLinearGradient>
+</View>
+`;

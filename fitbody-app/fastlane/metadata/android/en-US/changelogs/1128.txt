@@ -1,0 +1,6 @@
+PoC build for new mechanism for workouts:
+- All workouts are downloaded on open
+- Known issue: should not be able to navigate during downloaded
+- Known issue: piggybacked on existing download functionality. Shouldn't show downloaded icons etc.
+- Dramatically improves performance on workouts
+- Download speed is improved a lot

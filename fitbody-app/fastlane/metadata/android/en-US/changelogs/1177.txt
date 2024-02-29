@@ -1,0 +1,3 @@
+3.2.7-1177 Internal Test Version
+
+- General QA after various crash prevention fixes

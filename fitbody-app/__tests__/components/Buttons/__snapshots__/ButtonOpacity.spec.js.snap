@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ButtonOpacity renders snapshot correctly 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  hitSlop={16}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    [
+      {
+        "opacity": 1,
+      },
+      {
+        "alignItems": "center",
+        "justifyContent": "center",
+      },
+      undefined,
+    ]
+  }
+  text="test"
+>
+  <Text
+    testID="child"
+  >
+    test
+  </Text>
+</View>
+`;

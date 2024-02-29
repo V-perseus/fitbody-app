@@ -1,0 +1,12 @@
+diff --git a/node_modules/react-native-view-shot/src/index.d.ts b/node_modules/react-native-view-shot/src/index.d.ts
+index 203b071..21ec160 100644
+--- a/node_modules/react-native-view-shot/src/index.d.ts
++++ b/node_modules/react-native-view-shot/src/index.d.ts
+@@ -90,6 +90,7 @@ declare module 'react-native-view-shot' {
+          * style prop as ViewStyle
+          */
+         style?: ViewStyle;
++        children: React.ReactNode;
+     }
+ 
+     export default class ViewShot extends Component<ViewShotProperties> {

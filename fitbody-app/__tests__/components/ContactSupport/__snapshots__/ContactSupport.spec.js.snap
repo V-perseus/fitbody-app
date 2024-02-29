@@ -1,0 +1,72 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ContactSupport renders snapshot correctly 1`] = `
+<View
+  style={
+    [
+      {
+        "alignSelf": "stretch",
+        "flexDirection": "row",
+        "justifyContent": "center",
+      },
+      undefined,
+    ]
+  }
+>
+  <Text
+    style={
+      [
+        {
+          "color": "#ffffff",
+          "fontFamily": "OpenSans",
+          "fontSize": 12,
+          "letterSpacing": 0.4,
+        },
+        null,
+      ]
+    }
+  >
+    Have Questions? 
+  </Text>
+  <RNGestureHandlerButton
+    collapsable={false}
+    exclusive={true}
+    handlerTag={1}
+    handlerType="NativeViewGestureHandler"
+    onGestureEvent={[Function]}
+    onGestureHandlerEvent={[Function]}
+    onGestureHandlerStateChange={[Function]}
+    onHandlerStateChange={[Function]}
+    rippleColor={0}
+    touchSoundDisabled={false}
+  >
+    <View
+      accessible={true}
+      collapsable={false}
+      style={
+        {
+          "opacity": 1,
+        }
+      }
+    >
+      <Text
+        style={
+          [
+            {
+              "color": "#ffffff",
+              "fontFamily": "OpenSans-Bold",
+              "fontSize": 12,
+              "letterSpacing": 0.4,
+            },
+            {
+              "color": undefined,
+            },
+          ]
+        }
+      >
+        Contact Us.
+      </Text>
+    </View>
+  </RNGestureHandlerButton>
+</View>
+`;

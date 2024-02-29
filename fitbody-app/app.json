@@ -1,0 +1,27 @@
+{
+  "name": "fitbody",
+  "displayName": "Fit Body",
+  "expo": {
+    "name": "fitbody",
+    "slug": "fitbody",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "jsEngine": "hermes",
+    "privacy": "hidden",
+    "scheme": "fitbody",
+    "entryPoint": "index.js",
+    "updates": {
+      "fallbackToCacheTimeout": 0,
+      "url": "https://u.expo.dev/38ff458a-38eb-403f-a51f-d7cf6650ac94"
+    },
+    "android": {},
+    "ios": {},
+    "runtimeVersion": "4.7.0",
+    "extra": {
+      "eas": {
+        "projectId": "38ff458a-38eb-403f-a51f-d7cf6650ac94"
+      }
+    }
+  }
+}

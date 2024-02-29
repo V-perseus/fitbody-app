@@ -1,0 +1,7 @@
+3.2.5-1162
+
+- Workout history week view
+- Contact form font colors
+- Improved week/month switching
+
+For testing purposes, Rate my App is shown on every completed workout.

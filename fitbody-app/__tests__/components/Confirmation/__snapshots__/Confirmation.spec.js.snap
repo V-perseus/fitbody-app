@@ -1,0 +1,230 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Confirmation renders snapshot correctly 1`] = `
+<Modal
+  animationType="none"
+  deviceHeight={null}
+  deviceWidth={null}
+  hardwareAccelerated={false}
+  hideModalContentWhileAnimating={false}
+  onBackdropPress={[Function]}
+  onModalHide={[Function]}
+  onModalWillHide={[Function]}
+  onModalWillShow={[Function]}
+  onRequestClose={[MockFunction]}
+  panResponderThreshold={4}
+  scrollHorizontal={false}
+  scrollOffset={0}
+  scrollOffsetMax={0}
+  scrollTo={null}
+  statusBarTranslucent={false}
+  supportedOrientations={
+    [
+      "portrait",
+      "landscape",
+    ]
+  }
+  swipeThreshold={100}
+  testID="confirmation_modal"
+  transparent={true}
+  visible={true}
+>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    forwardedRef={[Function]}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "backgroundColor": "black",
+        "bottom": 0,
+        "height": 1334,
+        "left": 0,
+        "opacity": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+        "width": 750,
+      }
+    }
+  />
+  <View
+    collapsable={false}
+    deviceHeight={null}
+    deviceWidth={null}
+    forwardedRef={[Function]}
+    hideModalContentWhileAnimating={false}
+    onBackdropPress={[Function]}
+    onModalHide={[Function]}
+    onModalWillHide={[Function]}
+    onModalWillShow={[Function]}
+    panResponderThreshold={4}
+    pointerEvents="box-none"
+    scrollHorizontal={false}
+    scrollOffset={0}
+    scrollOffsetMax={0}
+    scrollTo={null}
+    statusBarTranslucent={false}
+    style={
+      {
+        "flex": 1,
+        "justifyContent": "flex-end",
+        "margin": 0,
+        "transform": [
+          {
+            "translateY": 1334,
+          },
+        ],
+      }
+    }
+    supportedOrientations={
+      [
+        "portrait",
+        "landscape",
+      ]
+    }
+    swipeThreshold={100}
+  >
+    <BVLinearGradient
+      colors={
+        [
+          4291259860,
+          4294929551,
+        ]
+      }
+      endPoint={
+        {
+          "x": 0.5,
+          "y": 1,
+        }
+      }
+      locations={null}
+      startPoint={
+        {
+          "x": 0.5,
+          "y": 0,
+        }
+      }
+      style={
+        [
+          {
+            "alignItems": "center",
+            "flexDirection": "column",
+            "justifyContent": "space-between",
+            "paddingBottom": 20,
+            "paddingHorizontal": 25,
+            "width": 750,
+          },
+          undefined,
+        ]
+      }
+    >
+      <Text
+        style={
+          {
+            "color": "#ffffff",
+            "flexDirection": "column",
+            "fontFamily": "OpenSans-Bold",
+            "fontSize": 16,
+            "marginBottom": 10,
+            "marginTop": 10,
+            "textAlign": "center",
+          }
+        }
+      >
+        test
+      </Text>
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+          }
+        }
+      >
+        <View
+          accessible={true}
+          collapsable={false}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            {
+              "alignItems": "center",
+              "backgroundColor": "#ffffff",
+              "borderRadius": 8,
+              "flex": 1,
+              "height": 55,
+              "justifyContent": "center",
+              "marginRight": 5,
+              "opacity": 1,
+            }
+          }
+        >
+          <Text
+            style={
+              {
+                "color": "#fa8dd5",
+                "fontFamily": "OpenSans-Semibold",
+                "fontSize": 18,
+              }
+            }
+          >
+            yes
+          </Text>
+        </View>
+        <View
+          accessible={true}
+          collapsable={false}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            {
+              "alignItems": "center",
+              "borderColor": "#ffffff",
+              "borderRadius": 8,
+              "borderWidth": 1,
+              "flex": 1,
+              "height": 55,
+              "justifyContent": "center",
+              "marginLeft": 5,
+              "opacity": 1,
+            }
+          }
+        >
+          <Text
+            style={
+              {
+                "color": "#ffffff",
+                "fontFamily": "OpenSans-Semibold",
+                "fontSize": 18,
+              }
+            }
+          >
+            no
+          </Text>
+        </View>
+      </View>
+    </BVLinearGradient>
+  </View>
+</Modal>
+`;

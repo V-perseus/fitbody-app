@@ -1,0 +1,74 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ActivityItem renders snapshot correctly 1`] = `
+<View
+  accessibilityState={
+    {
+      "disabled": false,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+>
+  <View
+    style={
+      [
+        {
+          "alignItems": "center",
+          "height": 117,
+          "marginRight": 32,
+        },
+        undefined,
+      ]
+    }
+    testID="activity_item_undefined"
+  >
+    <View
+      style={
+        [
+          {
+            "alignItems": "center",
+            "backgroundColor": "#fa8dd5",
+            "borderRadius": 57.974999999999994,
+            "height": 115.94999999999999,
+            "justifyContent": "center",
+            "width": 115.94999999999999,
+          },
+          undefined,
+        ]
+      }
+    />
+    <Text
+      style={
+        [
+          {
+            "color": "#fa8dd5",
+            "fontFamily": "BebasNeue",
+            "fontSize": 16,
+            "marginTop": 6,
+            "textAlign": "center",
+          },
+          {
+            "fontFamily": "BebasNeue",
+            "fontSize": 16,
+            "marginTop": 6,
+            "textAlign": "center",
+          },
+        ]
+      }
+    >
+      EXERCISED
+    </Text>
+  </View>
+</View>
+`;

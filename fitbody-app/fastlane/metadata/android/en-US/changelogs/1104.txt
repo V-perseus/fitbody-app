@@ -1,0 +1,7 @@
+Intermediate test build; only test features mentioned below;
+Do not report bugs on other aspects of the application.
+
+- All new workout and challenge screens (except for overview)
+- My performance page works on airplane mode
+- Warning message on navigate to guidance from workout complete while on airplane mode
+- Today's workout button only shown in current week

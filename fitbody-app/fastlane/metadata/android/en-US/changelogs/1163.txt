@@ -1,0 +1,7 @@
+3.2.5-1163 Release Candidate
+
+- Calendar redesign
+- Rate my app redesign
+- Program icon redesign
+
+For testing purposes, Rate my App is shown on every completed workout.

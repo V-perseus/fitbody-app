@@ -1,0 +1,72 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ButtonFloating renders snapshot correctly 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    [
+      {
+        "alignItems": "center",
+        "backgroundColor": "#fa8dd5",
+        "borderRadius": 28,
+        "elevation": 13,
+        "flexDirection": "row",
+        "height": 56,
+        "justifyContent": "center",
+        "marginHorizontal": 24,
+        "shadowOffset": {
+          "height": 3,
+          "width": 0,
+        },
+        "shadowOpacity": 0.7,
+        "shadowRadius": 15,
+      },
+      {
+        "shadowColor": "#bbbbbb",
+      },
+      {
+        "color": "red",
+      },
+    ]
+  }
+  testID="button_floating"
+>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "borderRadius": 28,
+        "flex": 1,
+        "height": 56,
+        "justifyContent": "center",
+      }
+    }
+  >
+    <Text
+      style={
+        [
+          {
+            "color": "#ffffff",
+            "fontFamily": "OpenSans-Semibold",
+            "fontSize": 16,
+          },
+          undefined,
+        ]
+      }
+    >
+      test
+    </Text>
+  </View>
+</View>
+`;

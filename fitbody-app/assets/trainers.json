@@ -1,0 +1,1765 @@
+{
+  "trainers": [
+    {
+      "id": 1,
+      "name": "Anna Victoria",
+      "subtitle": "Strength Training, HIIT, Pregnancy",
+      "color": "#FF6C8F",
+      "secondary_color": "#FA8DD5",
+      "logo_url": "/assets/trainers/1/fb_anna.svg",
+      "foreground_img_url": "/assets/trainers/1/anna-foreground.png",
+      "background_img_url": "/assets/trainers/1/anna-background.png",
+      "banner_img_url": "/assets/trainers/1/anna_card_v2.png",
+      "icon_url": "",
+      "sort_order": 1,
+      "description": "Anna Victoria is the CEO and Founder of the Fit Body App. She is a NASM Certified Personal Trainer and has helped thousands of women change their bodies and their lives through her transformative workout programs. She specializes in combining both strength and cardio workout styles in the same session to minimize time while maximizing results.",
+      "programs": [
+        1,
+        2,
+        3,
+        9,
+        13
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Maggi Gao",
+      "subtitle": "Kettlebell Strength Training",
+      "color": "#7BC1FF",
+      "secondary_color": "#2AEBEB",
+      "logo_url": "/assets/trainers/5/CSzKlEetRVmCbNU18xRq0E3TX0fxd4o7bcY0akx8.svg",
+      "foreground_img_url": "/assets/trainers/5/IA1zcmbBbHKj90CRqzLeRPPP4dpfy3kSUJOUVYQi.png",
+      "background_img_url": "/assets/trainers/5/d0wcj0sPmDjPPfj4gMlejiT0vx9EWQUoW9a4qZtT.png",
+      "banner_img_url": "/assets/trainers/5/uyO38csgcqaiipW3s0wM7FSIVKYyLGok5pHddxNp.png",
+      "icon_url": "",
+      "sort_order": 2,
+      "description": "Kettlebell Strength Training",
+      "programs": []
+    },
+    {
+      "id": 6,
+      "name": "Alyssa Lombardi",
+      "subtitle": "Strength Training for Runners",
+      "color": "#C5BDFF",
+      "secondary_color": "#C76DD4",
+      "logo_url": "/assets/trainers/6/4uaACmvUzS8N8tgE4C1iJL9csiRamM6eulV6ibff.svg",
+      "foreground_img_url": "/assets/trainers/6/bY7GFUMcnQ5CeC9RjLDaqxyzew4EwxGGWRZFEo35.png",
+      "background_img_url": "/assets/trainers/6/tjVU2YVQKWmMaMhvxxtRQajgd7d3sVVndNckamg3.png",
+      "banner_img_url": "/assets/trainers/6/17Q4uTKh0sn2UtbEvvPJxeu6cKIjEl0nKTSvkzcU.png",
+      "icon_url": "",
+      "sort_order": 3,
+      "description": "Strength Training for Runners",
+      "programs": []
+    },
+    {
+      "id": 2,
+      "name": "Nicci Robinson",
+      "subtitle": "Strength And Conditioning",
+      "color": "#0FB7BA",
+      "secondary_color": "#7BC1FF",
+      "logo_url": "/assets/trainers/2/fb_nicci.svg",
+      "foreground_img_url": "/assets/trainers/2/nicci-foreground.png",
+      "background_img_url": "/assets/trainers/2/nicci-background.png",
+      "banner_img_url": "/assets/trainers/2/nicci_card_v2.png",
+      "icon_url": "",
+      "sort_order": 4,
+      "description": "Nicci Robinson is an ACE Certified Personal Trainer. Her programs are designed to empower women through pushing themselves outside their comfort zone to be the very best they can be. She specializes in helping women become strong, statuesque warriors.",
+      "programs": [
+        6,
+        11
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Martina Sergi",
+      "subtitle": "Yoga Strength And Flexibility",
+      "color": "#C76DD4",
+      "secondary_color": "#C5BDFF",
+      "logo_url": "/assets/trainers/4/fb_martina.svg",
+      "foreground_img_url": "/assets/trainers/4/martina-foreground.png",
+      "background_img_url": "/assets/trainers/4/martina-background.png",
+      "banner_img_url": "/assets/trainers/4/martina_card_v2.png",
+      "icon_url": "",
+      "sort_order": 5,
+      "description": "Martina Sergi is an E-RYT200 and RYT500h certified teacher in Vinyasa and Power Yoga. Her programs are designed to help women increase their flexibility, mobility, and strength through yoga.",
+      "programs": [
+        10,
+        12
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Brittany Lupton",
+      "subtitle": "Strength Training, Postpartum",
+      "color": "#007181",
+      "secondary_color": "#0FB7BA",
+      "logo_url": "/assets/trainers/3/fb_brittany.svg",
+      "foreground_img_url": "/assets/trainers/3/brittany-foreground.png",
+      "background_img_url": "/assets/trainers/3/brittany-background.png",
+      "banner_img_url": "/assets/trainers/3/brittany_card_v2.png",
+      "icon_url": "",
+      "sort_order": 6,
+      "description": "Brittany is an ACE Certified Personal Trainer and certified in pre and postnatal exercise. Her programs are designed to help women gain confidence through lifting weights at home or in the gym.",
+      "programs": [
+        7,
+        8
+      ]
+    }
+  ],
+  "programs": {
+    "SHRED": {
+      "id": 1,
+      "title": "Shred",
+      "subtitle": "Burn Fat + Lean Down",
+      "description": "BODYWEIGHT CIRCUIT TRAINING",
+      "long_description": "Shred is a high intensity bodyweight program that doesn’t require any weights. Perfect for those looking for a cardio program they can do from home with the primary goal of fat loss.",
+      "slug": "SHRED",
+      "special_equipment_enabled": true,
+      "special_equipment_name": "Resistance Bands",
+      "background_image_url": "/assets/trainers/1/shred_bg.png",
+      "background_image_card_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/program_assets/shred_program_bg_card.png",
+      "background_image_color_card_url": "/assets/trainers/1/OcKEyvCEAYrjF6kN6mkjJaiq5gLau4MepA7AOteM.jpeg",
+      "icon_url": "/assets/trainers/1/program_shred_icon.svg",
+      "logo_big_url": "/assets/trainers/1/shred_large.svg",
+      "logo_small_url": "/assets/trainers/1/shred.svg",
+      "color": "#FF6C8F",
+      "color_secondary": "#FA8DD5",
+      "workout_max_week": 60,
+      "total_workout_weeks": 60,
+      "sort_order": 0,
+      "hide_rounds": false,
+      "hide_challenges": false,
+      "all_weeks_available": false,
+      "at_home": true,
+      "at_gym": true,
+      "show_in_workouts_mvp": true,
+      "week_meta": [],
+      "disclaimers": [],
+      "video_url": "/assets/trainers/1/shred.mp4",
+      "session_duration": "30",
+      "has_disclaimer": false,
+      "disclaimer_title": null,
+      "disclaimer_text": null,
+      "approval_required": false,
+      "week_selection_required": false,
+      "week_selection_title": null,
+      "week_selection_text": null,
+      "bullets": [
+        "Three 30 min strength sessions",
+        "Three 30 min cardio sessions",
+        "Two 15 min core sessions",
+        "Cardio vs Strength = 70:30 focus"
+      ],
+      "is_coming_soon": false,
+      "categories": [
+        {
+          "id": 1,
+          "title": "Strength",
+          "image": "/assets/trainers/1/shred-strength.jpg",
+          "sort_order": 0,
+          "icon_url": "/assets/trainers/1/calendar_strength.svg",
+          "icon": {
+            "id": 6,
+            "name": "Strength",
+            "icon_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/program_assets/calendar_strength.svg"
+          },
+          "hidden": false
+        },
+        {
+          "id": 2,
+          "title": "Core",
+          "image": "/assets/trainers/1/shred-core.jpg",
+          "sort_order": 1,
+          "icon_url": "/assets/trainers/1/calendar_strength.svg",
+          "icon": {
+            "id": 6,
+            "name": "Strength",
+            "icon_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/program_assets/calendar_strength.svg"
+          },
+          "hidden": false
+        },
+        {
+          "id": 3,
+          "title": "Cardio",
+          "image": "/assets/trainers/1/shred-cardio.jpg",
+          "sort_order": 2,
+          "icon_url": "/assets/trainers/1/calendar_cardio.svg",
+          "icon": {
+            "id": 5,
+            "name": "Cardio",
+            "icon_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/program_assets/calendar_cardio.svg"
+          },
+          "hidden": false
+        }
+      ],
+      "equipment": [
+        {
+          "name": "Yoga Mat",
+          "icon_url": "/assets/trainers/1/yoga_mat.svg",
+          "adds_to_weight": true
+        },
+        {
+          "name": "Platform",
+          "icon_url": "/assets/trainers/1/platform.svg",
+          "adds_to_weight": true
+        }
+      ],
+      "rounds": [
+        {
+          "label": "ROUND",
+          "description": "WEEKS 1 - 12",
+          "round_number": 1,
+          "start_week": 1,
+          "end_week": 12,
+          "is_open": true,
+          "is_in_progress": true,
+          "is_checked": false,
+          "is_active": true
+        },
+        {
+          "label": "ROUND",
+          "description": "WEEKS 13 - 24",
+          "round_number": 2,
+          "start_week": 13,
+          "end_week": 24,
+          "is_open": true,
+          "is_in_progress": false,
+          "is_checked": false,
+          "is_active": false
+        },
+        {
+          "label": "ROUND",
+          "description": "WEEKS 25 - 36",
+          "round_number": 3,
+          "start_week": 25,
+          "end_week": 36,
+          "is_open": true,
+          "is_in_progress": false,
+          "is_checked": false,
+          "is_active": false
+        },
+        {
+          "label": "ROUND",
+          "description": "WEEKS 37 - 48",
+          "round_number": 4,
+          "start_week": 37,
+          "end_week": 48,
+          "is_open": true,
+          "is_in_progress": false,
+          "is_checked": false,
+          "is_active": false
+        },
+        {
+          "label": "ROUND",
+          "description": "WEEKS 49 - 60",
+          "round_number": 5,
+          "start_week": 49,
+          "end_week": 60,
+          "is_open": true,
+          "is_in_progress": false,
+          "is_checked": false,
+          "is_active": false
+        }
+      ]
+    },
+    "TONE": {
+      "id": 2,
+      "title": "Tone",
+      "subtitle": "Gain Strength + Tone Up",
+      "description": "DUMBBELL CIRCUIT TRAINING",
+      "long_description": "Tone is a moderate intensity strength program that uses dumbbells. Perfect for those looking for a strength program they can do from home or the gym while focusing equally on strengthening and fat loss.",
+      "slug": "TONE",
+      "special_equipment_enabled": true,
+      "special_equipment_name": "Resistance Bands",
+      "background_image_url": "/assets/trainers/1/tone_bg.png",
+      "background_image_card_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/program_assets/tone_program_bg_card.png",
+      "background_image_color_card_url": "/assets/trainers/1/KAJzebrYVFdzwHN4kLLm1OpD6IFI98to5UzLzzDm.jpeg",
+      "icon_url": "/assets/trainers/1/program_tone_icon.svg",
+      "logo_big_url": "/assets/trainers/1/tone_large.svg",
+      "logo_small_url": "/assets/trainers/1/tone.svg",
+      "color": "#C76DD4",
+      "color_secondary": "#C5BDFF",
+      "workout_max_week": 60,
+      "total_workout_weeks": 60,
+      "sort_order": 2,
+      "hide_rounds": false,
+      "hide_challenges": false,
+      "all_weeks_available": false,
+      "at_home": true,
+      "at_gym": true,
+      "show_in_workouts_mvp": true,
+      "week_meta": [],
+      "disclaimers": [],
+      "video_url": "/assets/trainers/1/tone.mp4",
+      "session_duration": "30",
+      "has_disclaimer": false,
+      "disclaimer_title": null,
+      "disclaimer_text": null,
+      "approval_required": false,
+      "week_selection_required": false,
+      "week_selection_title": null,
+      "week_selection_text": null,
+      "bullets": [
+        "Three 30 min strength sessions",
+        "Three 30 min cardio sessions",
+        "Two 15 min core sessions",
+        "Strength vs Cardio = 50:50 focus"
+      ],
+      "is_coming_soon": false,
+      "categories": [
+        {
+          "id": 4,
+          "title": "Strength",
+          "image": "/assets/trainers/1/tone-strength.jpg",
+          "sort_order": 0,
+          "icon_url": "/assets/trainers/1/calendar_strength.svg",
+          "icon": {
+            "id": 6,
+            "name": "Strength",
+            "icon_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/program_assets/calendar_strength.svg"
+          },
+          "hidden": false
+        },
+        {
+          "id": 5,
+          "title": "Core",
+          "image": "/assets/trainers/1/tone-core.jpg",
+          "sort_order": 1,
+          "icon_url": "/assets/trainers/1/calendar_strength.svg",
+          "icon": {
+            "id": 6,
+            "name": "Strength",
+            "icon_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/program_assets/calendar_strength.svg"
+          },
+          "hidden": false
+        },
+        {
+          "id": 6,
+          "title": "Cardio",
+          "image": "/assets/trainers/1/tone-cardio.jpg",
+          "sort_order": 2,
+          "icon_url": "/assets/trainers/1/calendar_cardio.svg",
+          "icon": {
+            "id": 5,
+            "name": "Cardio",
+            "icon_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/program_assets/calendar_cardio.svg"
+          },
+          "hidden": false
+        }
+      ],
+      "equipment": [
+        {
+          "name": "Dumbbells",
+          "icon_url": "/assets/trainers/1/dumbbells.svg",
+          "adds_to_weight": false
+        },
+        {
+          "name": "Yoga Mat",
+          "icon_url": "/assets/trainers/1/yoga_mat.svg",
+          "adds_to_weight": true
+        },
+        {
+          "name": "Platform",
+          "icon_url": "/assets/trainers/1/platform.svg",
+          "adds_to_weight": true
+        }
+      ],
+      "rounds": [
+        {
+          "label": "ROUND",
+          "description": "WEEKS 1 - 12",
+          "round_number": 1,
+          "start_week": 1,
+          "end_week": 12,
+          "is_open": true,
+          "is_in_progress": true,
+          "is_checked": false,
+          "is_active": true
+        },
+        {
+          "label": "ROUND",
+          "description": "WEEKS 13 - 24",
+          "round_number": 2,
+          "start_week": 13,
+          "end_week": 24,
+          "is_open": true,
+          "is_in_progress": false,
+          "is_checked": false,
+          "is_active": false
+        },
+        {
+          "label": "ROUND",
+          "description": "WEEKS 25 - 36",
+          "round_number": 3,
+          "start_week": 25,
+          "end_week": 36,
+          "is_open": true,
+          "is_in_progress": false,
+          "is_checked": false,
+          "is_active": false
+        },
+        {
+          "label": "ROUND",
+          "description": "WEEKS 37 - 48",
+          "round_number": 4,
+          "start_week": 37,
+          "end_week": 48,
+          "is_open": true,
+          "is_in_progress": false,
+          "is_checked": false,
+          "is_active": false
+        },
+        {
+          "label": "ROUND",
+          "description": "WEEKS 49 - 60",
+          "round_number": 5,
+          "start_week": 49,
+          "end_week": 60,
+          "is_open": true,
+          "is_in_progress": false,
+          "is_checked": false,
+          "is_active": false
+        }
+      ]
+    },
+    "SCULPT": {
+      "id": 3,
+      "title": "Sculpt",
+      "subtitle": "Build Muscle + Sculpt Your Body",
+      "description": "STRENGTH TRAINING",
+      "long_description": "Sculpt is a moderate intensity strength training program that requires gym equipment. Perfect for those looking to keep the intensity up with superset style lifting for ultimate body sculpting.",
+      "slug": "SCULPT",
+      "special_equipment_enabled": true,
+      "special_equipment_name": "Resistance Bands",
+      "background_image_url": "/assets/trainers/1/sculpt_bg.png",
+      "background_image_card_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/program_assets/sculpt_program_bg_card.png",
+      "background_image_color_card_url": "/assets/trainers/1/k2E4xeo0pYOdDvftablnbSUWKAF09gZgzpHt45PG.jpeg",
+      "icon_url": "/assets/trainers/1/program_sculpt_icon.svg",
+      "logo_big_url": "/assets/trainers/1/sculpt_large.svg",
+      "logo_small_url": "/assets/trainers/1/sculpt.svg",
+      "color": "#0FB7BA",
+      "color_secondary": "#7BC1FF",
+      "workout_max_week": 60,
+      "total_workout_weeks": 60,
+      "sort_order": 3,
+      "hide_rounds": false,
+      "hide_challenges": false,
+      "all_weeks_available": false,
+      "at_home": false,
+      "at_gym": true,
+      "show_in_workouts_mvp": true,
+      "week_meta": [],
+      "disclaimers": [],
+      "video_url": "/assets/trainers/1/sculpt.mp4",
+      "session_duration": "45",
+      "has_disclaimer": false,
+      "disclaimer_title": null,
+      "disclaimer_text": null,
+      "approval_required": false,
+      "week_selection_required": false,
+      "week_selection_title": null,
+      "week_selection_text": null,
+      "bullets": [
+        "Four 45 min strength sessions",
+        "Three 15 min and one 45 min cardio sessions",
+        "One 15 min core session",
+        "Strength vs Cardio = 70:30 focus"
+      ],
+      "is_coming_soon": false,
+      "categories": [
+        {
+          "id": 7,
+          "title": "Strength",
+          "image": "/assets/trainers/1/sculpt-strength.jpg",
+          "sort_order": 0,
+          "icon_url": "/assets/trainers/1/calendar_strength.svg",
+          "icon": {
+            "id": 6,
+            "name": "Strength",
+            "icon_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/program_assets/calendar_strength.svg"
+          },
+          "hidden": false
+        },
+        {
+          "id": 8,
+          "title": "Core",
+          "image": "/assets/trainers/1/sculpt-core.jpg",
+          "sort_order": 1,
+          "icon_url": "/assets/trainers/1/calendar_strength.svg",
+          "icon": {
+            "id": 6,
+            "name": "Strength",
+            "icon_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/program_assets/calendar_strength.svg"
+          },
+          "hidden": false
+        },
+        {
+          "id": 9,
+          "title": "Cardio",
+          "image": "/assets/trainers/1/sculpt-cardio.jpg",
+          "sort_order": 2,
+          "icon_url": "/assets/trainers/1/calendar_cardio.svg",
+          "icon": {
+            "id": 5,
+            "name": "Cardio",
+            "icon_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/program_assets/calendar_cardio.svg"
+          },
+          "hidden": false
+        }
+      ],
+      "equipment": [
+        {
+          "name": "Barbell",
+          "icon_url": "/assets/trainers/1/barbell.svg",
+          "adds_to_weight": false
+        },
+        {
+          "name": "Dumbbells",
+          "icon_url": "/assets/trainers/1/dumbbells.svg",
+          "adds_to_weight": false
+        },
+        {
+          "name": "Yoga Mat",
+          "icon_url": "/assets/trainers/1/yoga_mat.svg",
+          "adds_to_weight": true
+        },
+        {
+          "name": "Platform",
+          "icon_url": "/assets/trainers/1/platform.svg",
+          "adds_to_weight": true
+        }
+      ],
+      "rounds": [
+        {
+          "label": "ROUND",
+          "description": "WEEKS 1 - 12",
+          "round_number": 1,
+          "start_week": 1,
+          "end_week": 12,
+          "is_open": true,
+          "is_in_progress": false,
+          "is_checked": true,
+          "is_active": true
+        },
+        {
+          "label": "ROUND",
+          "description": "WEEKS 13 - 24",
+          "round_number": 2,
+          "start_week": 13,
+          "end_week": 24,
+          "is_open": true,
+          "is_in_progress": false,
+          "is_checked": true,
+          "is_active": true
+        },
+        {
+          "label": "ROUND",
+          "description": "WEEKS 25 - 36",
+          "round_number": 3,
+          "start_week": 25,
+          "end_week": 36,
+          "is_open": true,
+          "is_in_progress": false,
+          "is_checked": true,
+          "is_active": true
+        },
+        {
+          "label": "ROUND",
+          "description": "WEEKS 37 - 48",
+          "round_number": 4,
+          "start_week": 37,
+          "end_week": 48,
+          "is_open": true,
+          "is_in_progress": true,
+          "is_checked": false,
+          "is_active": true
+        },
+        {
+          "label": "ROUND",
+          "description": "WEEKS 49 - 60",
+          "round_number": 5,
+          "start_week": 49,
+          "end_week": 60,
+          "is_open": true,
+          "is_in_progress": false,
+          "is_checked": false,
+          "is_active": false
+        }
+      ]
+    },
+    "GROW + GLOW": {
+      "id": 9,
+      "title": "Grow + Glow",
+      "subtitle": "Strengthen + Prepare",
+      "description": "PREGNANCY TRAINING",
+      "long_description": "Grow + Glow is a low impact, pregnancy-safe strength training program designed to coincide with each week and trimester of pregnancy. Perfect for expecting mothers who are wanting to safely exercise and maintain strength.",
+      "slug": "GROW + GLOW",
+      "special_equipment_enabled": false,
+      "special_equipment_name": null,
+      "background_image_url": "/assets/trainers/1/grow_glow_bg2.png",
+      "background_image_card_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/program_assets/grow_glow_program_bg_card2.png",
+      "background_image_color_card_url": "/assets/trainers/1/ki7S2oTSmCblwsbZsgH1kolDFP2gCxBAcTmW0I6O.jpeg",
+      "icon_url": "/assets/trainers/1/icon_24_px_program_sculpt.svg",
+      "logo_big_url": "/assets/trainers/1/grow_glow_large.svg",
+      "logo_small_url": "/assets/trainers/1/grow_glow.svg",
+      "color": "#FF6C8F",
+      "color_secondary": "#FA8DD5",
+      "workout_max_week": 37,
+      "total_workout_weeks": 37,
+      "sort_order": 6,
+      "hide_rounds": true,
+      "hide_challenges": true,
+      "all_weeks_available": true,
+      "at_home": true,
+      "at_gym": true,
+      "show_in_workouts_mvp": false,
+      "week_meta": [
+        {
+          "week_id": 1,
+          "label": "4 Weeks Pregnant",
+          "label_split_top": "4 Weeks",
+          "label_split_bottom": "Pregnant",
+          "disclaimer_id": 1
+        },
+        {
+          "week_id": 2,
+          "label": "5 Weeks Pregnant",
+          "label_split_top": "5 Weeks",
+          "label_split_bottom": "Pregnant",
+          "disclaimer_id": 1
+        },
+        {
+          "week_id": 3,
+          "label": "6 Weeks Pregnant",
+          "label_split_top": "6 Weeks",
+          "label_split_bottom": "Pregnant",
+          "disclaimer_id": 1
+        },
+        {
+          "week_id": 4,
+          "label": "7 Weeks Pregnant",
+          "label_split_top": "7 Weeks",
+          "label_split_bottom": "Pregnant",
+          "disclaimer_id": 1
+        },
+        {
+          "week_id": 5,
+          "label": "8 Weeks Pregnant",
+          "label_split_top": "8 Weeks",
+          "label_split_bottom": "Pregnant",
+          "disclaimer_id": 1
+        },
+        {
+          "week_id": 6,
+          "label": "9 Weeks Pregnant",
+          "label_split_top": "9 Weeks",
+          "label_split_bottom": "Pregnant",
+          "disclaimer_id": 1
+        },
+        {
+          "week_id": 7,
+          "label": "10 Weeks Pregnant",
+          "label_split_top": "10 Weeks",
+          "label_split_bottom": "Pregnant",
+          "disclaimer_id": 1
+        },
+        {
+          "week_id": 8,
+          "label": "11 Weeks Pregnant",
+          "label_split_top": "11 Weeks",
+          "label_split_bottom": "Pregnant",
+          "disclaimer_id": 1
+        },
+        {
+          "week_id": 9,
+          "label": "12 Weeks Pregnant",
+          "label_split_top": "12 Weeks",
+          "label_split_bottom": "Pregnant",
+          "disclaimer_id": 1
+        },
+        {
+          "week_id": 10,
+          "label": "13 Weeks Pregnant",
+          "label_split_top": "13 Weeks",
+          "label_split_bottom": "Pregnant",
+          "disclaimer_id": 1
+        },
+        {
+          "week_id": 11,
+          "label": "14 Weeks Pregnant",
+          "label_split_top": "14 Weeks",
+          "label_split_bottom": "Pregnant",
+          "disclaimer_id": 2
+        },
+        {
+          "week_id": 12,
+          "label": "15 Weeks Pregnant",
+          "label_split_top": "16 Weeks",
+          "label_split_bottom": "Pregnant",
+          "disclaimer_id": 2
+        },
+        {
+          "week_id": 13,
+          "label": "16 Weeks Pregnant",
+          "label_split_top": "16 Weeks",
+          "label_split_bottom": "Pregnant",
+          "disclaimer_id": 2
+        },
+        {
+          "week_id": 14,
+          "label": "17 Weeks Pregnant",
+          "label_split_top": "17 Weeks",
+          "label_split_bottom": "Pregnant",
+          "disclaimer_id": 2
+        },
+        {
+          "week_id": 15,
+          "label": "18 Weeks Pregnant",
+          "label_split_top": "18 Weeks",
+          "label_split_bottom": "Pregnant",
+          "disclaimer_id": 2
+        },
+        {
+          "week_id": 16,
+          "label": "19 Weeks Pregnant",
+          "label_split_top": "19 Weeks",
+          "label_split_bottom": "Pregnant",
+          "disclaimer_id": 2
+        },
+        {
+          "week_id": 17,
+          "label": "20 Weeks Pregnant",
+          "label_split_top": "20 Weeks",
+          "label_split_bottom": "Pregnant",
+          "disclaimer_id": 2
+        },
+        {
+          "week_id": 18,
+          "label": "21 Weeks Pregnant",
+          "label_split_top": "21 Weeks",
+          "label_split_bottom": "Pregnant",
+          "disclaimer_id": 2
+        },
+        {
+          "week_id": 19,
+          "label": "22 Weeks Pregnant",
+          "label_split_top": "22 Weeks",
+          "label_split_bottom": "Pregnant",
+          "disclaimer_id": 2
+        },
+        {
+          "week_id": 20,
+          "label": "23 Weeks Pregnant",
+          "label_split_top": "23 Weeks",
+          "label_split_bottom": "Pregnant",
+          "disclaimer_id": 2
+        },
+        {
+          "week_id": 21,
+          "label": "24 Weeks Pregnant",
+          "label_split_top": "24 Weeks",
+          "label_split_bottom": "Pregnant",
+          "disclaimer_id": 2
+        },
+        {
+          "week_id": 22,
+          "label": "25 Weeks Pregnant",
+          "label_split_top": "25 Weeks",
+          "label_split_bottom": "Pregnant",
+          "disclaimer_id": 2
+        },
+        {
+          "week_id": 23,
+          "label": "26 Weeks Pregnant",
+          "label_split_top": "26 Weeks",
+          "label_split_bottom": "Pregnant",
+          "disclaimer_id": 2
+        },
+        {
+          "week_id": 24,
+          "label": "27 Weeks Pregnant",
+          "label_split_top": "27 Weeks",
+          "label_split_bottom": "Pregnant",
+          "disclaimer_id": 3
+        },
+        {
+          "week_id": 25,
+          "label": "28 Weeks Pregnant",
+          "label_split_top": "28 Weeks",
+          "label_split_bottom": "Pregnant",
+          "disclaimer_id": 3
+        },
+        {
+          "week_id": 26,
+          "label": "29 Weeks Pregnant",
+          "label_split_top": "29 Weeks",
+          "label_split_bottom": "Pregnant",
+          "disclaimer_id": 3
+        },
+        {
+          "week_id": 27,
+          "label": "30 Weeks Pregnant",
+          "label_split_top": "30 Weeks",
+          "label_split_bottom": "Pregnant",
+          "disclaimer_id": 3
+        },
+        {
+          "week_id": 28,
+          "label": "31 Weeks Pregnant",
+          "label_split_top": "31 Weeks",
+          "label_split_bottom": "Pregnant",
+          "disclaimer_id": 3
+        },
+        {
+          "week_id": 29,
+          "label": "32 Weeks Pregnant",
+          "label_split_top": "32 Weeks",
+          "label_split_bottom": "Pregnant",
+          "disclaimer_id": 3
+        },
+        {
+          "week_id": 30,
+          "label": "33 Weeks Pregnant",
+          "label_split_top": "33 Weeks",
+          "label_split_bottom": "Pregnant",
+          "disclaimer_id": 3
+        },
+        {
+          "week_id": 31,
+          "label": "34 Weeks Pregnant",
+          "label_split_top": "34 Weeks",
+          "label_split_bottom": "Pregnant",
+          "disclaimer_id": 3
+        },
+        {
+          "week_id": 32,
+          "label": "35 Weeks Pregnant",
+          "label_split_top": "35 Weeks",
+          "label_split_bottom": "Pregnant",
+          "disclaimer_id": 3
+        },
+        {
+          "week_id": 33,
+          "label": "36 Weeks Pregnant",
+          "label_split_top": "36 Weeks",
+          "label_split_bottom": "Pregnant",
+          "disclaimer_id": 3
+        },
+        {
+          "week_id": 34,
+          "label": "37 Weeks Pregnant",
+          "label_split_top": "37 Weeks",
+          "label_split_bottom": "Pregnant",
+          "disclaimer_id": 4
+        },
+        {
+          "week_id": 35,
+          "label": "38 Weeks Pregnant",
+          "label_split_top": "38 Weeks",
+          "label_split_bottom": "Pregnant",
+          "disclaimer_id": 4
+        },
+        {
+          "week_id": 36,
+          "label": "39 Weeks Pregnant",
+          "label_split_top": "39 Weeks",
+          "label_split_bottom": "Pregnant",
+          "disclaimer_id": 4
+        },
+        {
+          "week_id": 37,
+          "label": "40 Weeks Pregnant",
+          "label_split_top": "40 Weeks",
+          "label_split_bottom": "Pregnant",
+          "disclaimer_id": 4
+        }
+      ],
+      "disclaimers": [
+        {
+          "id": 1,
+          "title": "You’re in your\n1st trimester!",
+          "text": "<p>Congrats on your growing babe! From now until the end of the first trimester, it’s safe to exercise as usual and not many modifications are needed.</p><p>To be on the safe side, we recommend switching high-impact moves for low-impact moves, so you will notice this program is entirely low-impact. But don’t let those low-impact moves fool you! You’re still going to break a sweat and get a killer workout in. Now you’re ready to crush it - let’s get to your first workout!</p><p>Any questions? You get FREE consultations with our Pre and Postnatal Certified Physical Therapist with your membership!<br>Email her at pt@fitbodyapp.com.</p>"
+        },
+        {
+          "id": 2,
+          "title": "You’re in your\n2nd trimester!",
+          "text": "<p>Welcome to the Second Trimester!! If they haven’t already, your energy levels should start returning soon and you’ll be feeling better than ever.</p> <p>Going forward, there are a few necessary modifications we will incorporate into the upcoming workouts.</p><p>Here are some modifications you can expect to make starting now through the end of your pregnancy</p><ul><li>Avoid lying on your back</li><li>Avoid crunches or similar movements</li><li>Transition from planks and push-ups to incline planks and incline push-ups</li><li>Avoid lying on your stomach</li></ul><p>Any questions? You get FREE consultations with our Pre and Postnatal Certified Physical Therapist with your membership! <br>Email her at pt@fitbodyapp.com</p>"
+        },
+        {
+          "id": 3,
+          "title": "You’re in your\n3rd trimester!",
+          "text": "<p>It’s already the Third Trimester! Can you believe how quickly time is flying?! It’s time for a few more modifications since that beautiful belly is continuing to grow.</p><p> Here are a few modifications you can expect to make starting now through the end of your pregnancy:</p><ul><li>Transition from incline planks and incline push-ups to knee planks and knee push-ups</li><li>Continue to avoid lying on your back </li><li>Continue to avoid crunches or similar movements</li><li>Continue to avoid lying on your stomach</li><li>When in a lying position, avoid sitting directly up and instead, roll to your side to get up</li></ul><p>Any questions? You get FREE consultations with our Pre and Postnatal Certified Physical Therapist with your membership!<br>Email her at pt@fitbodyapp.com</p>"
+        },
+        {
+          "id": 4,
+          "title": "You’re Almost There!",
+          "text": "<p>You and your babe have made it to term!! Yay! In these last few weeks of your pregnancy, in addition to focusing on strengthening your body to prepare for labor and postpartum, we’re also going to start incorporating moves that focus on opening your hips and preparing your pelvic floor for the big day.</p><p>Any questions? You get FREE consultations with our Pre and Postnatal Certified Physical Therapist with your membership!<br>Email her at pt@fitbodyapp.com</p>"
+        }
+      ],
+      "video_url": "/assets/trainers/1/anna_pregnancy.mp4",
+      "session_duration": "30",
+      "has_disclaimer": true,
+      "disclaimer_title": "Disclaimer",
+      "disclaimer_text": "<p style=\"text-align: center\">\nThe Grow + Glow program is a pregnancy workout program designed to correspond with each week and trimester of your pregnancy. This program assumes you are in good health and that your pregnancy is without risk factors or complications.\n<br/><br/>\nBy clicking Accept, you agree to the <a style=\"text-decoration: none; color: #ff6c8f\" href=\"https://join.fitbodyapp.com/terms-n-conditions\">Terms of Service</a>, and proceeding beyond this screen acknowledges you have received doctor’s approval to exercise during your pregnancy. If at any time you feel discomfort during your workout, immediately discontinue working out until you speak with your doctor.\n</p>",
+      "approval_required": true,
+      "week_selection_required": true,
+      "week_selection_title": "Welcome to Grow + Glow with Anna Victoria!",
+      "week_selection_text": "This is a pregnancy program that will guide you through safely exercising during your entire pregnancy, designed in collaboration with a pre and postnatal physical therapist, a pelvic floor physical therapist, and your personal trainer, Anna Victoria.\n\nEach week, the workouts are carefully designed based on how far along you are in your pregnancy and what trimester you’re in. Please select how far along you are:",
+      "bullets": [
+        "Three 30 min strength sessions",
+        "Two 10 min pelvic floor + core sessions"
+      ],
+      "is_coming_soon": false,
+      "categories": [
+        {
+          "id": 18,
+          "title": "Strength",
+          "image": "/assets/trainers/1/anna-pregancy-strength-category.png",
+          "sort_order": 1,
+          "icon_url": "/assets/trainers/1/calendar_strength.svg",
+          "icon": {
+            "id": 6,
+            "name": "Strength",
+            "icon_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/program_assets/calendar_strength.svg"
+          },
+          "hidden": false
+        },
+        {
+          "id": 19,
+          "title": "Pelvic Floor + Core",
+          "image": "/assets/trainers/1/anna-pregancy-pelvic-floor-category.png",
+          "sort_order": 2,
+          "icon_url": "/assets/trainers/1/calendar_strength.svg",
+          "icon": {
+            "id": 6,
+            "name": "Strength",
+            "icon_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/program_assets/calendar_strength.svg"
+          },
+          "hidden": false
+        },
+        {
+          "id": 20,
+          "title": "Cardio: Optional",
+          "image": "/assets/trainers/1/anna-pregancy-cardio-category.png",
+          "sort_order": 3,
+          "icon_url": "/assets/trainers/1/calendar_cardio.svg",
+          "icon": {
+            "id": 5,
+            "name": "Cardio",
+            "icon_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/program_assets/calendar_cardio.svg"
+          },
+          "hidden": false
+        }
+      ],
+      "equipment": [
+        {
+          "name": "Dumbbells",
+          "icon_url": "/assets/trainers/1/dumbbells.svg",
+          "adds_to_weight": false
+        },
+        {
+          "name": "Platform",
+          "icon_url": "/assets/trainers/1/platform.svg",
+          "adds_to_weight": true
+        },
+        {
+          "name": "Pilates Ball",
+          "icon_url": "/assets/trainers/1/pilates_ball.svg",
+          "adds_to_weight": true
+        },
+        {
+          "name": "Stability Ball",
+          "icon_url": "/assets/trainers/1/stability_ball.svg",
+          "adds_to_weight": true
+        }
+      ],
+      "rounds": [
+        {
+          "label": "TRI",
+          "description": "WEEKS 4 - 13",
+          "round_number": 1,
+          "start_week": 4,
+          "end_week": 13,
+          "is_open": true,
+          "is_in_progress": false,
+          "is_checked": true,
+          "is_active": true
+        },
+        {
+          "label": "TRI",
+          "description": "WEEKS 14 - 26",
+          "round_number": 2,
+          "start_week": 14,
+          "end_week": 26,
+          "is_open": true,
+          "is_in_progress": false,
+          "is_checked": true,
+          "is_active": true
+        },
+        {
+          "label": "TRI",
+          "description": "WEEKS 27 - 40",
+          "round_number": 3,
+          "start_week": 27,
+          "end_week": 40,
+          "is_open": true,
+          "is_in_progress": true,
+          "is_checked": false,
+          "is_active":true 
+        }
+      ]
+    },
+    "IGNITE": {
+      "id": 13,
+      "title": "Ignite",
+      "subtitle": "Burn Fat + Tone Up",
+      "description": "DUMBBELL CIRCUIT TRAINING",
+      "long_description": "Ignite is a moderate intensity strength program that uses dumbbells. Perfect for those who are short on time and want to get both cardio and strength done in the same session.",
+      "slug": "IGNITE",
+      "special_equipment_enabled": false,
+      "special_equipment_name": null,
+      "background_image_url": "/assets/trainers/1/ignite_bg.png",
+      "background_image_card_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/program_assets/ignite_cover.png",
+      "background_image_color_card_url": "/assets/trainers/1/h4pDpWQpAaPqb1EmDGD0gN6RosKfw67i6371BVJW.jpg",
+      "icon_url": "/assets/trainers/1/icon_24_px_program_sculpt.svg",
+      "logo_big_url": "/assets/trainers/1/ignite_large.svg",
+      "logo_small_url": "/assets/trainers/1/ignite.svg",
+      "color": "#FF6C8F",
+      "color_secondary": "#FA8DD5",
+      "workout_max_week": 12,
+      "total_workout_weeks": 12,
+      "sort_order": 9,
+      "hide_rounds": true,
+      "hide_challenges": false,
+      "all_weeks_available": false,
+      "at_home": true,
+      "at_gym": true,
+      "show_in_workouts_mvp": false,
+      "week_meta": [],
+      "disclaimers": [],
+      "video_url": "/assets/trainers/1/rise.mp4",
+      "session_duration": "10-20",
+      "has_disclaimer": false,
+      "disclaimer_title": null,
+      "disclaimer_text": null,
+      "approval_required": false,
+      "week_selection_required": false,
+      "week_selection_title": null,
+      "week_selection_text": null,
+      "bullets": [
+        "Three 20 minute strength sessions",
+        "One 10 minute core sessions",
+        "Strength vs Cardio = 50:50"
+      ],
+      "is_coming_soon": false,
+      "categories": [
+        {
+          "id": 26,
+          "title": "Strength",
+          "image": "/assets/trainers/1/438DsESiVLYWK5nEcwlSEuDo6TAYjLFiPNxsoEU7.jpg",
+          "sort_order": 0,
+          "icon_url": "/assets/trainers/1/calendar_strength.svg",
+          "icon": {
+            "id": 6,
+            "name": "Strength",
+            "icon_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/program_assets/calendar_strength.svg"
+          },
+          "hidden": false
+        },
+        {
+          "id": 27,
+          "title": "Core",
+          "image": "/assets/trainers/1/Zk1xPTRgaM5IGCEoCiflsj5Yj3ZVQD2G5K1taCXw.jpg",
+          "sort_order": 1,
+          "icon_url": "/assets/trainers/1/calendar_strength.svg",
+          "icon": {
+            "id": 6,
+            "name": "Strength",
+            "icon_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/program_assets/calendar_strength.svg"
+          },
+          "hidden": false
+        }
+      ],
+      "equipment": [
+        {
+          "name": "Dumbbells",
+          "icon_url": "/assets/trainers/1/dumbbells.svg",
+          "adds_to_weight": false
+        },
+        {
+          "name": "Platform",
+          "icon_url": "/assets/trainers/1/platform.svg",
+          "adds_to_weight": true
+        },
+        {
+          "name": "Yoga Mat",
+          "icon_url": "/assets/trainers/1/yoga_mat.svg",
+          "adds_to_weight": true
+        }
+      ],
+      "rounds": [
+        {
+          "label": "ROUND",
+          "description": "WEEKS 1 - 12",
+          "round_number": 1,
+          "start_week": 1,
+          "end_week": 12,
+          "is_open": true,
+          "is_in_progress": true,
+          "is_checked": false,
+          "is_active": true
+        }
+      ]
+    },
+    "STRONG": {
+      "id": 6,
+      "title": "Strong",
+      "subtitle": "Build Muscle + Gain Strength",
+      "description": "STRENGTH TRAINING",
+      "long_description": "Strong is a bodybuilding program that requires gym equipment. Perfect for those already familiar with lifting weights and are looking to take their strength training to the next level and maximize results.",
+      "slug": "STRONG",
+      "special_equipment_enabled": false,
+      "special_equipment_name": null,
+      "background_image_url": "/assets/trainers/2/strong_bg.png",
+      "background_image_card_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/program_assets/strong_program_bg_card.png",
+      "background_image_color_card_url": "/assets/trainers/2/zT7uNF88hGn2aqJHtr8bUiCZxqMgb82erNAJayq0.jpeg",
+      "icon_url": "/assets/trainers/2/icon_24_px_program_sculpt.svg",
+      "logo_big_url": "/assets/trainers/2/strong_large.svg",
+      "logo_small_url": "/assets/trainers/2/strong.svg",
+      "color": "#0FB7BA",
+      "color_secondary": "#7BC1FF",
+      "workout_max_week": 12,
+      "total_workout_weeks": 12,
+      "sort_order": 1,
+      "hide_rounds": true,
+      "hide_challenges": false,
+      "all_weeks_available": false,
+      "at_home": false,
+      "at_gym": true,
+      "show_in_workouts_mvp": false,
+      "week_meta": [],
+      "disclaimers": [],
+      "video_url": "/assets/trainers/2/nicci_strong.mp4",
+      "session_duration": "90",
+      "has_disclaimer": false,
+      "disclaimer_title": null,
+      "disclaimer_text": null,
+      "approval_required": false,
+      "week_selection_required": false,
+      "week_selection_title": null,
+      "week_selection_text": null,
+      "bullets": [
+        "Five to Six 90 min strength sessions",
+        "One to Two 30 min cardio sessions",
+        "Strength vs Cardio = 90:10 focus"
+      ],
+      "is_coming_soon": false,
+      "categories": [
+        {
+          "id": 10,
+          "title": "Strength",
+          "image": "/assets/trainers/2/nicci-strong-strength-category.png",
+          "sort_order": 1,
+          "icon_url": "/assets/trainers/2/calendar_strength.svg",
+          "icon": {
+            "id": 6,
+            "name": "Strength",
+            "icon_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/program_assets/calendar_strength.svg"
+          },
+          "hidden": false
+        },
+        {
+          "id": 11,
+          "title": "Cardio",
+          "image": "/assets/trainers/2/nicci-strong-cardio-category.png",
+          "sort_order": 2,
+          "icon_url": "/assets/trainers/2/calendar_cardio.svg",
+          "icon": {
+            "id": 5,
+            "name": "Cardio",
+            "icon_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/program_assets/calendar_cardio.svg"
+          },
+          "hidden": false
+        }
+      ],
+      "equipment": [
+        {
+          "name": "Barbell",
+          "icon_url": "/assets/trainers/2/barbell.svg",
+          "adds_to_weight": false
+        },
+        {
+          "name": "Dumbbells",
+          "icon_url": "/assets/trainers/2/dumbbells.svg",
+          "adds_to_weight": false
+        },
+        {
+          "name": "Box",
+          "icon_url": "/assets/trainers/2/box.svg",
+          "adds_to_weight": true
+        },
+        {
+          "name": "Medicine Ball",
+          "icon_url": "/assets/trainers/2/medicine_ball.svg",
+          "adds_to_weight": false
+        }
+      ],
+      "rounds": [
+        {
+          "label": "ROUND",
+          "description": "WEEKS 1 - 12",
+          "round_number": 1,
+          "start_week": 1,
+          "end_week": 12,
+          "is_open": true,
+          "is_in_progress": true,
+          "is_checked": false,
+          "is_active": true
+        }
+      ]
+    },
+    "ENDURANCE": {
+      "id": 11,
+      "title": "Endurance",
+      "subtitle": "Increase Endurance + Build Strength",
+      "description": "High Intensity Training",
+      "long_description": "Endurance is a high intensity strength program that uses dumbbells and kettlebells. Perfect for those on a time crunch and looking to combine strength training and cardio in the same session to maximize cardiovascular and muscular endurance.",
+      "slug": "ENDURANCE",
+      "special_equipment_enabled": false,
+      "special_equipment_name": null,
+      "background_image_url": "/assets/trainers/2/endurance_bg.png",
+      "background_image_card_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/program_assets/endurance_program_bg_card.png",
+      "background_image_color_card_url": "/assets/trainers/2/nUAQ2UZEULZk1qhBseto4w6nO17gIWddIRP4Hlt9.jpeg",
+      "icon_url": "/assets/trainers/2/icon_24_px_program_sculpt.svg",
+      "logo_big_url": "/assets/trainers/2/endurance_large.svg",
+      "logo_small_url": "/assets/trainers/2/endurance.svg",
+      "color": "#0FB7BA",
+      "color_secondary": "#7BC1FF",
+      "workout_max_week": 12,
+      "total_workout_weeks": 12,
+      "sort_order": 1,
+      "hide_rounds": true,
+      "hide_challenges": false,
+      "all_weeks_available": false,
+      "at_home": true,
+      "at_gym": true,
+      "show_in_workouts_mvp": false,
+      "week_meta": [],
+      "disclaimers": [],
+      "video_url": "/assets/trainers/2/nicci_endurance.mp4",
+      "session_duration": "30",
+      "has_disclaimer": false,
+      "disclaimer_title": null,
+      "disclaimer_text": null,
+      "approval_required": false,
+      "week_selection_required": false,
+      "week_selection_title": null,
+      "week_selection_text": null,
+      "bullets": [
+        "Five 30 min strength sessions",
+        "One 15 min core session"
+      ],
+      "is_coming_soon": false,
+      "categories": [
+        {
+          "id": 21,
+          "title": "Strength",
+          "image": "/assets/trainers/2/nicci-endurance-strength-category.jpg",
+          "sort_order": 1,
+          "icon_url": "/assets/trainers/2/calendar_strength.svg",
+          "icon": {
+            "id": 6,
+            "name": "Strength",
+            "icon_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/program_assets/calendar_strength.svg"
+          },
+          "hidden": false
+        },
+        {
+          "id": 22,
+          "title": "Core",
+          "image": "/assets/trainers/2/nicci-endurance-core-category.jpg",
+          "sort_order": 2,
+          "icon_url": "/assets/trainers/2/calendar_strength.svg",
+          "icon": {
+            "id": 6,
+            "name": "Strength",
+            "icon_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/program_assets/calendar_strength.svg"
+          },
+          "hidden": false
+        },
+        {
+          "id": 23,
+          "title": "Cardio",
+          "image": "/assets/trainers/2/nicci-endurance-cardio-category.jpg",
+          "sort_order": 3,
+          "icon_url": "/assets/trainers/2/calendar_cardio.svg",
+          "icon": {
+            "id": 5,
+            "name": "Cardio",
+            "icon_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/program_assets/calendar_cardio.svg"
+          },
+          "hidden": false
+        }
+      ],
+      "equipment": [
+        {
+          "name": "Dumbbells",
+          "icon_url": "/assets/trainers/2/dumbbells.svg",
+          "adds_to_weight": false
+        },
+        {
+          "name": "Kettlebell",
+          "icon_url": "/assets/trainers/2/kettlebell.svg",
+          "adds_to_weight": false
+        },
+        {
+          "name": "Platform",
+          "icon_url": "/assets/trainers/2/platform.svg",
+          "adds_to_weight": true
+        },
+        {
+          "name": "Resistance Band",
+          "icon_url": "/assets/trainers/2/resistance_bands.svg",
+          "adds_to_weight": true
+        }
+      ],
+      "rounds": [
+        {
+          "label": "ROUND",
+          "description": "WEEKS 1 - 12",
+          "round_number": 1,
+          "start_week": 1,
+          "end_week": 12,
+          "is_open": true,
+          "is_in_progress": true,
+          "is_checked": false,
+          "is_active": true
+        }
+      ]
+    },
+    "MOVE": {
+      "id": 10,
+      "title": "Move",
+      "subtitle": "Stretch + Release",
+      "description": "Yoga Flexibility Training",
+      "long_description": "Move is a yoga-inspired flexibility training program. Perfect for all fitness levels looking to focus on their flexibility and mobility from anywhere.",
+      "slug": "MOVE",
+      "special_equipment_enabled": false,
+      "special_equipment_name": null,
+      "background_image_url": "/assets/trainers/4/move_bg.png",
+      "background_image_card_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/program_assets/move_program_bg_card.png",
+      "background_image_color_card_url": "/assets/trainers/4/vJJyPJbppURyMP23fieIYTADYO6CHefLnMVGtNZ4.jpeg",
+      "icon_url": "/assets/trainers/4/icon_24_px_program_sculpt.svg",
+      "logo_big_url": "/assets/trainers/4/move_large.svg",
+      "logo_small_url": "/assets/trainers/4/move.svg",
+      "color": "#C76DD4",
+      "color_secondary": "#C5BDFF",
+      "workout_max_week": 12,
+      "total_workout_weeks": 12,
+      "sort_order": 7,
+      "hide_rounds": true,
+      "hide_challenges": false,
+      "all_weeks_available": false,
+      "at_home": true,
+      "at_gym": false,
+      "show_in_workouts_mvp": false,
+      "week_meta": [],
+      "disclaimers": [],
+      "video_url": "/assets/trainers/4/martina_move.mp4",
+      "session_duration": "30-40",
+      "has_disclaimer": false,
+      "disclaimer_title": null,
+      "disclaimer_text": null,
+      "approval_required": false,
+      "week_selection_required": false,
+      "week_selection_title": null,
+      "week_selection_text": null,
+      "bullets": [
+        "Three 30-40 min upper body sessions",
+        "Three 30-40 min lower body sessions",
+        "Flexibility vs Strength = 80:20 focus"
+      ],
+      "is_coming_soon": false,
+      "categories": [
+        {
+          "id": 16,
+          "title": "Upper Body",
+          "image": "/assets/trainers/4/martina-move-upper-body-category.png",
+          "sort_order": 1,
+          "icon_url": "/assets/trainers/4/calendar_yoga.svg",
+          "icon": {
+            "id": 4,
+            "name": "Yoga",
+            "icon_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/program_assets/calendar_yoga.svg"
+          },
+          "hidden": false
+        },
+        {
+          "id": 17,
+          "title": "Lower Body",
+          "image": "/assets/trainers/4/martina-move-lower-body-category.png",
+          "sort_order": 2,
+          "icon_url": "/assets/trainers/4/calendar_yoga.svg",
+          "icon": {
+            "id": 4,
+            "name": "Yoga",
+            "icon_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/program_assets/calendar_yoga.svg"
+          },
+          "hidden": false
+        }
+      ],
+      "equipment": [
+        {
+          "name": "Blocks",
+          "icon_url": "/assets/trainers/4/blocks.svg",
+          "adds_to_weight": true
+        },
+        {
+          "name": "Yoga Mat",
+          "icon_url": "/assets/trainers/4/yoga_mat.svg",
+          "adds_to_weight": true
+        },
+        {
+          "name": "Strap",
+          "icon_url": "/assets/trainers/4/straps.svg",
+          "adds_to_weight": true
+        }
+      ],
+      "rounds": [
+        {
+          "label": "ROUND",
+          "description": "WEEKS 1 - 12",
+          "round_number": 1,
+          "start_week": 1,
+          "end_week": 12,
+          "is_open": true,
+          "is_in_progress": true,
+          "is_checked": false,
+          "is_active": true
+        }
+      ]
+    },
+    "RISE": {
+      "id": 12,
+      "title": "Rise",
+      "subtitle": "Strengthen + Align",
+      "description": "Yoga Strength Training",
+      "long_description": "Rise is a yoga-inspired strength training program. Perfect for all fitness levels looking to lengthen and strengthen with yoga-inspired bodyweight moves.",
+      "slug": "RISE",
+      "special_equipment_enabled": false,
+      "special_equipment_name": null,
+      "background_image_url": "/assets/trainers/4/rise_bg.png",
+      "background_image_card_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/program_assets/rise_program_bg.png",
+      "background_image_color_card_url": "/assets/trainers/4/1HchxJ0pFftx78Et5MskOvmzXTzuKSx0SM3iZqUM.jpeg",
+      "icon_url": "/assets/trainers/4/icon_24_px_program_sculpt.svg",
+      "logo_big_url": "/assets/trainers/4/rise_large.svg",
+      "logo_small_url": "/assets/trainers/4/rise.svg",
+      "color": "#C76DD4",
+      "color_secondary": "#C5BDFF",
+      "workout_max_week": 12,
+      "total_workout_weeks": 12,
+      "sort_order": 8,
+      "hide_rounds": true,
+      "hide_challenges": false,
+      "all_weeks_available": false,
+      "at_home": true,
+      "at_gym": false,
+      "show_in_workouts_mvp": false,
+      "week_meta": [],
+      "disclaimers": [],
+      "video_url": "/assets/trainers/4/rise.mp4",
+      "session_duration": "25-35",
+      "has_disclaimer": false,
+      "disclaimer_title": null,
+      "disclaimer_text": null,
+      "approval_required": false,
+      "week_selection_required": false,
+      "week_selection_title": null,
+      "week_selection_text": null,
+      "bullets": [
+        "Three 25-35 min upper body sessions",
+        "Three 25-35 min lower body sessions",
+        "Flexibility vs Strength = 70:30 focus"
+      ],
+      "is_coming_soon": false,
+      "categories": [
+        {
+          "id": 24,
+          "title": "Upper Body",
+          "image": "/assets/trainers/4/martina-rise-upper-body.png",
+          "sort_order": 1,
+          "icon_url": "/assets/trainers/4/calendar_yoga.svg",
+          "icon": {
+            "id": 4,
+            "name": "Yoga",
+            "icon_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/program_assets/calendar_yoga.svg"
+          },
+          "hidden": false
+        },
+        {
+          "id": 25,
+          "title": "Lower Body",
+          "image": "/assets/trainers/4/martina-rise-lower-body.png",
+          "sort_order": 2,
+          "icon_url": "/assets/trainers/4/calendar_yoga.svg",
+          "icon": {
+            "id": 4,
+            "name": "Yoga",
+            "icon_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/program_assets/calendar_yoga.svg"
+          },
+          "hidden": false
+        }
+      ],
+      "equipment": [
+        {
+          "name": "Blocks",
+          "icon_url": "/assets/trainers/4/blocks.svg",
+          "adds_to_weight": true
+        },
+        {
+          "name": "Yoga Mat",
+          "icon_url": "/assets/trainers/4/yoga_mat.svg",
+          "adds_to_weight": true
+        }
+      ],
+      "rounds": [
+        {
+          "label": "ROUND",
+          "description": "WEEKS 1 - 12",
+          "round_number": 1,
+          "start_week": 1,
+          "end_week": 12,
+          "is_open": true,
+          "is_in_progress": true,
+          "is_checked": false,
+          "is_active": true
+        }
+      ]
+    },
+    "REVIVE": {
+      "id": 7,
+      "title": "Revive",
+      "subtitle": "Regain Strength + Restore Your Core",
+      "description": "POSTPARTUM TRAINING",
+      "long_description": "Revive is a low intensity, postpartum-safe program perfect for postpartum mothers looking to gently ease back into exercise, or those who are looking for gentle workouts even if not postpartum.",
+      "slug": "REVIVE",
+      "special_equipment_enabled": false,
+      "special_equipment_name": null,
+      "background_image_url": "/assets/trainers/3/revive_bg.png",
+      "background_image_card_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/program_assets/postpartium_program_bg_card.png",
+      "background_image_color_card_url": "/assets/trainers/3/KTUyELJpgUyAyjnHTXg44ukdDujDEg1aUZs2Xza4.jpeg",
+      "icon_url": "/assets/trainers/3/icon_24_px_program_sculpt.svg",
+      "logo_big_url": "/assets/trainers/3/revive_large.svg",
+      "logo_small_url": "/assets/trainers/3/revive.svg",
+      "color": "#007181",
+      "color_secondary": "#0FB7BA",
+      "workout_max_week": 12,
+      "total_workout_weeks": 12,
+      "sort_order": 4,
+      "hide_rounds": true,
+      "hide_challenges": true,
+      "all_weeks_available": false,
+      "at_home": true,
+      "at_gym": true,
+      "show_in_workouts_mvp": false,
+      "week_meta": [],
+      "disclaimers": [],
+      "video_url": "/assets/trainers/3/brittany_revive.mp4",
+      "session_duration": "20-30",
+      "has_disclaimer": true,
+      "disclaimer_title": "Welcome to Revive: the Fit Body Postpartum Program!",
+      "disclaimer_text": "<p style=\"text-align: center\">Whether you're a few weeks, months, or years postpartum, this program is a great place to start in order to rebuild your core and total body strength.</p><p style=\"text-align: center\">A few things to keep in mind:</p><ul><li>Please ensure you have received doctor's approval to exercise before beginning this or any workout program.</li><li>If at any time you see 'coning' or bulging in your belly when you perform any moves, take a break and check in with your abdominal muscles. If the coning continues despite trying to activate your deep core muscles, this is a sign of Diastasis Recti. Please discontinue the exercise and email our Team Physical Therapist at pt@fitbodyapp.com for guidance on how to properly engage your core and combat abdominal separation.</li><li>Go at your own pace! Everyone's postpartum journey will look slightly different. Remember that as you embark on this new part of your fitness journey, and don't hesitate to reach out to Team Fit Body if there's anything you need help with!</li><br /></ul>",
+      "approval_required": false,
+      "week_selection_required": false,
+      "week_selection_title": null,
+      "week_selection_text": null,
+      "bullets": [
+        "Two 20 min strength sessions",
+        "One 30 min core session",
+        "Strength vs Cardio = 80:20 focus"
+      ],
+      "is_coming_soon": false,
+      "categories": [
+        {
+          "id": 12,
+          "title": "Strength",
+          "image": "/assets/trainers/3/brittany-revive-strength-category.png",
+          "sort_order": 1,
+          "icon_url": "/assets/trainers/3/calendar_strength.svg",
+          "icon": {
+            "id": 6,
+            "name": "Strength",
+            "icon_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/program_assets/calendar_strength.svg"
+          },
+          "hidden": false
+        },
+        {
+          "id": 13,
+          "title": "Core",
+          "image": "/assets/trainers/3/brittany-revive-cardio-core-category.png",
+          "sort_order": 2,
+          "icon_url": "/assets/trainers/3/calendar_strength.svg",
+          "icon": {
+            "id": 6,
+            "name": "Strength",
+            "icon_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/program_assets/calendar_strength.svg"
+          },
+          "hidden": false
+        }
+      ],
+      "equipment": [
+        {
+          "name": "Dumbbells",
+          "icon_url": "/assets/trainers/3/dumbbells.svg",
+          "adds_to_weight": false
+        },
+        {
+          "name": "Pilates Ball",
+          "icon_url": "/assets/trainers/3/pilates_ball.svg",
+          "adds_to_weight": true
+        },
+        {
+          "name": "Platform",
+          "icon_url": "/assets/trainers/3/platform.svg",
+          "adds_to_weight": true
+        },
+        {
+          "name": "Resistance Band",
+          "icon_url": "/assets/trainers/3/resistance_bands.svg",
+          "adds_to_weight": true
+        }
+      ],
+      "rounds": [
+        {
+          "label": "ROUND",
+          "description": "WEEKS 1 - 12",
+          "round_number": 1,
+          "start_week": 1,
+          "end_week": 12,
+          "is_open": true,
+          "is_in_progress": true,
+          "is_checked": false,
+          "is_active": true
+        }
+      ]
+    },
+    "LIFT": {
+      "id": 8,
+      "title": "Lift",
+      "subtitle": "Gain Strength + Burn Fat",
+      "description": "STRENGTH TRAINING",
+      "long_description": "Lift is a traditional, low-intensity lifting program that requires gym equipment. Perfect for those new to lifting and looking to focus on increasing strength and building muscle.",
+      "slug": "LIFT",
+      "special_equipment_enabled": false,
+      "special_equipment_name": null,
+      "background_image_url": "/assets/trainers/3/lift_bg.png",
+      "background_image_card_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/program_assets/lift_program_bg_card.png",
+      "background_image_color_card_url": "/assets/trainers/3/AGzNeuAJaegmpBDtivlIinlrt1Zh3ZEFXbD92vmy.jpeg",
+      "icon_url": "/assets/trainers/3/icon_24_px_program_sculpt.svg",
+      "logo_big_url": "/assets/trainers/3/lift_large.svg",
+      "logo_small_url": "/assets/trainers/3/lift.svg",
+      "color": "#007181",
+      "color_secondary": "#0FB7BA",
+      "workout_max_week": 12,
+      "total_workout_weeks": 24,
+      "sort_order": 5,
+      "hide_rounds": true,
+      "hide_challenges": false,
+      "all_weeks_available": false,
+      "at_home": false,
+      "at_gym": true,
+      "show_in_workouts_mvp": false,
+      "week_meta": [],
+      "disclaimers": [],
+      "video_url": "/assets/trainers/3/brittany_lift.mp4",
+      "session_duration": "60",
+      "has_disclaimer": false,
+      "disclaimer_title": null,
+      "disclaimer_text": null,
+      "approval_required": false,
+      "week_selection_required": false,
+      "week_selection_title": null,
+      "week_selection_text": null,
+      "bullets": [
+        "Four 60 min strength sessions",
+        "One 30 min cardio + core session",
+        "Strength vs Flexibility = 80:20 focus"
+      ],
+      "is_coming_soon": false,
+      "categories": [
+        {
+          "id": 14,
+          "title": "Strength",
+          "image": "/assets/trainers/3/brittany-revive-upper-body.png",
+          "sort_order": 1,
+          "icon_url": "/assets/trainers/3/calendar_strength.svg",
+          "icon": {
+            "id": 6,
+            "name": "Strength",
+            "icon_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/program_assets/calendar_strength.svg"
+          },
+          "hidden": false
+        },
+        {
+          "id": 15,
+          "title": "Cardio + Core",
+          "image": "/assets/trainers/3/brittany-revive-lower-body.png",
+          "sort_order": 2,
+          "icon_url": "/assets/trainers/3/calendar_strength.svg",
+          "icon": {
+            "id": 6,
+            "name": "Strength",
+            "icon_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/program_assets/calendar_strength.svg"
+          },
+          "hidden": false
+        }
+      ],
+      "equipment": [
+        {
+          "name": "Barbell",
+          "icon_url": "/assets/trainers/3/barbell.svg",
+          "adds_to_weight": false
+        },
+        {
+          "name": "Dumbbells",
+          "icon_url": "/assets/trainers/3/dumbbells.svg",
+          "adds_to_weight": false
+        },
+        {
+          "name": "Bosu Ball",
+          "icon_url": "/assets/trainers/3/bosu_ball.svg",
+          "adds_to_weight": true
+        },
+        {
+          "name": "Resistance Band",
+          "icon_url": "/assets/trainers/3/resistance_bands.svg",
+          "adds_to_weight": true
+        }
+      ],
+      "rounds": [
+        {
+          "label": "ROUND",
+          "description": "WEEKS 1 - 12",
+          "round_number": 1,
+          "start_week": 1,
+          "end_week": 12,
+          "is_open": true,
+          "is_in_progress": false,
+          "is_checked": true,
+          "is_active": true
+        },
+        {
+          "label": "ROUND",
+          "description": "WEEKS 13 - 24",
+          "round_number": 2,
+          "start_week": 13,
+          "end_week": 24,
+          "is_open": true,
+          "is_in_progress": true,
+          "is_checked": false,
+          "is_active": true
+        }
+      ]
+    }
+  }
+}

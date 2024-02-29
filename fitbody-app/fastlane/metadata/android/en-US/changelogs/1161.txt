@@ -1,0 +1,7 @@
+3.2.5-1161
+
+- Workout history
+- New program icons throughout the app
+- Rate my app redesign
+
+For testing purposes, Rate my App is shown on every completed workout.

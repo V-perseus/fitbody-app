@@ -1,0 +1,3 @@
+3.2.9-1194
+- FB-1416: "clear all" appears to clear all unread notifications but it does not
+- FB-1395: Android -- App icon needs to be added to the system push notification

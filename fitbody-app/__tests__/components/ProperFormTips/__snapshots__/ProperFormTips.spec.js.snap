@@ -1,0 +1,242 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProperFormTips renders snapshot correctly 1`] = `
+<View
+  pointerEvents="box-none"
+  style={
+    [
+      {
+        "alignItems": "center",
+        "bottom": 0,
+        "justifyContent": "flex-end",
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+      },
+      {
+        "bottom": 20,
+        "height": 715.4492753623188,
+        "zIndex": 0,
+      },
+    ]
+  }
+>
+  <View
+    collapsable={false}
+    style={
+      {
+        "backgroundColor": "transparent",
+        "bottom": 0,
+        "height": 1334,
+        "left": 0,
+        "paddingBottom": 856.0289855072464,
+        "position": "absolute",
+        "right": 0,
+        "transform": [
+          {
+            "translateY": 1110.674107142857,
+          },
+          {
+            "translateX": 0,
+          },
+        ],
+      }
+    }
+  >
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      hitSlop={18}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onFocus={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "backgroundColor": "#ffffff",
+            "borderTopLeftRadius": 54.34782608695652,
+            "borderTopRightRadius": 54.34782608695652,
+            "display": "flex",
+            "elevation": 7,
+            "justifyContent": "center",
+            "shadowColor": "#000000",
+            "shadowOffset": {
+              "height": 0,
+              "width": 0,
+            },
+            "shadowOpacity": 0.17,
+            "shadowRadius": 10,
+            "width": 750,
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "backgroundColor": "#dedede",
+              "borderRadius": 2.5,
+              "height": 5,
+              "justifyContent": "center",
+              "marginVertical": 10,
+              "width": 32,
+            }
+          }
+        />
+        <View
+          style={
+            {
+              "backgroundColor": "#ffffff",
+              "flexDirection": "row",
+              "height": 49,
+              "paddingHorizontal": 16,
+            }
+          }
+        >
+          <Text
+            style={
+              {
+                "color": "#333333",
+                "flexGrow": 1,
+                "fontFamily": "OpenSans-Bold",
+                "fontSize": 18,
+                "marginTop": -5,
+                "textAlign": "center",
+              }
+            }
+          >
+            Proper Form Tips
+          </Text>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "borderWidth": 0,
+          "height": 156,
+        }
+      }
+    >
+      <RCTScrollView
+        bounces={true}
+        contentContainerStyle={
+          {
+            "backgroundColor": "#ffffff",
+            "flexGrow": 1,
+          }
+        }
+        indicatorStyle="black"
+        scrollEnabled={false}
+        scrollEventThrottle={16}
+        showsHorizontalScrollIndicator={false}
+        showsVerticalScrollIndicator={true}
+      >
+        <View>
+          <View
+            style={
+              {
+                "marginBottom": 40,
+                "marginTop": 5,
+              }
+            }
+          >
+            <View
+              style={
+                {
+                  "paddingHorizontal": 48,
+                }
+              }
+            >
+              <Text
+                style={
+                  {
+                    "color": "#333333",
+                    "fontFamily": "OpenSans",
+                    "fontSize": 14,
+                  }
+                }
+              >
+                this is a tip
+              </Text>
+            </View>
+          </View>
+        </View>
+      </RCTScrollView>
+      <BVLinearGradient
+        colors={
+          [
+            16777215,
+            4294967295,
+          ]
+        }
+        endPoint={
+          {
+            "x": 0.5,
+            "y": 1,
+          }
+        }
+        locations={null}
+        pointerEvents="none"
+        startPoint={
+          {
+            "x": 0.5,
+            "y": 0,
+          }
+        }
+        style={
+          {
+            "borderRadius": 10,
+            "borderWidth": 0,
+            "bottom": 0,
+            "height": 10,
+            "position": "absolute",
+            "width": 750,
+          }
+        }
+      />
+      <BVLinearGradient
+        colors={
+          [
+            4294967295,
+            16777215,
+          ]
+        }
+        endPoint={
+          {
+            "x": 0.5,
+            "y": 1,
+          }
+        }
+        locations={null}
+        pointerEvents="none"
+        startPoint={
+          {
+            "x": 0.5,
+            "y": 0,
+          }
+        }
+        style={
+          {
+            "borderRadius": 10,
+            "borderWidth": 0,
+            "height": 10,
+            "position": "absolute",
+            "top": 0,
+            "width": 750,
+          }
+        }
+      />
+    </View>
+  </View>
+</View>
+`;

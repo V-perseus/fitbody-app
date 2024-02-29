@@ -1,0 +1,6 @@
+Intermediate test build; only test features mentioned below;
+Do not report bugs on other aspects of the application.
+
+- Workout overview
+- Challenge overview
+- Bugfixes

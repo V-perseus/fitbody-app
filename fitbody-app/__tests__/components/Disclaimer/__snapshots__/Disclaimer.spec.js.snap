@@ -1,0 +1,163 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Disclaimer renders snapshot correctly 1`] = `
+<View
+  style={
+    {
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "borderWidth": 4,
+        "flex": 1,
+        "flexDirection": "column",
+        "justifyContent": "center",
+      }
+    }
+  >
+    <View
+      collapsable={false}
+      forwardedRef={[Function]}
+      style={
+        {
+          "opacity": 0,
+          "transform": [
+            {
+              "translateY": 100,
+            },
+          ],
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "backgroundColor": "#ffffff",
+            "borderRadius": 8,
+            "borderWidth": 1,
+            "marginHorizontal": 16,
+            "maxHeight": 1302,
+            "paddingBottom": 22,
+            "paddingHorizontal": 32,
+            "paddingTop": 22,
+            "width": 718,
+          }
+        }
+      >
+        <health.svg />
+        <Text
+          style={
+            {
+              "color": "#fa8dd5",
+              "fontFamily": "BebasNeue",
+              "fontSize": 42.173913043478265,
+              "marginTop": 10,
+              "textAlign": "center",
+            }
+          }
+        >
+          TITLE
+        </Text>
+        <RCTScrollView
+          style={
+            {
+              "marginBottom": 11,
+            }
+          }
+        >
+          <View>
+            <View
+              style={{}}
+            >
+              <View
+                style={
+                  [
+                    {},
+                    {},
+                    {},
+                  ]
+                }
+              >
+                <Text
+                  allowFontScaling={true}
+                  selectable={false}
+                  style={
+                    [
+                      {},
+                      {},
+                    ]
+                  }
+                >
+                  <Text
+                    allowFontScaling={true}
+                    style={
+                      {
+                        "fontSize": 14,
+                      }
+                    }
+                  >
+                    BODY
+                  </Text>
+                </Text>
+              </View>
+            </View>
+          </View>
+        </RCTScrollView>
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginTop": 16,
+            }
+          }
+        >
+          <View
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "backgroundColor": "#fa8dd5",
+                "borderRadius": 8,
+                "flex": 1,
+                "height": 48,
+                "justifyContent": "center",
+                "marginRight": 5,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "#ffffff",
+                  "fontFamily": "OpenSans-Semibold",
+                  "fontSize": 14,
+                }
+              }
+            >
+              GOT IT!
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;

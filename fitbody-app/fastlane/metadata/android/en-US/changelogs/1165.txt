@@ -1,0 +1,5 @@
+3.2.5-1165 Gold version
+
+- Calendar redesign
+- Rate my app
+- Program icon redesign

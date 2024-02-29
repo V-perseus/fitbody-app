@@ -1,0 +1,165 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ButtonFloatingGroup renders snapshot correctly 1`] = `
+<BVLinearGradient
+  colors={
+    [
+      16777215,
+      4294967295,
+    ]
+  }
+  endPoint={
+    {
+      "x": 0.5,
+      "y": 1,
+    }
+  }
+  locations={null}
+  startPoint={
+    {
+      "x": 0.5,
+      "y": 0,
+    }
+  }
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "width": 750,
+      "zIndex": 10,
+    }
+  }
+>
+  <View
+    style={
+      {
+        "flexDirection": "row",
+        "paddingHorizontal": 16,
+      }
+    }
+  >
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onFocus={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        [
+          {
+            "alignItems": "center",
+            "backgroundColor": "#7bc1ff",
+            "borderRadius": 60,
+            "elevation": 3,
+            "flex": 1,
+            "flexDirection": "row",
+            "height": 120,
+            "justifyContent": "center",
+            "marginBottom": 64.28571428571428,
+            "marginHorizontal": 17.142857142857142,
+            "marginTop": 53.57142857142857,
+            "marginVertical": 10.714285714285714,
+            "shadowColor": "#7bc1ff",
+            "shadowOffset": {
+              "height": 0,
+              "width": 0,
+            },
+            "shadowOpacity": 0.7,
+            "shadowRadius": 32.14285714285714,
+          },
+          undefined,
+        ]
+      }
+      testID="button_left"
+    >
+      <share.svg
+        color="#ffffff"
+        height={51.42857142857143}
+        width={51.42857142857143}
+      />
+      <Text
+        style={
+          {
+            "color": "#ffffff",
+            "fontFamily": "OpenSans-Semibold",
+            "fontSize": 25.142857142857142,
+            "marginLeft": 17.142857142857142,
+            "textAlign": "center",
+          }
+        }
+      >
+        left
+      </Text>
+    </View>
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onFocus={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        [
+          {
+            "alignItems": "center",
+            "backgroundColor": "#ff6c8f",
+            "borderRadius": 60,
+            "elevation": 3,
+            "flex": 1,
+            "flexDirection": "row",
+            "height": 120,
+            "justifyContent": "center",
+            "marginBottom": 64.28571428571428,
+            "marginHorizontal": 17.142857142857142,
+            "marginTop": 53.57142857142857,
+            "marginVertical": 10.714285714285714,
+            "shadowColor": "#fa8dd5",
+            "shadowOffset": {
+              "height": 0,
+              "width": 0,
+            },
+            "shadowOpacity": 0.7,
+            "shadowRadius": 32.14285714285714,
+          },
+          undefined,
+        ]
+      }
+      testID="button_right"
+    >
+      <edit.svg
+        color="#ffffff"
+        height={51.42857142857143}
+        width={51.42857142857143}
+      />
+      <Text
+        style={
+          {
+            "color": "#ffffff",
+            "fontFamily": "OpenSans-Semibold",
+            "fontSize": 25.142857142857142,
+            "marginLeft": 17.142857142857142,
+            "textAlign": "center",
+          }
+        }
+      >
+        right
+      </Text>
+    </View>
+  </View>
+</BVLinearGradient>
+`;

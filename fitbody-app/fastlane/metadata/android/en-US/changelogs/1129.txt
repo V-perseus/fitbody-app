@@ -1,0 +1,4 @@
+PoC build for new mechanism for workouts:
+- All workouts are downloaded on open and cleaned up
+- Dramatically improves performance on workouts
+- Overall download speed is improved a lot

@@ -1,0 +1,6 @@
+- Mealplan week selector drop down (1094)
+- Exercise equipment icon cut-off (1094)
+- Disappearing status bar on some screens (1094)
+- Logic to allow calendar navigation to April (1094)
+- Profile screen layout
+- Macro calculator button margin

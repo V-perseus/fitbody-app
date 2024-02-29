@@ -1,0 +1,2853 @@
+{
+  "categories": {
+    "On Demand": [
+      {
+        "id": 9,
+        "name": "30 Day Tone",
+        "description": "Join Anna Victoria for a 30 day program and work out with her in real time! 30 Day Tone is based on her most popular Fit Body program, Tone. It\u2019s perfect for beginners, anyone looking for extra guidance and accountability, or just a killer sweat sesh you can do alongside Anna.",
+        "icon_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/",
+        "image_url": "/assets/media/9/fvqN34JAMATVIhxsCbydaKZeNiqrbBkeo2IWEWzj.png",
+        "header_image_url": "/assets/media/9/ENdmsZ7roNfbXVVe9W7azD0pBolKMYqcbNYZdkYW.png",
+        "offline_image_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/",
+        "period_term": "week",
+        "class_description": "4 Week Program",
+        "sort_order": 5,
+        "hidden": true
+      },
+      {
+        "id": 5,
+        "name": "Cardio",
+        "description": "Compliment your Fit Body workouts by completing one of our cardio classes from two of our Fit Body trainers, Nicci and Brittany! These high impact classes range from 15 to 30 minutes and are designed to burn fat, get your heart rate up, and leave you feeling great.",
+        "icon_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/",
+        "image_url": "/assets/media/5/cardio.png",
+        "header_image_url": "/assets/media/5/cardio_header.jpg",
+        "offline_image_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/",
+        "period_term": "class",
+        "class_description": "12 Classes",
+        "sort_order": 6,
+        "hidden": false
+      },
+      {
+        "id": 6,
+        "name": "Low Impact",
+        "description": "These low impact workouts are designed to be used in connection with your Fit Body program for active recovery days or when you need low to mid intensity workouts that are easy on the joints.",
+        "icon_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/",
+        "image_url": "/assets/media/6/low-impact.png",
+        "header_image_url": "/assets/media/6/low-impact_header.jpg",
+        "offline_image_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/",
+        "period_term": "class",
+        "class_description": "8 Classes",
+        "sort_order": 7,
+        "hidden": false
+      },
+      {
+        "id": 7,
+        "name": "Yoga Flows",
+        "description": "These beginner to intermediate yoga flows can be incorporated into any Fit Body program to encourage active recovery, help improve flexibility, and lengthen and strengthen your body.",
+        "icon_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/",
+        "image_url": "/assets/media/7/yoga-flows.png",
+        "header_image_url": "/assets/media/7/yoga-flows_header.jpg",
+        "offline_image_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/",
+        "period_term": "class",
+        "class_description": "8 Classes",
+        "sort_order": 8,
+        "hidden": false
+      },
+      {
+        "id": 8,
+        "name": "Postpartum",
+        "description": "These low impact, low intensity workouts are designed for newly postpartum and post C-section mothers who need to safely strengthen their inner core muscles with exercises reviewed and approved by a Pelvic Floor Physical Therapist.",
+        "icon_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/",
+        "image_url": "/assets/media/8/postpartum.png",
+        "header_image_url": "/assets/media/8/postpartum_header.jpg",
+        "offline_image_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/",
+        "period_term": "class",
+        "class_description": "8 Classes",
+        "sort_order": 9,
+        "hidden": false
+      }
+    ],
+    "Guidance": [
+      {
+        "id": 1,
+        "name": "Fitness",
+        "description": "Get Fit Body\u2019s top fitness tips on everything from proper form and workout routines, to accurately tracking your progress and improving your overall performance so you can get the best results.",
+        "icon_url": "/assets/media/1/fitness.svg",
+        "image_url": "/assets/media/1/fitness.png",
+        "header_image_url": "/assets/media/1/fitness_header.jpg",
+        "offline_image_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/",
+        "period_term": "class",
+        "class_description": "20 Classes",
+        "sort_order": 1,
+        "hidden": false
+      },
+      {
+        "id": 2,
+        "name": "Food",
+        "description": "Learn how to use Fit Body\u2019s meal plans, recipes, and macro tracking along with the fundamentals of healthy eating so you can fuel your body with the nutrients it needs to feel good.",
+        "icon_url": "/assets/media/2/food.svg",
+        "image_url": "/assets/media/2/food.png",
+        "header_image_url": "/assets/media/2/food_header.jpg",
+        "offline_image_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/",
+        "period_term": "class",
+        "class_description": "17 Classes",
+        "sort_order": 2,
+        "hidden": false
+      },
+      {
+        "id": 3,
+        "name": "Rehabilitation",
+        "description": "Watch these easy-to-follow demonstrations of repair and recovery moves that can be incorporated before, during or after any Fit Body workout.",
+        "icon_url": "/assets/media/3/rehabilitation.svg",
+        "image_url": "/assets/media/3/rehabilitation.png",
+        "header_image_url": "/assets/media/3/rehabilitation_header.jpg",
+        "offline_image_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/",
+        "period_term": "class",
+        "class_description": "20 Classes",
+        "sort_order": 3,
+        "hidden": false
+      },
+      {
+        "id": 4,
+        "name": "Body Love",
+        "description": "Get your mind in the right place. These lifestyle guidance videos are designed\u200b\u200bto help you reach your goals of achieving physical, mental, and emotional well-being through making fitness a priority while still enjoying life.",
+        "icon_url": "/assets/media/4/body_love.svg",
+        "image_url": "/assets/media/4/body-love.png",
+        "header_image_url": "/assets/media/4/body-love_header.jpg",
+        "offline_image_url": "https://bodylove-cf.s3-us-west-2.amazonaws.com/",
+        "period_term": "class",
+        "class_description": "8 Classes",
+        "sort_order": 4,
+        "hidden": false
+      }
+    ]
+  },
+  "guidance": {
+    "Fitness": [
+      {
+        "id": 22,
+        "name": "CARDIO WARM UP",
+        "category_id": 1,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/22/nwsrVfTJbhNDgILbGfQaEqjCiPiBzAE4KtCWfGVZ.jpeg",
+        "duration": 28,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/f6246bae-c3af-43d9-b863-40939e3b2b71/AppleHLS1/rHd1gshQiRygFcFHZeIui3CROSJvfm55EiYsNuMn.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/f6246bae-c3af-43d9-b863-40939e3b2b71/DASHISO1/rHd1gshQiRygFcFHZeIui3CROSJvfm55EiYsNuMn.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/f6246bae-c3af-43d9-b863-40939e3b2b71/FileGroup1/rHd1gshQiRygFcFHZeIui3CROSJvfm55EiYsNuMn_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 23,
+        "name": "SHRED + TONE WEEKLY ROUTINE",
+        "category_id": 1,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/23/D1G2MyTGrtxZqq1dI3nYVR5u98bb6kPhViZJK7wE.jpeg",
+        "duration": 29,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/1771dbc4-7a8b-4ec4-9f74-d7df4ec6597a/AppleHLS1/ju3N3GEV3ixwI3jKTCg3xkYcWGXiVsX8Qmtp8J5k.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/1771dbc4-7a8b-4ec4-9f74-d7df4ec6597a/DASHISO1/ju3N3GEV3ixwI3jKTCg3xkYcWGXiVsX8Qmtp8J5k.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/1771dbc4-7a8b-4ec4-9f74-d7df4ec6597a/FileGroup1/ju3N3GEV3ixwI3jKTCg3xkYcWGXiVsX8Qmtp8J5k_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 24,
+        "name": "HIIT CARDIO",
+        "category_id": 1,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/24/w74iRyJjSn8G7bNnAUxhvkvHN31gRU4mjJvHXySp.jpeg",
+        "duration": 30,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/4a025bbb-2830-4f36-9aeb-8fca692d5029/AppleHLS1/Q9DDvguOLJJ7xSpbsu04kTgZ3QY37hhXTEVRaC33.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/4a025bbb-2830-4f36-9aeb-8fca692d5029/DASHISO1/Q9DDvguOLJJ7xSpbsu04kTgZ3QY37hhXTEVRaC33.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/4a025bbb-2830-4f36-9aeb-8fca692d5029/FileGroup1/Q9DDvguOLJJ7xSpbsu04kTgZ3QY37hhXTEVRaC33_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 25,
+        "name": "AVOIDING MUSCLE CATABOLISM",
+        "category_id": 1,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/25/O991md8YHo6f94NvAjJIS5P7ai1eNTESxDC9cbmX.jpeg",
+        "duration": 31,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/ece19526-0890-4f68-9a13-cecb90d1c9fe/AppleHLS1/KXJwinEMlYaJLAHolMmonetZogJVvWkH9urtJJis.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/ece19526-0890-4f68-9a13-cecb90d1c9fe/DASHISO1/KXJwinEMlYaJLAHolMmonetZogJVvWkH9urtJJis.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/ece19526-0890-4f68-9a13-cecb90d1c9fe/FileGroup1/KXJwinEMlYaJLAHolMmonetZogJVvWkH9urtJJis_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 26,
+        "name": "LIMIT CARDIO",
+        "category_id": 1,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/26/GPs07VdP9OER3gxUR22ci6h63LCp3hrKXPRQSjL6.jpeg",
+        "duration": 35,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/7f03ee6e-c870-41f1-8bc2-5d0af2a025f7/AppleHLS1/FokikFENfLCAKjqIvX72bw9afuYWhuRxZO16Gbit.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/7f03ee6e-c870-41f1-8bc2-5d0af2a025f7/DASHISO1/FokikFENfLCAKjqIvX72bw9afuYWhuRxZO16Gbit.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/7f03ee6e-c870-41f1-8bc2-5d0af2a025f7/FileGroup1/FokikFENfLCAKjqIvX72bw9afuYWhuRxZO16Gbit_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 27,
+        "name": "MUSCLE CATABOLISM",
+        "category_id": 1,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/27/qZV9KP9sgmbkJCp6gDzDc0uohJOSubzSW3mQwkTJ.jpeg",
+        "duration": 36,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/a2aca8a8-2fd9-4709-b7c5-d74b0496fc94/AppleHLS1/WTKrajxHtQMHcTEAJ8Rrw1cCCdrq4FbRRWfr84YN.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/a2aca8a8-2fd9-4709-b7c5-d74b0496fc94/DASHISO1/WTKrajxHtQMHcTEAJ8Rrw1cCCdrq4FbRRWfr84YN.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/a2aca8a8-2fd9-4709-b7c5-d74b0496fc94/FileGroup1/WTKrajxHtQMHcTEAJ8Rrw1cCCdrq4FbRRWfr84YN_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 29,
+        "name": "DIAPHRAGM BREATHING PRACTICE",
+        "category_id": 1,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/29/WkCLPeDYrt2xuiokPwM7xHvXtuz7PPunlFmQM0Ge.jpeg",
+        "duration": 39,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/a96c2da7-7d93-4a89-8192-658ddb06019b/AppleHLS1/Ae6PgyBh4MAeCEBFD274vnL7M7dFF2TgkRM7YNTF.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/a96c2da7-7d93-4a89-8192-658ddb06019b/DASHISO1/Ae6PgyBh4MAeCEBFD274vnL7M7dFF2TgkRM7YNTF.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/a96c2da7-7d93-4a89-8192-658ddb06019b/FileGroup1/Ae6PgyBh4MAeCEBFD274vnL7M7dFF2TgkRM7YNTF_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 30,
+        "name": "PROPER FORM + PROPER BREATHING",
+        "category_id": 1,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/30/ojICciSRh9YdMLDt0EuZ8Dnq60IK0C0P2y9zbvLe.jpeg",
+        "duration": 41,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/ee9932c1-e96a-4655-8cc7-e22d42972d2b/AppleHLS1/ExKoNVCnTzA4ZTE4sUHHKMaKsiExOXXagFOessuU.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/ee9932c1-e96a-4655-8cc7-e22d42972d2b/DASHISO1/ExKoNVCnTzA4ZTE4sUHHKMaKsiExOXXagFOessuU.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/ee9932c1-e96a-4655-8cc7-e22d42972d2b/FileGroup1/ExKoNVCnTzA4ZTE4sUHHKMaKsiExOXXagFOessuU_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 32,
+        "name": "LISS CARDIO",
+        "category_id": 1,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/32/h0TLWmz7l0buahcr53vldlMKjMtvn7VsXWvLV3ga.jpeg",
+        "duration": 42,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/683c20e7-031e-4684-b66b-b9767de4549d/AppleHLS1/taHDoAXHywshSxxTi9bDoiMWoeCiGIzLjigiIFrH.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/683c20e7-031e-4684-b66b-b9767de4549d/DASHISO1/taHDoAXHywshSxxTi9bDoiMWoeCiGIzLjigiIFrH.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/683c20e7-031e-4684-b66b-b9767de4549d/FileGroup1/taHDoAXHywshSxxTi9bDoiMWoeCiGIzLjigiIFrH_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 34,
+        "name": "THROW AWAY YOUR SCALE!",
+        "category_id": 1,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/34/OT9LiANlKTamKSB9TTQKh7Po0EkAyCqEeqog7dHQ.jpeg",
+        "duration": 53,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/bbde1618-bd07-4025-b94d-59ddd2225bad/AppleHLS1/4I6PLf58o8yhJ0c6jmQe8tiBeMuKelzFSVDqZQtm.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/bbde1618-bd07-4025-b94d-59ddd2225bad/DASHISO1/4I6PLf58o8yhJ0c6jmQe8tiBeMuKelzFSVDqZQtm.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/bbde1618-bd07-4025-b94d-59ddd2225bad/FileGroup1/4I6PLf58o8yhJ0c6jmQe8tiBeMuKelzFSVDqZQtm_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 37,
+        "name": "BREATHING DO'S AND DON'TS",
+        "category_id": 1,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/37/7K3P3q9hnDXGv43CTFj0Fu6z8f6LgMi4nToIjFxB.jpeg",
+        "duration": 57,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/50926055-4cf9-4464-a1a0-a53e171afa60/AppleHLS1/FCFukMsvZPbXTr74dFLXhlYk5lqe7n06iMhSLmws.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/50926055-4cf9-4464-a1a0-a53e171afa60/DASHISO1/FCFukMsvZPbXTr74dFLXhlYk5lqe7n06iMhSLmws.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/50926055-4cf9-4464-a1a0-a53e171afa60/FileGroup1/FCFukMsvZPbXTr74dFLXhlYk5lqe7n06iMhSLmws_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 41,
+        "name": "MISS CARDIO",
+        "category_id": 1,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/41/VgFbFQZuv0wazMQSdRSaH3FcopsNWA2bWhMZ0TYq.jpeg",
+        "duration": 63,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/1b80dbb2-30f9-415d-bfa7-fc4ce80188c8/AppleHLS1/eNRBzvmYjLwP3BdeOAGx84dThFxZHsUjLahaap2L.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/1b80dbb2-30f9-415d-bfa7-fc4ce80188c8/DASHISO1/eNRBzvmYjLwP3BdeOAGx84dThFxZHsUjLahaap2L.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/1b80dbb2-30f9-415d-bfa7-fc4ce80188c8/FileGroup1/eNRBzvmYjLwP3BdeOAGx84dThFxZHsUjLahaap2L_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 44,
+        "name": "SPRINTS CARDIO",
+        "category_id": 1,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/44/nXKh4Kdd68mYuwMsBpu3tlffs4umCjXUjc4fNENU.png",
+        "duration": 70,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/eace9f42-6ef0-466e-a2aa-7667aa32c564/AppleHLS1/58sdTQmprsl3L8qu6GxmdekYTltOPtAKIavprkRc.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/eace9f42-6ef0-466e-a2aa-7667aa32c564/DASHISO1/58sdTQmprsl3L8qu6GxmdekYTltOPtAKIavprkRc.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/eace9f42-6ef0-466e-a2aa-7667aa32c564/FileGroup1/58sdTQmprsl3L8qu6GxmdekYTltOPtAKIavprkRc_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 46,
+        "name": "SHRED + TONE WORKOUT STRUCTURE",
+        "category_id": 1,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/46/XRTisybLKuuGwoMw6pTz2zM94SZeFhiWrzBnBKRA.jpeg",
+        "duration": 78,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/e318d55c-be40-49eb-9a0e-9841d02ba8b9/AppleHLS1/JFNDBHNqhAoI8ELOvabJtB7tmeTvagCfBX1qEXN6.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/e318d55c-be40-49eb-9a0e-9841d02ba8b9/DASHISO1/JFNDBHNqhAoI8ELOvabJtB7tmeTvagCfBX1qEXN6.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/e318d55c-be40-49eb-9a0e-9841d02ba8b9/FileGroup1/JFNDBHNqhAoI8ELOvabJtB7tmeTvagCfBX1qEXN6_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 48,
+        "name": "FOAM ROLLING",
+        "category_id": 1,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/48/z02cSDBqsrgcUTQgv6X4LET21RZNw6mkeQt6zPaP.jpeg",
+        "duration": 89,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/9c81d3a0-6309-4491-8c1a-1d31716bf334/AppleHLS1/9qF6qIlhxGOZ0voegibCrYAXM0ERv3mnVFXOVuqE.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/9c81d3a0-6309-4491-8c1a-1d31716bf334/DASHISO1/9qF6qIlhxGOZ0voegibCrYAXM0ERv3mnVFXOVuqE.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/9c81d3a0-6309-4491-8c1a-1d31716bf334/FileGroup1/9qF6qIlhxGOZ0voegibCrYAXM0ERv3mnVFXOVuqE_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 49,
+        "name": "LONG DISTANCE CARDIO",
+        "category_id": 1,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/49/puSE0Z3aAX41XgBALVpr7aOCfB8eeZjq4myGEP1x.jpeg",
+        "duration": 92,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/c66d3c0a-257b-4935-8b12-51fac33733db/AppleHLS1/pfvfpxmC2P4ckqqyweFxzTyK7uNRYiuyirFgQsWs.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/c66d3c0a-257b-4935-8b12-51fac33733db/DASHISO1/pfvfpxmC2P4ckqqyweFxzTyK7uNRYiuyirFgQsWs.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/c66d3c0a-257b-4935-8b12-51fac33733db/FileGroup1/pfvfpxmC2P4ckqqyweFxzTyK7uNRYiuyirFgQsWs_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 52,
+        "name": "PROPER BREATHING",
+        "category_id": 1,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/52/afNUgs2TKThFvb4CbFChv06EzrV9XPhnZZVlGkb8.jpeg",
+        "duration": 100,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/de4a9f3c-c5de-42e6-b5f5-dfcfb3fa8975/AppleHLS1/dBWM8Ce6zC2ARBExKGoHFPI9rgd8OcbrYSMPg04A.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/de4a9f3c-c5de-42e6-b5f5-dfcfb3fa8975/DASHISO1/dBWM8Ce6zC2ARBExKGoHFPI9rgd8OcbrYSMPg04A.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/de4a9f3c-c5de-42e6-b5f5-dfcfb3fa8975/FileGroup1/dBWM8Ce6zC2ARBExKGoHFPI9rgd8OcbrYSMPg04A_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 54,
+        "name": "PROPER FORM",
+        "category_id": 1,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/54/utVgUpPDUsPAWbgPNQN1XGGnEEGXmih9WzuvUtep.jpeg",
+        "duration": 113,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/82cd4119-3d16-4904-bf15-9a32ec54dbf5/AppleHLS1/dW6xWerCzL9IMiSut58h6CdUcuNsQ6GmjecZDPDz.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/82cd4119-3d16-4904-bf15-9a32ec54dbf5/DASHISO1/dW6xWerCzL9IMiSut58h6CdUcuNsQ6GmjecZDPDz.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/82cd4119-3d16-4904-bf15-9a32ec54dbf5/FileGroup1/dW6xWerCzL9IMiSut58h6CdUcuNsQ6GmjecZDPDz_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 59,
+        "name": "STRETCHING",
+        "category_id": 1,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/59/pKTYc8v29p9ZLQWM6QWGX1o9kHo1I2p9aTTNmVV3.jpeg",
+        "duration": 134,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/82ad1db3-a6e4-43b7-ba6a-f57e1193dda6/AppleHLS1/g9yx15VYKoTERfijJJz34GQbC1v9s2AdZcnwkkac.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/82ad1db3-a6e4-43b7-ba6a-f57e1193dda6/DASHISO1/g9yx15VYKoTERfijJJz34GQbC1v9s2AdZcnwkkac.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/82ad1db3-a6e4-43b7-ba6a-f57e1193dda6/FileGroup1/g9yx15VYKoTERfijJJz34GQbC1v9s2AdZcnwkkac_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      }
+    ],
+    "Food": [
+      {
+        "id": 31,
+        "name": "WHAT IS A BALANCED MEAL",
+        "category_id": 2,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/31/rSJdmejnxMnzt3MuK3JfRFD0KBsfltXZDR4ku1O8.jpeg",
+        "duration": 41,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/b1315e44-b0d9-4fe6-9478-6f77737eba4f/AppleHLS1/KtO4gctZAPzprWdKYTOKTGijL4PTYOGeWir1OmXQ.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/b1315e44-b0d9-4fe6-9478-6f77737eba4f/DASHISO1/KtO4gctZAPzprWdKYTOKTGijL4PTYOGeWir1OmXQ.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/b1315e44-b0d9-4fe6-9478-6f77737eba4f/FileGroup1/KtO4gctZAPzprWdKYTOKTGijL4PTYOGeWir1OmXQ_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 36,
+        "name": "THE IMPORTANCE OF FRUITS AND VEGGIES",
+        "category_id": 2,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/36/FiTgXbImWV2l4eloWr3t54kkBqCXrmpX2FdW0qBw.jpeg",
+        "duration": 54,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/5b213e3c-a69d-4e24-a98e-9b273a8b2699/AppleHLS1/M2rvaxH2htP1WSI9KZCgj3aTXcMntEYqNssl9JDA.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/5b213e3c-a69d-4e24-a98e-9b273a8b2699/DASHISO1/M2rvaxH2htP1WSI9KZCgj3aTXcMntEYqNssl9JDA.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/5b213e3c-a69d-4e24-a98e-9b273a8b2699/FileGroup1/M2rvaxH2htP1WSI9KZCgj3aTXcMntEYqNssl9JDA_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 38,
+        "name": "WHAT ARE MACRONUTRIENTS AND MICRONUTRIENTS",
+        "category_id": 2,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/38/L9pm4RHezBnjKRA9NU2KF4vxSRPvzMxPtumIMAob.jpeg",
+        "duration": 60,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/16fb2b70-c905-4bb1-bdb2-91cb6cfd1a0f/AppleHLS1/pLWwIU6zcUOKWlmMKHwtNlGWkO2s5ahbJqgUbrmi.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/16fb2b70-c905-4bb1-bdb2-91cb6cfd1a0f/DASHISO1/pLWwIU6zcUOKWlmMKHwtNlGWkO2s5ahbJqgUbrmi.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/16fb2b70-c905-4bb1-bdb2-91cb6cfd1a0f/FileGroup1/pLWwIU6zcUOKWlmMKHwtNlGWkO2s5ahbJqgUbrmi_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 42,
+        "name": "THE IMPORTANCE OF FATS",
+        "category_id": 2,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/42/a7sQGemDj6mgD1Ivj0KfxhMlmST10LUwiIwz70nE.jpeg",
+        "duration": 65,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/b2227825-b093-4116-bf56-6ea395984fab/AppleHLS1/NZ8vvhmb8yMW7nbLKrQFgDsrx9RscKMSEvzukK3u.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/b2227825-b093-4116-bf56-6ea395984fab/DASHISO1/NZ8vvhmb8yMW7nbLKrQFgDsrx9RscKMSEvzukK3u.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/b2227825-b093-4116-bf56-6ea395984fab/FileGroup1/NZ8vvhmb8yMW7nbLKrQFgDsrx9RscKMSEvzukK3u_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 43,
+        "name": "WHY IS EATING HEALTHY DIFFICULT?",
+        "category_id": 2,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/43/cF1PpYxXTNZZNpspPQCPSrgIvo6h2atxOcCPXPbt.jpeg",
+        "duration": 67,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/d3a87898-13a7-4296-a963-1914cfe951ce/AppleHLS1/h2xwJobbtz4HQHfOluApFWyDApyRYRrCxAlG2NOQ.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/d3a87898-13a7-4296-a963-1914cfe951ce/DASHISO1/h2xwJobbtz4HQHfOluApFWyDApyRYRrCxAlG2NOQ.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/d3a87898-13a7-4296-a963-1914cfe951ce/FileGroup1/h2xwJobbtz4HQHfOluApFWyDApyRYRrCxAlG2NOQ_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 45,
+        "name": "FIT BODY MEAL PLAN GUIDELINES",
+        "category_id": 2,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/45/hdbt0XkYBOLjInS56bEaks9ym1GROTh7FXE2uf6V.jpeg",
+        "duration": 72,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/549b6ab3-448f-43f5-ba5a-238118256f4f/AppleHLS1/QSSB8DvZ1jh1SyDpStZbs6MjeQqlx0mjmsrByvn7.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/549b6ab3-448f-43f5-ba5a-238118256f4f/DASHISO1/QSSB8DvZ1jh1SyDpStZbs6MjeQqlx0mjmsrByvn7.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/549b6ab3-448f-43f5-ba5a-238118256f4f/FileGroup1/QSSB8DvZ1jh1SyDpStZbs6MjeQqlx0mjmsrByvn7_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 47,
+        "name": "WHEN FRIENDS AND FAMILY DONT EAT HEALTHY",
+        "category_id": 2,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/47/9NSnmnpZAdiIPVGPL7xmUruQHqBVv2jejssf7SsT.jpeg",
+        "duration": 88,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/cebdddb8-65f9-4e56-bfb0-08459eef4c8d/AppleHLS1/KtCSEL4Fzm1RqEwTa0L8VO3LS0KJkVEHKe64RoaB.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/cebdddb8-65f9-4e56-bfb0-08459eef4c8d/DASHISO1/KtCSEL4Fzm1RqEwTa0L8VO3LS0KJkVEHKe64RoaB.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/cebdddb8-65f9-4e56-bfb0-08459eef4c8d/FileGroup1/KtCSEL4Fzm1RqEwTa0L8VO3LS0KJkVEHKe64RoaB_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 50,
+        "name": "WHY IT'S IMPORTANT TO NOURISH OUR BODIES",
+        "category_id": 2,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/50/1iuRwnq4TulsKUv2ogUjvRGIWxVqQmPlVH8clQ5d.jpeg",
+        "duration": 98,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/e72ced11-e77e-4266-a522-36774e574b60/AppleHLS1/IzWq31Clyxwt43WiuXSHKaqQgWQIKXUKBd4MJhyh.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/e72ced11-e77e-4266-a522-36774e574b60/DASHISO1/IzWq31Clyxwt43WiuXSHKaqQgWQIKXUKBd4MJhyh.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/e72ced11-e77e-4266-a522-36774e574b60/FileGroup1/IzWq31Clyxwt43WiuXSHKaqQgWQIKXUKBd4MJhyh_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 51,
+        "name": "PRE AND POST WORKOUT NUTRITION",
+        "category_id": 2,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/51/lOIcz9hXXukiVf9sYcDOPCWBISwu9mrk0wtUF5pp.jpeg",
+        "duration": 99,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/b96904ab-35e9-4f74-aee6-673512f8847c/AppleHLS1/MeJ2JIhRDUs1w8Cje20w1TX74TGyzw3k0Lopw9Dp.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/b96904ab-35e9-4f74-aee6-673512f8847c/DASHISO1/MeJ2JIhRDUs1w8Cje20w1TX74TGyzw3k0Lopw9Dp.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/b96904ab-35e9-4f74-aee6-673512f8847c/FileGroup1/MeJ2JIhRDUs1w8Cje20w1TX74TGyzw3k0Lopw9Dp_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 56,
+        "name": "HOW TO LIVE A HEALTHY LIFESTYLE",
+        "category_id": 2,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/56/rY5Qxq2MlM3ZdKv1KANfZcwY8S2MIIQ2odwvfiQQ.jpeg",
+        "duration": 117,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/7eb4206a-16fa-4296-8aac-ee864b1c2c04/AppleHLS1/nYArLj6juyfE79GSmFyAFm2qJjLuTlWk4KFkElG7.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/7eb4206a-16fa-4296-8aac-ee864b1c2c04/DASHISO1/nYArLj6juyfE79GSmFyAFm2qJjLuTlWk4KFkElG7.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/7eb4206a-16fa-4296-8aac-ee864b1c2c04/FileGroup1/nYArLj6juyfE79GSmFyAFm2qJjLuTlWk4KFkElG7_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 58,
+        "name": "THE IMPORTANCE OF PROTEIN",
+        "category_id": 2,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/58/jajGRRtWBWFldrCEsOCpTGvLYxk13uUjemvOeI6P.jpeg",
+        "duration": 130,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/13a76f95-3c19-4703-9534-8d30f74c5ab0/AppleHLS1/zzJ9FrVpTRJ4pju7Kf3JqX2Sf9intOWb4LF9wVPg.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/13a76f95-3c19-4703-9534-8d30f74c5ab0/DASHISO1/zzJ9FrVpTRJ4pju7Kf3JqX2Sf9intOWb4LF9wVPg.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/13a76f95-3c19-4703-9534-8d30f74c5ab0/FileGroup1/zzJ9FrVpTRJ4pju7Kf3JqX2Sf9intOWb4LF9wVPg_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 60,
+        "name": "THE FIT BODY MEAL PLAN",
+        "category_id": 2,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/60/KQB37tZVAesWxqzytBudC51zGwRWPhweEVauZM7H.jpeg",
+        "duration": 135,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/aa2fc6aa-d003-4f04-be79-1b09678baf92/AppleHLS1/hBPoGIMH2skHbJqTL5ZxSH81rJdnyoSYVcEoZRio.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/aa2fc6aa-d003-4f04-be79-1b09678baf92/DASHISO1/hBPoGIMH2skHbJqTL5ZxSH81rJdnyoSYVcEoZRio.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/aa2fc6aa-d003-4f04-be79-1b09678baf92/FileGroup1/hBPoGIMH2skHbJqTL5ZxSH81rJdnyoSYVcEoZRio_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 61,
+        "name": "THE IMPORTANCE OF CARBS",
+        "category_id": 2,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/61/uf7g8aq7KoiI5GM3CSdV8Np7G8k0KXJYeWoHR1dO.jpeg",
+        "duration": 135,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/bc2badc5-94ed-4d47-a4dc-dcb86b8aa2f4/AppleHLS1/abDTuYmZFOSzfVGJEjmiw77QwlkWRfyyd4SMj2E7.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/bc2badc5-94ed-4d47-a4dc-dcb86b8aa2f4/DASHISO1/abDTuYmZFOSzfVGJEjmiw77QwlkWRfyyd4SMj2E7.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/bc2badc5-94ed-4d47-a4dc-dcb86b8aa2f4/FileGroup1/abDTuYmZFOSzfVGJEjmiw77QwlkWRfyyd4SMj2E7_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 62,
+        "name": "HEALTHY EATING QUICK TIPS",
+        "category_id": 2,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/62/WC3bjiwumuLg2gzgphfeTfyEybxmBCtUjKk80LBZ.jpeg",
+        "duration": 144,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/e48856ab-773d-4a42-94bf-0f857f919eed/AppleHLS1/yYp18M4sUny6wPQtP42zEpa54TNA6qyMcr8AfgHS.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/e48856ab-773d-4a42-94bf-0f857f919eed/DASHISO1/yYp18M4sUny6wPQtP42zEpa54TNA6qyMcr8AfgHS.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/e48856ab-773d-4a42-94bf-0f857f919eed/FileGroup1/yYp18M4sUny6wPQtP42zEpa54TNA6qyMcr8AfgHS_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 64,
+        "name": "CHEAT MEALS",
+        "category_id": 2,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/64/IBTnk7BSzkoGCfmTgDVfWX9oE42I1mSweWLKkxaj.jpeg",
+        "duration": 156,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/9de76aea-51cc-4f5e-b042-abfa98b4a2af/AppleHLS1/IV9HlrNw5T1o1uJSmDZNekRhh684BAHyuXnXu0HJ.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/9de76aea-51cc-4f5e-b042-abfa98b4a2af/DASHISO1/IV9HlrNw5T1o1uJSmDZNekRhh684BAHyuXnXu0HJ.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/9de76aea-51cc-4f5e-b042-abfa98b4a2af/FileGroup1/IV9HlrNw5T1o1uJSmDZNekRhh684BAHyuXnXu0HJ_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 66,
+        "name": "SHOULD YOU TRACK YOUR MACROS?",
+        "category_id": 2,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/66/gZoaZbquDzZM2lEoqruxs5x9cypdzpi4r23aZPAg.jpeg",
+        "duration": 222,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/c1f9b9b2-dfd0-4128-8edc-ce2e25867d0f/AppleHLS1/Sf0yf3x9Qoxu93Xr93fduEM7olXmyKC9RYouwlx9.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/c1f9b9b2-dfd0-4128-8edc-ce2e25867d0f/DASHISO1/Sf0yf3x9Qoxu93Xr93fduEM7olXmyKC9RYouwlx9.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/c1f9b9b2-dfd0-4128-8edc-ce2e25867d0f/FileGroup1/Sf0yf3x9Qoxu93Xr93fduEM7olXmyKC9RYouwlx9_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      }
+    ],
+    "Rehabilitation": [
+      {
+        "id": 5,
+        "name": "Lats Latissumus Dorsi Foam Rolling",
+        "category_id": 3,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/5/3typMNGbX6KPy1OdHnynVMjJdcuuMNqqbNtRmnj4.jpeg",
+        "duration": 10,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/bb9c1550-572f-4d74-9f83-b1a5fe59641a/AppleHLS1/HInc7pMwDstedog1TfCGJ7eADURHi8LH9fH9YslP.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/bb9c1550-572f-4d74-9f83-b1a5fe59641a/DASHISO1/HInc7pMwDstedog1TfCGJ7eADURHi8LH9fH9YslP.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/bb9c1550-572f-4d74-9f83-b1a5fe59641a/FileGroup1/HInc7pMwDstedog1TfCGJ7eADURHi8LH9fH9YslP_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 6,
+        "name": "Quadriceps Foam Rolling",
+        "category_id": 3,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/6/64TuAw5pLjlvAS6P3R5rMP51hQVx3SxfRV2AMk2U.jpeg",
+        "duration": 10,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/5831ded2-6984-443c-955d-42c1b0444246/AppleHLS1/ccSAk1BjKTCEe5iQobfqYU9QVvkwJifXaYOTpbWX.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/5831ded2-6984-443c-955d-42c1b0444246/DASHISO1/ccSAk1BjKTCEe5iQobfqYU9QVvkwJifXaYOTpbWX.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/5831ded2-6984-443c-955d-42c1b0444246/FileGroup1/ccSAk1BjKTCEe5iQobfqYU9QVvkwJifXaYOTpbWX_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 7,
+        "name": "Triceps Stretch",
+        "category_id": 3,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/7/EWdR091KDlgt0VnzyeCZDtMBwHaN4oIow2US96Sq.jpeg",
+        "duration": 11,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/6e59dd97-e81f-4551-98eb-8249c3344049/AppleHLS1/rcaacaEuR6lt8Ix743VEIrnSee3frvs8ERbH5q9I.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/6e59dd97-e81f-4551-98eb-8249c3344049/DASHISO1/rcaacaEuR6lt8Ix743VEIrnSee3frvs8ERbH5q9I.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/6e59dd97-e81f-4551-98eb-8249c3344049/FileGroup1/rcaacaEuR6lt8Ix743VEIrnSee3frvs8ERbH5q9I_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 8,
+        "name": "Shoulders Stretch",
+        "category_id": 3,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/8/1kkHeM4PiLpwHQGsaocMuRl0njzbmHpRUdmq5ovI.jpeg",
+        "duration": 12,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/a2cc090d-90d5-452b-9867-7afa513aa84f/AppleHLS1/JiQApgCZhjcmCg5TULuPcnCTfbi3DDj8K4yhdax8.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/a2cc090d-90d5-452b-9867-7afa513aa84f/DASHISO1/JiQApgCZhjcmCg5TULuPcnCTfbi3DDj8K4yhdax8.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/a2cc090d-90d5-452b-9867-7afa513aa84f/FileGroup1/JiQApgCZhjcmCg5TULuPcnCTfbi3DDj8K4yhdax8_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 9,
+        "name": "Shins Foam Rolling",
+        "category_id": 3,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/9/KqOH3HvPxc4WCwNPKvRaC6vavkubuhZiU0cn0Bwl.jpeg",
+        "duration": 13,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/7f1bf8d4-5f33-4974-a561-2a602da5224d/AppleHLS1/pXZMgsnvPgCVR9ANYxiGignKS2hkCZan9NuOY9oG.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/7f1bf8d4-5f33-4974-a561-2a602da5224d/DASHISO1/pXZMgsnvPgCVR9ANYxiGignKS2hkCZan9NuOY9oG.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/7f1bf8d4-5f33-4974-a561-2a602da5224d/FileGroup1/pXZMgsnvPgCVR9ANYxiGignKS2hkCZan9NuOY9oG_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 12,
+        "name": "Glutes Foam Rolling",
+        "category_id": 3,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/12/KQzBZiCIS5hjpTEvHqxXLPyx4cqDrUrHqqP5pVYt.jpeg",
+        "duration": 14,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/02f2b05b-c914-4c34-bb41-670e8c557c29/AppleHLS1/6wJHkE8lqhI8J5czVulSyMkayiDCGYPNYn0IaYIQ.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/02f2b05b-c914-4c34-bb41-670e8c557c29/DASHISO1/6wJHkE8lqhI8J5czVulSyMkayiDCGYPNYn0IaYIQ.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/02f2b05b-c914-4c34-bb41-670e8c557c29/FileGroup1/6wJHkE8lqhI8J5czVulSyMkayiDCGYPNYn0IaYIQ_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 13,
+        "name": "Calves Foam Rolling",
+        "category_id": 3,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/13/BfWQwig5Pdv6SrdM1co3bQOTLhqLNWcNRonDnD6Q.jpeg",
+        "duration": 15,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/e19664db-d794-4994-862c-72692d4ae9cc/AppleHLS1/dGYykSofXhPiKoN1lP0dCfxlW0IQq5VSa3QCZ7pF.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/e19664db-d794-4994-862c-72692d4ae9cc/DASHISO1/dGYykSofXhPiKoN1lP0dCfxlW0IQq5VSa3QCZ7pF.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/e19664db-d794-4994-862c-72692d4ae9cc/FileGroup1/dGYykSofXhPiKoN1lP0dCfxlW0IQq5VSa3QCZ7pF_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 14,
+        "name": "Chest Pectorals Stretch",
+        "category_id": 3,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/14/d4UZICoG7jZx550SKLAT2dTrleDqzBDaKXPvrJpM.jpeg",
+        "duration": 15,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/0a24e632-98ad-418c-a8b5-f95ad149f534/AppleHLS1/28WFs2vMlvwHRpobJokJgrcZSg568VNo23bUPOT1.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/0a24e632-98ad-418c-a8b5-f95ad149f534/DASHISO1/28WFs2vMlvwHRpobJokJgrcZSg568VNo23bUPOT1.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/0a24e632-98ad-418c-a8b5-f95ad149f534/FileGroup1/28WFs2vMlvwHRpobJokJgrcZSg568VNo23bUPOT1_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 15,
+        "name": "Inner Knee Vastus Medialis Oblique Foam Rolling",
+        "category_id": 3,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/15/549ET95prue9XmmhtRDdLriw33zCis8c3OcOFkQi.jpeg",
+        "duration": 17,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/e8b62832-8028-4f71-bbd2-b9bc40c652df/AppleHLS1/Q8c0MXk5oobYQbTQOLnGsOkbGkOLxJ3IbKniSuin.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/e8b62832-8028-4f71-bbd2-b9bc40c652df/DASHISO1/Q8c0MXk5oobYQbTQOLnGsOkbGkOLxJ3IbKniSuin.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/e8b62832-8028-4f71-bbd2-b9bc40c652df/FileGroup1/Q8c0MXk5oobYQbTQOLnGsOkbGkOLxJ3IbKniSuin_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 16,
+        "name": "Outer Thigh Iliotibial Band Foam Rolling",
+        "category_id": 3,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/16/rsckogWjHosQ0kxFpmY6Pbo2ZxzqdRVttKiyq1sT.jpeg",
+        "duration": 18,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/19fd6bd3-9fb6-4fbe-9ee5-028150282c7e/AppleHLS1/tX34PsVP0Ry34IyTNtN4cRAmjVdt982AR029j7uq.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/19fd6bd3-9fb6-4fbe-9ee5-028150282c7e/DASHISO1/tX34PsVP0Ry34IyTNtN4cRAmjVdt982AR029j7uq.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/19fd6bd3-9fb6-4fbe-9ee5-028150282c7e/FileGroup1/tX34PsVP0Ry34IyTNtN4cRAmjVdt982AR029j7uq_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 17,
+        "name": "Abdominals Stretch",
+        "category_id": 3,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/17/8hTzCxhAK4sXz5NtHE4yz76cdVbxrq5DCTzga7In.jpeg",
+        "duration": 18,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/ad1de15e-c143-430d-aa7d-8acdd3718d34/AppleHLS1/8BqVeZZNs9yEYYdiLWgTyfrW0l7hxOtLbNqJrQl4.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/ad1de15e-c143-430d-aa7d-8acdd3718d34/DASHISO1/8BqVeZZNs9yEYYdiLWgTyfrW0l7hxOtLbNqJrQl4.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/ad1de15e-c143-430d-aa7d-8acdd3718d34/FileGroup1/8BqVeZZNs9yEYYdiLWgTyfrW0l7hxOtLbNqJrQl4_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 18,
+        "name": "Hip Flexors Foam Rolling",
+        "category_id": 3,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/18/g3K38Q1EgL8ubL10XhtXnHzRmgmw44UhgUSZ7QFa.jpeg",
+        "duration": 21,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/ffa9bd96-1761-48f2-8d53-da26a3b81b76/AppleHLS1/gXPLj5J44RFDk0WZQNfQYwQlz6y7OQMG3SwLmGLj.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/ffa9bd96-1761-48f2-8d53-da26a3b81b76/DASHISO1/gXPLj5J44RFDk0WZQNfQYwQlz6y7OQMG3SwLmGLj.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/ffa9bd96-1761-48f2-8d53-da26a3b81b76/FileGroup1/gXPLj5J44RFDk0WZQNfQYwQlz6y7OQMG3SwLmGLj_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 19,
+        "name": "Hamstring Foam Rolling",
+        "category_id": 3,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/19/SnDGHz5QScYuzzi5Uvily1oXYwEgnQn8fLXNplKR.jpeg",
+        "duration": 22,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/76512553-0d88-416a-834f-b118f847c5b7/AppleHLS1/QNpWjElW0KTwp6VgvFC9P15cKxxcye94SG2gd90C.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/76512553-0d88-416a-834f-b118f847c5b7/DASHISO1/QNpWjElW0KTwp6VgvFC9P15cKxxcye94SG2gd90C.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/76512553-0d88-416a-834f-b118f847c5b7/FileGroup1/QNpWjElW0KTwp6VgvFC9P15cKxxcye94SG2gd90C_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 20,
+        "name": "Calves Stretch",
+        "category_id": 3,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/20/K6XhLkEZRRMFfulVpKF61hKzBw5VtHoBmcbsRLzZ.jpeg",
+        "duration": 22,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/a7c211f5-d5b4-41da-aa11-8a4452e48338/AppleHLS1/v6AIzb13jC3uD7FyyrKdCezsKyHVADqdm2hjUwuc.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/a7c211f5-d5b4-41da-aa11-8a4452e48338/DASHISO1/v6AIzb13jC3uD7FyyrKdCezsKyHVADqdm2hjUwuc.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/a7c211f5-d5b4-41da-aa11-8a4452e48338/FileGroup1/v6AIzb13jC3uD7FyyrKdCezsKyHVADqdm2hjUwuc_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 21,
+        "name": "Hamstring Stretch",
+        "category_id": 3,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/21/ZrkycT8k1C2nggtXe7eOmR5cLOie3anheNdELPOT.jpeg",
+        "duration": 24,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/7e66b395-389e-410e-ac24-6cde196ae267/AppleHLS1/tREe8ZwbiWVa5JwdgbIvi9v81OEpM4JePWZOmVGH.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/7e66b395-389e-410e-ac24-6cde196ae267/DASHISO1/tREe8ZwbiWVa5JwdgbIvi9v81OEpM4JePWZOmVGH.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/7e66b395-389e-410e-ac24-6cde196ae267/FileGroup1/tREe8ZwbiWVa5JwdgbIvi9v81OEpM4JePWZOmVGH_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 33,
+        "name": "Hip Flexors Stretch",
+        "category_id": 3,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/33/sbtJ8Bug0gwIRp4882CkH869MgNHjB19RD3ksj2B.jpeg",
+        "duration": 47,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/ad60dd30-289e-49fd-a0ee-fc84b5dda1f2/AppleHLS1/p7kjtLQG6CAUtLG8mPMsUzpFXmHtkLM8aLr5Osc0.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/ad60dd30-289e-49fd-a0ee-fc84b5dda1f2/DASHISO1/p7kjtLQG6CAUtLG8mPMsUzpFXmHtkLM8aLr5Osc0.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/ad60dd30-289e-49fd-a0ee-fc84b5dda1f2/FileGroup1/p7kjtLQG6CAUtLG8mPMsUzpFXmHtkLM8aLr5Osc0_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 35,
+        "name": "Glutes Stretch",
+        "category_id": 3,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/35/6AvTraTOsUrF6YCMB4hsEmb4NDRAaUs4fGftkUgb.jpeg",
+        "duration": 53,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/09eed9a6-653f-4286-ac0a-d90971329162/AppleHLS1/3R5pVtJVoDRwgvTUAzgJooREF6LL7VX0zBnniRX1.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/09eed9a6-653f-4286-ac0a-d90971329162/DASHISO1/3R5pVtJVoDRwgvTUAzgJooREF6LL7VX0zBnniRX1.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/09eed9a6-653f-4286-ac0a-d90971329162/FileGroup1/3R5pVtJVoDRwgvTUAzgJooREF6LL7VX0zBnniRX1_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 40,
+        "name": "Inner Thighs: Groin Adductors Stretch",
+        "category_id": 3,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/40/5nmo4TAx7GznnfCecBtgDEIpJyI3Y1jQYWsviwvm.jpeg",
+        "duration": 62,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/ec100ed4-b417-4b31-8e12-df3b1f76f2f0/AppleHLS1/PefKO10Lt6OnhZRcKGI2JgI7jEkNxILfGqFIC6iQ.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/ec100ed4-b417-4b31-8e12-df3b1f76f2f0/DASHISO1/PefKO10Lt6OnhZRcKGI2JgI7jEkNxILfGqFIC6iQ.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/ec100ed4-b417-4b31-8e12-df3b1f76f2f0/FileGroup1/PefKO10Lt6OnhZRcKGI2JgI7jEkNxILfGqFIC6iQ_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      }
+    ],
+    "Body Love": [
+      {
+        "id": 53,
+        "name": "Welcome to Mindfulness",
+        "category_id": 4,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/53/C8IODo4ZdKCLmQT4LRQ68ORUyuOYFW79fZxG6ZW2.jpeg",
+        "duration": 106,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/f1590bd8-a20e-4056-9e39-e3f23b0bfd93/AppleHLS1/hs1UkVyUuRKK1kFd6N8dR6QyMu9DJfQkdn3QPOtP.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/f1590bd8-a20e-4056-9e39-e3f23b0bfd93/DASHISO1/hs1UkVyUuRKK1kFd6N8dR6QyMu9DJfQkdn3QPOtP.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/f1590bd8-a20e-4056-9e39-e3f23b0bfd93/FileGroup1/hs1UkVyUuRKK1kFd6N8dR6QyMu9DJfQkdn3QPOtP_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 55,
+        "name": "Love or Hate Working Out?",
+        "category_id": 4,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/55/6KXyMQ6IWdk0NXLOOEG1MEcL4CxZ3iW6rHHpCROa.jpeg",
+        "duration": 115,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/3a0e3bd6-f4e9-4df5-ac33-06e0462a949c/AppleHLS1/IzSGCEn4BY7oWel34Rzijss22NqnXxWW7tq0ZiOg.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/3a0e3bd6-f4e9-4df5-ac33-06e0462a949c/DASHISO1/IzSGCEn4BY7oWel34Rzijss22NqnXxWW7tq0ZiOg.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/3a0e3bd6-f4e9-4df5-ac33-06e0462a949c/FileGroup1/IzSGCEn4BY7oWel34Rzijss22NqnXxWW7tq0ZiOg_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 57,
+        "name": "Are You Healthy?",
+        "category_id": 4,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/57/nrPmvUfOUIqs2t5jYgpTGLZ0C8Ic3KM4BOxZ3PPL.jpeg",
+        "duration": 127,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/9a2bf742-7fa8-488d-96d5-cadbd352c43d/AppleHLS1/lPv1mgmUAaOuDzu9GfPjm46OdHWESg844pFBqN0u.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/9a2bf742-7fa8-488d-96d5-cadbd352c43d/DASHISO1/lPv1mgmUAaOuDzu9GfPjm46OdHWESg844pFBqN0u.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/9a2bf742-7fa8-488d-96d5-cadbd352c43d/FileGroup1/lPv1mgmUAaOuDzu9GfPjm46OdHWESg844pFBqN0u_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 63,
+        "name": "Positive Self-Talk",
+        "category_id": 4,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/63/Ex1GFphkIJn11iOERHm9w8aGlkB1ES9HYqavUT4E.jpeg",
+        "duration": 147,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/085a63db-ba7c-4034-9d98-679e8852daf3/AppleHLS1/75NSGUGWGjnOyt6xS8EcEGCfZdCFh5XWb3DPhbod.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/085a63db-ba7c-4034-9d98-679e8852daf3/DASHISO1/75NSGUGWGjnOyt6xS8EcEGCfZdCFh5XWb3DPhbod.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/085a63db-ba7c-4034-9d98-679e8852daf3/FileGroup1/75NSGUGWGjnOyt6xS8EcEGCfZdCFh5XWb3DPhbod_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 65,
+        "name": "Should You Eat Healthy On Vacation?",
+        "category_id": 4,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/65/tM5NHWao8ydPYNNrSZlCZmuw6EpuoqHoUjVC4VBR.jpeg",
+        "duration": 187,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/135416f2-fafa-44aa-a52c-3236d6972ee5/AppleHLS1/MQxWGBUW93vsBoZw47uw0R6AKUFJTxOjmFSPHm3Y.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/135416f2-fafa-44aa-a52c-3236d6972ee5/DASHISO1/MQxWGBUW93vsBoZw47uw0R6AKUFJTxOjmFSPHm3Y.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/135416f2-fafa-44aa-a52c-3236d6972ee5/FileGroup1/MQxWGBUW93vsBoZw47uw0R6AKUFJTxOjmFSPHm3Y_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 67,
+        "name": "Your Environment",
+        "category_id": 4,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/67/Ah7HGOvsbwq6Ow4zHtydZMummoTfc2yVkCvEidiO.jpeg",
+        "duration": 225,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/dade11f5-fc1b-44ac-b267-2aa48e348c2b/AppleHLS1/sbLCZdOnF8XxXGKulRpIuhun1I4fj6VdRRCMTczh.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/dade11f5-fc1b-44ac-b267-2aa48e348c2b/DASHISO1/sbLCZdOnF8XxXGKulRpIuhun1I4fj6VdRRCMTczh.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/dade11f5-fc1b-44ac-b267-2aa48e348c2b/FileGroup1/sbLCZdOnF8XxXGKulRpIuhun1I4fj6VdRRCMTczh_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 68,
+        "name": "Friends + Family Support",
+        "category_id": 4,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/68/RjJVkt8u5XYkCiyyBhC7LutuOBqDFCFw4XRRXJkF.jpeg",
+        "duration": 252,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/cd4a039d-b712-418f-890e-ef6f306dee6d/AppleHLS1/PxnkFxFr5GLEWdCcYHmkErAyeFR8Tm9bTN9byOrw.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/cd4a039d-b712-418f-890e-ef6f306dee6d/DASHISO1/PxnkFxFr5GLEWdCcYHmkErAyeFR8Tm9bTN9byOrw.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/cd4a039d-b712-418f-890e-ef6f306dee6d/FileGroup1/PxnkFxFr5GLEWdCcYHmkErAyeFR8Tm9bTN9byOrw_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 69,
+        "name": "Managing Expectations",
+        "category_id": 4,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/69/ImXHc5aAE43EquzUuNq82MXsgJQnr6WjWeuQJUdi.jpeg",
+        "duration": 316,
+        "body_focus": null,
+        "impact": null,
+        "intensity": null,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/f345fce3-650c-4507-95d8-69e3cf0a28d4/AppleHLS1/U1hDntSNOtG65BR0pLVq2jcSuu0xUFfh9bUCpf2U.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/f345fce3-650c-4507-95d8-69e3cf0a28d4/DASHISO1/U1hDntSNOtG65BR0pLVq2jcSuu0xUFfh9bUCpf2U.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/f345fce3-650c-4507-95d8-69e3cf0a28d4/FileGroup1/U1hDntSNOtG65BR0pLVq2jcSuu0xUFfh9bUCpf2U_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      }
+    ]
+  },
+  "onDemand": {
+    "30 Day Tone": [
+      {
+        "id": 118,
+        "name": "Welcome to 30 Day Tone",
+        "category_id": 9,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/118/vxXQauHcgZCrOIohqL5WgQqsbh7Xd5h3iZgHgbZy.jpeg",
+        "duration": 78,
+        "body_focus": "N/A",
+        "impact": "Low to High",
+        "intensity": 2,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/81b74b85-6c3d-4421-9d9d-ea812f1ba4cb/AppleHLS1/0TAh2O9lEvq5zGBJZzq4snAlqeTcJA.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/81b74b85-6c3d-4421-9d9d-ea812f1ba4cb/DASHISO1/0TAh2O9lEvq5zGBJZzq4snAlqeTcJA.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/81b74b85-6c3d-4421-9d9d-ea812f1ba4cb/FileGroup1/0TAh2O9lEvq5zGBJZzq4snAlqeTcJA_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 119,
+        "name": "Week 1 Day 1",
+        "category_id": 9,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/119/awlKRVM3X7E9nlLjpaExDAETJu4y5qe2L2xZ8Z1H.jpeg",
+        "duration": 2154,
+        "body_focus": "Lower Body",
+        "impact": "Low to High",
+        "intensity": 2,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/f544af52-8f2b-4b1f-90a3-5599a84d69c7/AppleHLS1/BAcfQBkaqTGiEiamXu1BUcoxMCEAVs.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/f544af52-8f2b-4b1f-90a3-5599a84d69c7/DASHISO1/BAcfQBkaqTGiEiamXu1BUcoxMCEAVs.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/f544af52-8f2b-4b1f-90a3-5599a84d69c7/FileGroup1/BAcfQBkaqTGiEiamXu1BUcoxMCEAVs_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 120,
+        "name": "Week 1 Day 2",
+        "category_id": 9,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/120/vOlnB3Oj29vaJLE0FHHffGGwDKO1EiSO4g2AFiMx.jpeg",
+        "duration": 1519,
+        "body_focus": "Cardio",
+        "impact": "Low to High",
+        "intensity": 2,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/e82b2293-c0bb-41de-88f7-9223954222bf/AppleHLS1/lJVAJpaykNR8XIELObek2LrnWBbkrf.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/e82b2293-c0bb-41de-88f7-9223954222bf/DASHISO1/lJVAJpaykNR8XIELObek2LrnWBbkrf.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/e82b2293-c0bb-41de-88f7-9223954222bf/FileGroup1/lJVAJpaykNR8XIELObek2LrnWBbkrf_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 121,
+        "name": "Week 1 Day 3",
+        "category_id": 9,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/121/gGfMoJuNuW8y1ozyuAiMdrDRhwUevlYCYFI2mf78.jpeg",
+        "duration": 2237,
+        "body_focus": "Upper Body",
+        "impact": "Low to High",
+        "intensity": 2,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/b60cbde4-fd13-4822-868f-36a8b41b9c0e/AppleHLS1/iYbJRktomxcY4j5DFmpTAeEotghvdY.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/b60cbde4-fd13-4822-868f-36a8b41b9c0e/DASHISO1/iYbJRktomxcY4j5DFmpTAeEotghvdY.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/b60cbde4-fd13-4822-868f-36a8b41b9c0e/FileGroup1/iYbJRktomxcY4j5DFmpTAeEotghvdY_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 122,
+        "name": "Week 1 Day 4",
+        "category_id": 9,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/122/jgwYhGIN3ZFko3xEJoEoNLurFFVxTi91LuBE2GbR.jpeg",
+        "duration": 1952,
+        "body_focus": "Cardio",
+        "impact": "Low to High",
+        "intensity": 2,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/5433d6ee-2b21-49d6-adf8-58f1f3087844/AppleHLS1/fV7L9DTMq8arCZPgH4zZZnZjdvYqMf.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/5433d6ee-2b21-49d6-adf8-58f1f3087844/DASHISO1/fV7L9DTMq8arCZPgH4zZZnZjdvYqMf.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/5433d6ee-2b21-49d6-adf8-58f1f3087844/FileGroup1/fV7L9DTMq8arCZPgH4zZZnZjdvYqMf_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 123,
+        "name": "Week 1 Day 5",
+        "category_id": 9,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/123/LunvqoMoNibKAx3wJ7fh4sczRdvBHpA7fZ0DDyHL.jpeg",
+        "duration": 2211,
+        "body_focus": "Full Body",
+        "impact": "Low to High",
+        "intensity": 2,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/0f818730-be44-4967-a270-1b040a00a53d/AppleHLS1/8tq2NB5d8mUXqKH2aMo7QSvML4AXCs.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/0f818730-be44-4967-a270-1b040a00a53d/DASHISO1/8tq2NB5d8mUXqKH2aMo7QSvML4AXCs.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/0f818730-be44-4967-a270-1b040a00a53d/FileGroup1/8tq2NB5d8mUXqKH2aMo7QSvML4AXCs_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 124,
+        "name": "Week 1 Day 6",
+        "category_id": 9,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/124/VS2ZZa9VN2wsXpHpQWHHQOkaEvgINdFRRLkDBP8b.jpeg",
+        "duration": 733,
+        "body_focus": "Core",
+        "impact": "Low",
+        "intensity": 1,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/f3903167-3b25-4562-a511-c17a45e33f43/AppleHLS1/Hhy1KKwCEeEmHb2HtBwiRMdF76gbjY.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/f3903167-3b25-4562-a511-c17a45e33f43/DASHISO1/Hhy1KKwCEeEmHb2HtBwiRMdF76gbjY.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/f3903167-3b25-4562-a511-c17a45e33f43/FileGroup1/Hhy1KKwCEeEmHb2HtBwiRMdF76gbjY_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 125,
+        "name": "Week 2 Day 1",
+        "category_id": 9,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/125/HqFJVKzVlJEcx60OpvlCav97OGp7vIy0GtUpZI7n.jpeg",
+        "duration": 2104,
+        "body_focus": "Lower Body",
+        "impact": "Low to High",
+        "intensity": 2,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/0ced23f4-0e6e-40f7-8b91-11e92ee7ae86/AppleHLS1/aFGtPCIh9HR175ubgWfrRH7gHiGIIy.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/0ced23f4-0e6e-40f7-8b91-11e92ee7ae86/DASHISO1/aFGtPCIh9HR175ubgWfrRH7gHiGIIy.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/0ced23f4-0e6e-40f7-8b91-11e92ee7ae86/FileGroup1/aFGtPCIh9HR175ubgWfrRH7gHiGIIy_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 126,
+        "name": "Week 2 Day 2",
+        "category_id": 9,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/126/i9xSadX4B11lARsjxmbXa1SBMLqNAvsdAEzl2AfJ.jpeg",
+        "duration": 1903,
+        "body_focus": "Cardio",
+        "impact": "Low to High",
+        "intensity": 2,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/14eb72df-47b0-4c70-a694-892df63686ae/AppleHLS1/j8pMs0DYVkkPwily1Yl9RM2baMhd6e.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/14eb72df-47b0-4c70-a694-892df63686ae/DASHISO1/j8pMs0DYVkkPwily1Yl9RM2baMhd6e.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/14eb72df-47b0-4c70-a694-892df63686ae/FileGroup1/j8pMs0DYVkkPwily1Yl9RM2baMhd6e_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 127,
+        "name": "Week 2 Day 3",
+        "category_id": 9,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/127/fb18YKvTim8oFLZlRDhhjMMk1dXjIWbR7ZfGjgaY.jpeg",
+        "duration": 1999,
+        "body_focus": "Upper Body",
+        "impact": "Low to High",
+        "intensity": 2,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/b0ed639e-a3c7-4c99-8e44-51f7d76795c9/AppleHLS1/VkKzC8wX8iE9VauPecw3aaaPi0NPdh.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/b0ed639e-a3c7-4c99-8e44-51f7d76795c9/DASHISO1/VkKzC8wX8iE9VauPecw3aaaPi0NPdh.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/b0ed639e-a3c7-4c99-8e44-51f7d76795c9/FileGroup1/VkKzC8wX8iE9VauPecw3aaaPi0NPdh_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 128,
+        "name": "Week 2 Day 4",
+        "category_id": 9,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/128/FrY9bqa0ddUoZVwXtAVwPeKt78bbGtY5dF8RkfX4.jpeg",
+        "duration": 1930,
+        "body_focus": "Cardio",
+        "impact": "Low to High",
+        "intensity": 2,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/ac9c9ecf-efe7-4497-b791-367fdae4b635/AppleHLS1/11nsD0f0pKPPwB7lqf1s1FfesImBxG.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/ac9c9ecf-efe7-4497-b791-367fdae4b635/DASHISO1/11nsD0f0pKPPwB7lqf1s1FfesImBxG.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/ac9c9ecf-efe7-4497-b791-367fdae4b635/FileGroup1/11nsD0f0pKPPwB7lqf1s1FfesImBxG_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 129,
+        "name": "Week 2 Day 5",
+        "category_id": 9,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/129/M9HMyEVPdL6KFypEzw6GPgt3UOPmIRJyEn9e4JNx.jpeg",
+        "duration": 2029,
+        "body_focus": "Full Body",
+        "impact": "Low to High",
+        "intensity": 2,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/5e3adba1-a3fa-4599-91bc-0decbc2fa43a/AppleHLS1/t8TkVQ1rmdhThBS38IBHTOJKJKuFlk.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/5e3adba1-a3fa-4599-91bc-0decbc2fa43a/DASHISO1/t8TkVQ1rmdhThBS38IBHTOJKJKuFlk.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/5e3adba1-a3fa-4599-91bc-0decbc2fa43a/FileGroup1/t8TkVQ1rmdhThBS38IBHTOJKJKuFlk_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 130,
+        "name": "Week 2 Day 6",
+        "category_id": 9,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/130/vf40pyQGc3dYC83awqCSitY1qVGBzcJ91w8MPy2s.jpeg",
+        "duration": 778,
+        "body_focus": "Core",
+        "impact": "Low",
+        "intensity": 1,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/17a5133d-bc69-47c5-95b6-e41e513caca3/AppleHLS1/sW1z1VqGWlXgkubBSYgfoK7OqmzpEP.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/17a5133d-bc69-47c5-95b6-e41e513caca3/DASHISO1/sW1z1VqGWlXgkubBSYgfoK7OqmzpEP.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/17a5133d-bc69-47c5-95b6-e41e513caca3/FileGroup1/sW1z1VqGWlXgkubBSYgfoK7OqmzpEP_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 131,
+        "name": "Week 3 Day 1",
+        "category_id": 9,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/131/3PgcuufDOcSLqyp1weLE8vEnVTTSi02oXjJF8lGT.jpeg",
+        "duration": 2079,
+        "body_focus": "Lower Body",
+        "impact": "Low to High",
+        "intensity": 2,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/71259a43-eba5-416c-8b0f-f95ec9b10e8b/AppleHLS1/F7E26YQbJ17kMDLqwBzrXuZ3yZ8VpS.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/71259a43-eba5-416c-8b0f-f95ec9b10e8b/DASHISO1/F7E26YQbJ17kMDLqwBzrXuZ3yZ8VpS.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/71259a43-eba5-416c-8b0f-f95ec9b10e8b/FileGroup1/F7E26YQbJ17kMDLqwBzrXuZ3yZ8VpS_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 132,
+        "name": "Week 3 Day 2",
+        "category_id": 9,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/132/LIBW1AQkBF8gucixEDTyZ4tHYhlEFLcI0tEHfKiv.jpeg",
+        "duration": 1979,
+        "body_focus": "Cardio",
+        "impact": "Low to High",
+        "intensity": 2,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/97cb123c-1992-4a5a-bd3e-f521031acfc2/AppleHLS1/05eHni6PcCC5Di75T6q0mqWYioEHsr.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/97cb123c-1992-4a5a-bd3e-f521031acfc2/DASHISO1/05eHni6PcCC5Di75T6q0mqWYioEHsr.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/97cb123c-1992-4a5a-bd3e-f521031acfc2/FileGroup1/05eHni6PcCC5Di75T6q0mqWYioEHsr_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 133,
+        "name": "Week 3 Day 3",
+        "category_id": 9,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/133/aolmNr1L8JMbBquCXi0zrapr8XgUYtvloxvOhtfC.jpeg",
+        "duration": 2175,
+        "body_focus": "Upper Body",
+        "impact": "Low to High",
+        "intensity": 2,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/4b2f4f0d-644b-4085-a384-3d31b1892c79/AppleHLS1/5O47kEnoiLuUkwVSdjPw1z4VU4MlEa.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/4b2f4f0d-644b-4085-a384-3d31b1892c79/DASHISO1/5O47kEnoiLuUkwVSdjPw1z4VU4MlEa.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/4b2f4f0d-644b-4085-a384-3d31b1892c79/FileGroup1/5O47kEnoiLuUkwVSdjPw1z4VU4MlEa_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 134,
+        "name": "Week 3 Day 4",
+        "category_id": 9,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/134/CiOWOVgcrSVjTqEW3E2jHsprJd7KnxIIKHDyKadg.jpeg",
+        "duration": 1936,
+        "body_focus": "Cardio",
+        "impact": "Low to High",
+        "intensity": 2,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/d1fcff7a-c96f-4eff-a1d5-e04522a06273/AppleHLS1/4TFyZJfNW15gagnMnrRTdqPwugWoWn.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/d1fcff7a-c96f-4eff-a1d5-e04522a06273/DASHISO1/4TFyZJfNW15gagnMnrRTdqPwugWoWn.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/d1fcff7a-c96f-4eff-a1d5-e04522a06273/FileGroup1/4TFyZJfNW15gagnMnrRTdqPwugWoWn_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 135,
+        "name": "Week 3 Day 5",
+        "category_id": 9,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/135/46hpXSG2fTOmJYMvBlUuH3fj3j5hXeDML9MUZD29.jpeg",
+        "duration": 1955,
+        "body_focus": "Full Body",
+        "impact": "Low to High",
+        "intensity": 2,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/e48c00a5-5ddd-4ccc-ba22-30b42fbe246f/AppleHLS1/93kz5E68sjUHeR5ejwDuFyN25wDwmZ.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/e48c00a5-5ddd-4ccc-ba22-30b42fbe246f/DASHISO1/93kz5E68sjUHeR5ejwDuFyN25wDwmZ.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/e48c00a5-5ddd-4ccc-ba22-30b42fbe246f/FileGroup1/93kz5E68sjUHeR5ejwDuFyN25wDwmZ_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 136,
+        "name": "Week 3 Day 6",
+        "category_id": 9,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/136/pV8wtxeXKfdi9Lsi5rCf9kJEUXa9VP03AW3BRyxD.jpeg",
+        "duration": 719,
+        "body_focus": "Core",
+        "impact": "Low",
+        "intensity": 1,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/ec54f3ae-bd3f-42b7-a10a-19ec43c31521/AppleHLS1/pwYcDL2YFlEuJEF0gNM9fy9mNL47Ix.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/ec54f3ae-bd3f-42b7-a10a-19ec43c31521/DASHISO1/pwYcDL2YFlEuJEF0gNM9fy9mNL47Ix.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/ec54f3ae-bd3f-42b7-a10a-19ec43c31521/FileGroup1/pwYcDL2YFlEuJEF0gNM9fy9mNL47Ix_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 137,
+        "name": "Week 4 Day 1",
+        "category_id": 9,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/137/M18n4o0omBFuhLIm9tYZRzndGEkc8bXEJKT5e50T.jpeg",
+        "duration": 2254,
+        "body_focus": "Lower Body",
+        "impact": "Low to High",
+        "intensity": 2,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/664a9f36-0cf3-4231-a12e-aa23e4640e36/AppleHLS1/oJgtg1H7c3G2qyVdpPEjj1bxXKApJu.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/664a9f36-0cf3-4231-a12e-aa23e4640e36/DASHISO1/oJgtg1H7c3G2qyVdpPEjj1bxXKApJu.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/664a9f36-0cf3-4231-a12e-aa23e4640e36/FileGroup1/oJgtg1H7c3G2qyVdpPEjj1bxXKApJu_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 138,
+        "name": "Week 4 Day 2",
+        "category_id": 9,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/138/Q6paCQRayNmmKstvczLcKQnudnZfPN73NHQsUeKc.jpeg",
+        "duration": 1908,
+        "body_focus": "Cardio",
+        "impact": "Low to High",
+        "intensity": 2,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/6fe3018c-5cc4-43a8-96c5-a01ec160b944/AppleHLS1/K4KZakJyziQPpD6FIiVQcMSggRMGcF.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/6fe3018c-5cc4-43a8-96c5-a01ec160b944/DASHISO1/K4KZakJyziQPpD6FIiVQcMSggRMGcF.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/6fe3018c-5cc4-43a8-96c5-a01ec160b944/FileGroup1/K4KZakJyziQPpD6FIiVQcMSggRMGcF_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 139,
+        "name": "Week 4 Day 3",
+        "category_id": 9,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/139/1aOqLttiO1zwX1QG3IbdhxO93adyulkilYdauLoh.jpeg",
+        "duration": 2103,
+        "body_focus": "Upper Body",
+        "impact": "Low to High",
+        "intensity": 2,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/370972cc-0d38-4bd6-97ed-62ad764a2b57/AppleHLS1/TXustPTrN7qjSHYY1pn2JPJ1V6zId9.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/370972cc-0d38-4bd6-97ed-62ad764a2b57/DASHISO1/TXustPTrN7qjSHYY1pn2JPJ1V6zId9.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/370972cc-0d38-4bd6-97ed-62ad764a2b57/FileGroup1/TXustPTrN7qjSHYY1pn2JPJ1V6zId9_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 140,
+        "name": "Week 4 Day 4",
+        "category_id": 9,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/140/l3gAYDAK8bESvOi6JDm81Slz5dEGQ5s56N7SdyEp.jpeg",
+        "duration": 2039,
+        "body_focus": "Cardio",
+        "impact": "Low to High",
+        "intensity": 2,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/1a45e223-1144-46d5-a587-f84708086d1e/AppleHLS1/9ILetVUbaZ2vLslitmhqs0UJ8mPRh0.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/1a45e223-1144-46d5-a587-f84708086d1e/DASHISO1/9ILetVUbaZ2vLslitmhqs0UJ8mPRh0.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/1a45e223-1144-46d5-a587-f84708086d1e/FileGroup1/9ILetVUbaZ2vLslitmhqs0UJ8mPRh0_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 141,
+        "name": "Week 4 Day 5",
+        "category_id": 9,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/141/k46mI3Opmf9pq3kJCd3r1BsnJuqF0vZfNJJH7QDe.jpeg",
+        "duration": 78,
+        "body_focus": "Full Body",
+        "impact": "Low to High",
+        "intensity": 2,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/7215b606-84ef-4540-91c0-249a65c9e67b/AppleHLS1/LGBTt4ViHc6cXyt4JTJERwfb1BKhCm.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/7215b606-84ef-4540-91c0-249a65c9e67b/DASHISO1/LGBTt4ViHc6cXyt4JTJERwfb1BKhCm.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/7215b606-84ef-4540-91c0-249a65c9e67b/FileGroup1/LGBTt4ViHc6cXyt4JTJERwfb1BKhCm_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 142,
+        "name": "Week 4 Day 6",
+        "category_id": 9,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/142/4DVPzh01e8ISpDVGGAwyVPR7kHN1hTtP0SPro16S.jpeg",
+        "duration": 1005,
+        "body_focus": "Core",
+        "impact": "Low",
+        "intensity": 1,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/331a34a7-0e93-458a-959a-ffe7ccc14f41/AppleHLS1/hNpMlOrcAJNQiIgXUBLnaVFexnSgAE.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/331a34a7-0e93-458a-959a-ffe7ccc14f41/DASHISO1/hNpMlOrcAJNQiIgXUBLnaVFexnSgAE.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/331a34a7-0e93-458a-959a-ffe7ccc14f41/FileGroup1/hNpMlOrcAJNQiIgXUBLnaVFexnSgAE_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 143,
+        "name": "You did it! What\u2019s next?",
+        "category_id": 9,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/143/o7LL7HGriYfj38hN28pEMb24ELMXjrRYU6968jfv.jpeg",
+        "duration": 47,
+        "body_focus": "N/A",
+        "impact": "Low",
+        "intensity": 1,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/cc6a9f13-5059-4864-af3c-568ce2a86ce8/AppleHLS1/tA9bN7fReSHz9po7Hphlz3NXThHKD8.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/cc6a9f13-5059-4864-af3c-568ce2a86ce8/DASHISO1/tA9bN7fReSHz9po7Hphlz3NXThHKD8.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/cc6a9f13-5059-4864-af3c-568ce2a86ce8/FileGroup1/tA9bN7fReSHz9po7Hphlz3NXThHKD8_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      }
+    ],
+    "Cardio": [
+      {
+        "id": 102,
+        "name": "20 Min Bodyweight HIIT Burnout",
+        "category_id": 5,
+        "trainer_id": 2,
+        "thumbnail": "/assets/media/102/oChIi0acPyjRs8HfBYp2WTDnAbDqoja1LrX5Gbxj.jpeg",
+        "duration": 1383,
+        "body_focus": "Full Body",
+        "impact": "High",
+        "intensity": 3,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/b795e5c3-7952-4356-ba7b-2e20c276dd23/AppleHLS1/TtDNjOkndJDGPPbaVwSXGj9IUwKCPV.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/b795e5c3-7952-4356-ba7b-2e20c276dd23/DASHISO1/TtDNjOkndJDGPPbaVwSXGj9IUwKCPV.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/b795e5c3-7952-4356-ba7b-2e20c276dd23/FileGroup1/TtDNjOkndJDGPPbaVwSXGj9IUwKCPV_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 107,
+        "name": "15 Min Lower Body Blast with Dumbbells",
+        "category_id": 5,
+        "trainer_id": 3,
+        "thumbnail": "/assets/media/107/flA52IgbiXytzBsUXBYyjibfsoTKAflU3JFnByCY.jpeg",
+        "duration": 782,
+        "body_focus": "Lower Body",
+        "impact": "High",
+        "intensity": 3,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/4fbd06c9-c3d0-4e4a-b3d4-ed358296004f/AppleHLS1/ZN1UGChHDhxpVPWny5XQfqhzOpKGKy.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/4fbd06c9-c3d0-4e4a-b3d4-ed358296004f/DASHISO1/ZN1UGChHDhxpVPWny5XQfqhzOpKGKy.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/4fbd06c9-c3d0-4e4a-b3d4-ed358296004f/FileGroup1/ZN1UGChHDhxpVPWny5XQfqhzOpKGKy_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 108,
+        "name": "30 Min Upper Body HIIT with Dumbbells",
+        "category_id": 5,
+        "trainer_id": 2,
+        "thumbnail": "/assets/media/108/bFpIeKGBPMvHiQw8VI3qL0RezJawoBP79rKgTer1.jpeg",
+        "duration": 1794,
+        "body_focus": "Upper Body",
+        "impact": "High",
+        "intensity": 3,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/da1bf7c4-bd3f-4cef-8681-fb1398a39034/AppleHLS1/L5shrw8GL1YIWnSPyVFL6cCZzkgcqt.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/da1bf7c4-bd3f-4cef-8681-fb1398a39034/DASHISO1/L5shrw8GL1YIWnSPyVFL6cCZzkgcqt.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/da1bf7c4-bd3f-4cef-8681-fb1398a39034/FileGroup1/L5shrw8GL1YIWnSPyVFL6cCZzkgcqt_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 109,
+        "name": "20 Min Bodyweight Full Body Blast",
+        "category_id": 5,
+        "trainer_id": 3,
+        "thumbnail": "/assets/media/109/EuwrhVVoXHCddBfvBiqSlq1y5YXLXcvctv3fxPnU.png",
+        "duration": 1119,
+        "body_focus": "Full Body",
+        "impact": "High",
+        "intensity": 3,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/0ec05f4f-15f2-4005-9fba-ca1f0aac30e2/AppleHLS1/U9Ubnt2Ovl6eo0fdNkpLgsjJUXGw26.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/0ec05f4f-15f2-4005-9fba-ca1f0aac30e2/DASHISO1/U9Ubnt2Ovl6eo0fdNkpLgsjJUXGw26.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/0ec05f4f-15f2-4005-9fba-ca1f0aac30e2/FileGroup1/U9Ubnt2Ovl6eo0fdNkpLgsjJUXGw26_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 110,
+        "name": "30 Min Bodyweight Lower Body + Core HIIT",
+        "category_id": 5,
+        "trainer_id": 2,
+        "thumbnail": "/assets/media/110/fQbjWuxvxSkgNifqtFax0mxPHRkcTrpUQ5KWhW0j.jpeg",
+        "duration": 2001,
+        "body_focus": "Lower Body",
+        "impact": "High",
+        "intensity": 3,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/c3b1e5e9-a15f-4dee-9eff-400815902a03/AppleHLS1/vS8bbR4CM25fSJv33oVWnYlmk7Fa4q.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/c3b1e5e9-a15f-4dee-9eff-400815902a03/DASHISO1/vS8bbR4CM25fSJv33oVWnYlmk7Fa4q.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/c3b1e5e9-a15f-4dee-9eff-400815902a03/FileGroup1/vS8bbR4CM25fSJv33oVWnYlmk7Fa4q_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 111,
+        "name": "15 Min Full Body Blast with Dumbbells",
+        "category_id": 5,
+        "trainer_id": 3,
+        "thumbnail": "/assets/media/111/7P0FNh5G1pE6tGevCFmJvMKbj5FVGZct6HLshOfa.png",
+        "duration": 903,
+        "body_focus": "Full Body",
+        "impact": "High",
+        "intensity": 2,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/988e770d-b6a7-4a3c-831d-e5aa851d858a/AppleHLS1/oyGXZvM6wMV3RRd7o4aypICUMnlT2D.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/988e770d-b6a7-4a3c-831d-e5aa851d858a/DASHISO1/oyGXZvM6wMV3RRd7o4aypICUMnlT2D.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/988e770d-b6a7-4a3c-831d-e5aa851d858a/FileGroup1/oyGXZvM6wMV3RRd7o4aypICUMnlT2D_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 112,
+        "name": "15 Min Bodyweight Upper Body + Core",
+        "category_id": 5,
+        "trainer_id": 2,
+        "thumbnail": "/assets/media/112/vQdImgQxxvFF4u7L2wWVL8fLh7IKw1kv9AcEYUtL.jpeg",
+        "duration": 936,
+        "body_focus": "Upper Body",
+        "impact": "High",
+        "intensity": 2,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/c069ca33-8f56-4045-bf08-56906277878d/AppleHLS1/iPK8qpovi5RFYdQVOdVS1kKCIxwkRN.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/c069ca33-8f56-4045-bf08-56906277878d/DASHISO1/iPK8qpovi5RFYdQVOdVS1kKCIxwkRN.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/c069ca33-8f56-4045-bf08-56906277878d/FileGroup1/iPK8qpovi5RFYdQVOdVS1kKCIxwkRN_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 113,
+        "name": "30 Min Full Body with Dumbbells",
+        "category_id": 5,
+        "trainer_id": 3,
+        "thumbnail": "/assets/media/113/LMruypNWAQYx772yDRZm6qlDXIQN5F86BRab0wBD.png",
+        "duration": 1623,
+        "body_focus": "Full Body",
+        "impact": "High",
+        "intensity": 2,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/4bab719d-3e91-4bd7-8a9a-4ace29be654e/AppleHLS1/kqUfsnc1IX2hZakBnpneUYVp2hhhFO.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/4bab719d-3e91-4bd7-8a9a-4ace29be654e/DASHISO1/kqUfsnc1IX2hZakBnpneUYVp2hhhFO.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/4bab719d-3e91-4bd7-8a9a-4ace29be654e/FileGroup1/kqUfsnc1IX2hZakBnpneUYVp2hhhFO_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 114,
+        "name": "15 Min Full Body Bodyweight HIIT",
+        "category_id": 5,
+        "trainer_id": 2,
+        "thumbnail": "/assets/media/114/ejYPMxcBZarsSupetz2LQykrFcAaf3FdFTELQb9y.jpeg",
+        "duration": 939,
+        "body_focus": "Full Body",
+        "impact": "High",
+        "intensity": 3,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/ff1a1eb3-4785-4ab0-b7a3-43b151b161ff/AppleHLS1/ltpE4SeUcVreZLtuFEtyfj92Exl7A4.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/ff1a1eb3-4785-4ab0-b7a3-43b151b161ff/DASHISO1/ltpE4SeUcVreZLtuFEtyfj92Exl7A4.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/ff1a1eb3-4785-4ab0-b7a3-43b151b161ff/FileGroup1/ltpE4SeUcVreZLtuFEtyfj92Exl7A4_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 115,
+        "name": "20 Min Upper Body with Dumbbells",
+        "category_id": 5,
+        "trainer_id": 2,
+        "thumbnail": "/assets/media/115/O78Y77q76F6q5DcFPCtF6lDxpy3Ld9c0skHuLn9d.jpeg",
+        "duration": 1284,
+        "body_focus": "Upper Body",
+        "impact": "High",
+        "intensity": 3,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/63dff84d-c598-443f-b587-97c9d53e9fb9/AppleHLS1/xtrApKYcZULqGVBLId2XptFtMLKssx.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/63dff84d-c598-443f-b587-97c9d53e9fb9/DASHISO1/xtrApKYcZULqGVBLId2XptFtMLKssx.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/63dff84d-c598-443f-b587-97c9d53e9fb9/FileGroup1/xtrApKYcZULqGVBLId2XptFtMLKssx_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 116,
+        "name": "15 Min Full Body Bodyweight HIIT",
+        "category_id": 5,
+        "trainer_id": 2,
+        "thumbnail": "/assets/media/116/E2LfdVbA32o2ZlSCgRQsDvFELNG37IBHsxVVRdFo.jpeg",
+        "duration": 810,
+        "body_focus": "Full Body",
+        "impact": "High",
+        "intensity": 3,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/beb8ec39-5011-4212-b51d-549d6c130d2e/AppleHLS1/B0lER9E80MXKjxWeXhsBGb3V1xIjRA.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/beb8ec39-5011-4212-b51d-549d6c130d2e/DASHISO1/B0lER9E80MXKjxWeXhsBGb3V1xIjRA.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/beb8ec39-5011-4212-b51d-549d6c130d2e/FileGroup1/B0lER9E80MXKjxWeXhsBGb3V1xIjRA_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 117,
+        "name": "20 Min Full Body with Dumbbells",
+        "category_id": 5,
+        "trainer_id": 2,
+        "thumbnail": "/assets/media/117/Pv4Iq3L4Umez02a0DndPuHNL5AQP8AB0dyYFA3o1.jpeg",
+        "duration": 1282,
+        "body_focus": "Full Body",
+        "impact": "High",
+        "intensity": 2,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/986e057f-8fae-49b0-96bb-9bc710c8e3b1/AppleHLS1/2aEpreimEFeI6PipYLtcJhFv9oU2g3.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/986e057f-8fae-49b0-96bb-9bc710c8e3b1/DASHISO1/2aEpreimEFeI6PipYLtcJhFv9oU2g3.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/986e057f-8fae-49b0-96bb-9bc710c8e3b1/FileGroup1/2aEpreimEFeI6PipYLtcJhFv9oU2g3_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      }
+    ],
+    "Low Impact": [
+      {
+        "id": 89,
+        "name": "Intro to Diaphragmatic Breathing",
+        "category_id": 6,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/89/5Sdi6hWJLnkhFmhucbogGzTFNjmeC1F1Q63dFS04.jpeg",
+        "duration": 538,
+        "body_focus": "Core",
+        "impact": "Low",
+        "intensity": 1,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/4454933b-2af8-4ae1-83bb-d50f3860a6ab/AppleHLS1/yHvMEWsA7RURrEoWoT0EWqJizXP95I.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/4454933b-2af8-4ae1-83bb-d50f3860a6ab/DASHISO1/yHvMEWsA7RURrEoWoT0EWqJizXP95I.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/4454933b-2af8-4ae1-83bb-d50f3860a6ab/FileGroup1/yHvMEWsA7RURrEoWoT0EWqJizXP95I_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 98,
+        "name": "10 Min Upper Body + Core",
+        "category_id": 6,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/98/9Bb3TL4zEttGqdGHKRqmHUbOLuCtGFzpnoDu2SVx.png",
+        "duration": 835,
+        "body_focus": "Upper Body",
+        "impact": "Low",
+        "intensity": 2,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/4f347822-61bd-45e3-9407-85240325d814/AppleHLS1/NDdzeNrYlZNp7KycgdWLCVWqyxyRxZ.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/4f347822-61bd-45e3-9407-85240325d814/DASHISO1/NDdzeNrYlZNp7KycgdWLCVWqyxyRxZ.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/4f347822-61bd-45e3-9407-85240325d814/FileGroup1/NDdzeNrYlZNp7KycgdWLCVWqyxyRxZ_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 99,
+        "name": "10 Min Booty Burn",
+        "category_id": 6,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/99/eL8u7pajKwVvpH6aCBe47JMCRja3S8f2Oe6xcVnC.png",
+        "duration": 688,
+        "body_focus": "Lower Body",
+        "impact": "Low",
+        "intensity": 2,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/5fbdda39-bc59-4785-b4bb-dffaaaacabf9/AppleHLS1/18uPyiBZa0C0Y7T9urDoqekXnG7ZQv.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/5fbdda39-bc59-4785-b4bb-dffaaaacabf9/DASHISO1/18uPyiBZa0C0Y7T9urDoqekXnG7ZQv.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/5fbdda39-bc59-4785-b4bb-dffaaaacabf9/FileGroup1/18uPyiBZa0C0Y7T9urDoqekXnG7ZQv_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 101,
+        "name": "10 Min Upper Body Burn",
+        "category_id": 6,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/101/SBTNAEYyJo1FtmAEuoxXbcRvHzQ2I0ZBRa8OTIEf.png",
+        "duration": 765,
+        "body_focus": "Upper Body",
+        "impact": "Low",
+        "intensity": 2,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/ba78c0e1-541d-4505-be2c-bd28ef48806b/AppleHLS1/karVzvPJyY6UYRE22YflKXqnb09QxU.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/ba78c0e1-541d-4505-be2c-bd28ef48806b/DASHISO1/karVzvPJyY6UYRE22YflKXqnb09QxU.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/ba78c0e1-541d-4505-be2c-bd28ef48806b/FileGroup1/karVzvPJyY6UYRE22YflKXqnb09QxU_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 103,
+        "name": "30 Min Full Body Bodyweight Burn",
+        "category_id": 6,
+        "trainer_id": 3,
+        "thumbnail": "/assets/media/103/Zvr2T3QqeSacjkmLmNsnCmGksxhSvzjeB22Qrvxe.png",
+        "duration": 1694,
+        "body_focus": "Full Body",
+        "impact": "Low",
+        "intensity": 2,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/7d151cb2-2398-4998-8c3c-e53b6a7b1f4e/AppleHLS1/HotBk6JU7SoVGyp9fpZ2lrRXqS0YhQ.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/7d151cb2-2398-4998-8c3c-e53b6a7b1f4e/DASHISO1/HotBk6JU7SoVGyp9fpZ2lrRXqS0YhQ.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/7d151cb2-2398-4998-8c3c-e53b6a7b1f4e/FileGroup1/HotBk6JU7SoVGyp9fpZ2lrRXqS0YhQ_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 104,
+        "name": "20 Min Good Morning Stretch",
+        "category_id": 6,
+        "trainer_id": 3,
+        "thumbnail": "/assets/media/104/IdxL7SeRjbMn0Crt3PDwEPMbid0VXlWOErATKguO.png",
+        "duration": 1252,
+        "body_focus": "Full Body",
+        "impact": "Low",
+        "intensity": 1,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/02d422a4-259d-4145-8d72-6c05ff8439da/AppleHLS1/BWDeHxgpKfbbSeHGdtwdXTadCADj6n.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/02d422a4-259d-4145-8d72-6c05ff8439da/DASHISO1/BWDeHxgpKfbbSeHGdtwdXTadCADj6n.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/02d422a4-259d-4145-8d72-6c05ff8439da/FileGroup1/BWDeHxgpKfbbSeHGdtwdXTadCADj6n_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 105,
+        "name": "20 Min Full Body Cardio with Dumbbells",
+        "category_id": 6,
+        "trainer_id": 3,
+        "thumbnail": "/assets/media/105/uprTy05uluEovQKeVeyNChA8NS70HchsXfeFgqWN.png",
+        "duration": 1176,
+        "body_focus": "Full Body",
+        "impact": "Low",
+        "intensity": 2,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/a74cfa27-0ae8-42b8-a516-e627ebf2b310/AppleHLS1/4ceUVvaA3NHifmn4MPfwxT9yYREGjf.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/a74cfa27-0ae8-42b8-a516-e627ebf2b310/DASHISO1/4ceUVvaA3NHifmn4MPfwxT9yYREGjf.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/a74cfa27-0ae8-42b8-a516-e627ebf2b310/FileGroup1/4ceUVvaA3NHifmn4MPfwxT9yYREGjf_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 106,
+        "name": "30 Min Standing Full Body Burn with Dumbbells",
+        "category_id": 6,
+        "trainer_id": 3,
+        "thumbnail": "/assets/media/106/WIFb8pTQymp6PCtfiwo67O5hydRlUBAg75HKjq4k.png",
+        "duration": 1731,
+        "body_focus": "Full Body",
+        "impact": "Low",
+        "intensity": 2,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/3cf45d8e-6436-4a26-91a4-0aad6c702ba0/AppleHLS1/v0IfCijVzHqDEzrfWsyeN6OdvmqQ1U.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/3cf45d8e-6436-4a26-91a4-0aad6c702ba0/DASHISO1/v0IfCijVzHqDEzrfWsyeN6OdvmqQ1U.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/3cf45d8e-6436-4a26-91a4-0aad6c702ba0/FileGroup1/v0IfCijVzHqDEzrfWsyeN6OdvmqQ1U_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      }
+    ],
+    "Yoga Flows": [
+      {
+        "id": 90,
+        "name": "Morning Flow",
+        "category_id": 7,
+        "trainer_id": 4,
+        "thumbnail": "/assets/media/90/kZfhzhdn5QuDAafweBkmhrp1xyDlD0afmTDUsMq3.jpeg",
+        "duration": 694,
+        "body_focus": "Full Body",
+        "impact": "Low",
+        "intensity": 1,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/9678a94b-3f2a-4072-986b-ad9d02e73ffa/AppleHLS1/2quUv5crladeioyR8YPL9aZRgApbSN.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/9678a94b-3f2a-4072-986b-ad9d02e73ffa/DASHISO1/2quUv5crladeioyR8YPL9aZRgApbSN.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/9678a94b-3f2a-4072-986b-ad9d02e73ffa/FileGroup1/2quUv5crladeioyR8YPL9aZRgApbSN_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 91,
+        "name": "Evening Flow",
+        "category_id": 7,
+        "trainer_id": 4,
+        "thumbnail": "/assets/media/91/a48CaiuzWiREXFvW9BUWXHtkNVTijcSAPE9XdyQM.jpeg",
+        "duration": 943,
+        "body_focus": "Full Body",
+        "impact": "Low",
+        "intensity": 1,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/9764af09-a1b9-4548-89a5-c20a2856f43c/AppleHLS1/1ZaKU9norCOHKPy0wiXLPprUBlcfxZ.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/9764af09-a1b9-4548-89a5-c20a2856f43c/DASHISO1/1ZaKU9norCOHKPy0wiXLPprUBlcfxZ.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/9764af09-a1b9-4548-89a5-c20a2856f43c/FileGroup1/1ZaKU9norCOHKPy0wiXLPprUBlcfxZ_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 92,
+        "name": "Vinyasa Beginner",
+        "category_id": 7,
+        "trainer_id": 4,
+        "thumbnail": "/assets/media/92/czR0XsuAmiJs8EatsUjdtSbNITaYJXpC5MOPSbA9.jpeg",
+        "duration": 2268,
+        "body_focus": "Full Body",
+        "impact": "Low",
+        "intensity": 1,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/9a074991-4b66-4b8a-a2b8-d14c2a0dfff8/AppleHLS1/jtHX86sSB4XOomNHu5r9EoQOzJGKbT.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/9a074991-4b66-4b8a-a2b8-d14c2a0dfff8/DASHISO1/jtHX86sSB4XOomNHu5r9EoQOzJGKbT.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/9a074991-4b66-4b8a-a2b8-d14c2a0dfff8/FileGroup1/jtHX86sSB4XOomNHu5r9EoQOzJGKbT_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 93,
+        "name": "Strength",
+        "category_id": 7,
+        "trainer_id": 4,
+        "thumbnail": "/assets/media/93/Ek94wvtB5LiWLBTMhJPvcCtzRRC8z9iavcDiTgbZ.jpeg",
+        "duration": 1569,
+        "body_focus": "Upper Body",
+        "impact": "Low",
+        "intensity": 1,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/6780b530-a609-4a38-aabf-3c0c4132baf3/AppleHLS1/MEZNefJHgbJrYtDbhavozsZwEDvFv3.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/6780b530-a609-4a38-aabf-3c0c4132baf3/DASHISO1/MEZNefJHgbJrYtDbhavozsZwEDvFv3.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/6780b530-a609-4a38-aabf-3c0c4132baf3/FileGroup1/MEZNefJHgbJrYtDbhavozsZwEDvFv3_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 94,
+        "name": "Vinyasa Intermediate",
+        "category_id": 7,
+        "trainer_id": 4,
+        "thumbnail": "/assets/media/94/JVxGjPakdDsFshfYkf3IVHBG6uOFbK5dJyrywPzC.jpeg",
+        "duration": 2073,
+        "body_focus": "Full Body",
+        "impact": "Low",
+        "intensity": 2,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/5af69fcb-c952-4ca1-b4ee-6ee860e076e8/AppleHLS1/82qKJ8G6A4fywuiyK4q8z6l1XnoFwM.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/5af69fcb-c952-4ca1-b4ee-6ee860e076e8/DASHISO1/82qKJ8G6A4fywuiyK4q8z6l1XnoFwM.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/5af69fcb-c952-4ca1-b4ee-6ee860e076e8/FileGroup1/82qKJ8G6A4fywuiyK4q8z6l1XnoFwM_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 95,
+        "name": "Backbends",
+        "category_id": 7,
+        "trainer_id": 4,
+        "thumbnail": "/assets/media/95/szTCydCatroN4M7m93sCMxS0muoht6GxdT4JbXl4.jpeg",
+        "duration": 1820,
+        "body_focus": "Upper Body",
+        "impact": "Low",
+        "intensity": 1,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/aaefef62-d061-47a5-8088-29a96b199701/AppleHLS1/G2u5W52ytgXNfNFIPcaANtQpxgUKq4.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/aaefef62-d061-47a5-8088-29a96b199701/DASHISO1/G2u5W52ytgXNfNFIPcaANtQpxgUKq4.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/aaefef62-d061-47a5-8088-29a96b199701/FileGroup1/G2u5W52ytgXNfNFIPcaANtQpxgUKq4_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 96,
+        "name": "Forward Bends",
+        "category_id": 7,
+        "trainer_id": 4,
+        "thumbnail": "/assets/media/96/P8QG2mTSvBwMoh8WoRnfaCpWt04IMPgWFCF7SOqT.jpeg",
+        "duration": 1855,
+        "body_focus": "Upper Body",
+        "impact": "Low",
+        "intensity": 1,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/e985e9d3-79fb-444e-85ff-7ef7b1bd52bf/AppleHLS1/29g9dkBwv9bW0x82wPPDlR1ZLAhrPL.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/e985e9d3-79fb-444e-85ff-7ef7b1bd52bf/DASHISO1/29g9dkBwv9bW0x82wPPDlR1ZLAhrPL.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/e985e9d3-79fb-444e-85ff-7ef7b1bd52bf/FileGroup1/29g9dkBwv9bW0x82wPPDlR1ZLAhrPL_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 97,
+        "name": "Splits",
+        "category_id": 7,
+        "trainer_id": 4,
+        "thumbnail": "/assets/media/97/1D0Q6adHwMxxCDdY4J6NaTjtr72ZHtylAemLa4FB.jpeg",
+        "duration": 2006,
+        "body_focus": "Lower Body",
+        "impact": "Low",
+        "intensity": 1,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/a08d0333-1caf-436b-b7b8-3d67951b1d11/AppleHLS1/uXFc37xzO0C0vjbnn91UyZlvXdt3ww.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/a08d0333-1caf-436b-b7b8-3d67951b1d11/DASHISO1/uXFc37xzO0C0vjbnn91UyZlvXdt3ww.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/a08d0333-1caf-436b-b7b8-3d67951b1d11/FileGroup1/uXFc37xzO0C0vjbnn91UyZlvXdt3ww_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      }
+    ],
+    "Postpartum": [
+      {
+        "id": 81,
+        "name": "Restore Your Core: Session 1",
+        "category_id": 8,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/81/DFGqUPsEZdDyqDabavXZuAM61VkawEE2ct3A3bcV.jpeg",
+        "duration": 660,
+        "body_focus": "Core",
+        "impact": "Low",
+        "intensity": 1,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/8c7f5d0f-d892-4930-a583-fbcfe724c336/AppleHLS1/Gq6Sxk3ZH3Tr8A6nc2HYdOxVOiNolF.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/8c7f5d0f-d892-4930-a583-fbcfe724c336/DASHISO1/Gq6Sxk3ZH3Tr8A6nc2HYdOxVOiNolF.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/8c7f5d0f-d892-4930-a583-fbcfe724c336/FileGroup1/Gq6Sxk3ZH3Tr8A6nc2HYdOxVOiNolF_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 82,
+        "name": "Restore Your Core: Session 2",
+        "category_id": 8,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/82/6zDfaqfagqfXKXQyFCfRmUjjY8NnR4aKAygaq4KO.jpeg",
+        "duration": 751,
+        "body_focus": "Core",
+        "impact": "Low",
+        "intensity": 1,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/0071161c-8caf-44e7-98f3-b65594329e55/AppleHLS1/9sky6HL2t5jMgGUtatN6E59D39L5LW.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/0071161c-8caf-44e7-98f3-b65594329e55/DASHISO1/9sky6HL2t5jMgGUtatN6E59D39L5LW.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/0071161c-8caf-44e7-98f3-b65594329e55/FileGroup1/9sky6HL2t5jMgGUtatN6E59D39L5LW_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 83,
+        "name": "Restore Your Core: Session 3",
+        "category_id": 8,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/83/6TLwEK9x59PWAUThZJGu4ZDMoD230HV2Zji6Na7P.jpeg",
+        "duration": 732,
+        "body_focus": "Core",
+        "impact": "Low",
+        "intensity": 1,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/3a36f3a2-0f0a-4a6d-9f6f-006c675e21ea/AppleHLS1/STUVCWojoXTey7gTCsRyaENw8WZdue.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/3a36f3a2-0f0a-4a6d-9f6f-006c675e21ea/DASHISO1/STUVCWojoXTey7gTCsRyaENw8WZdue.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/3a36f3a2-0f0a-4a6d-9f6f-006c675e21ea/FileGroup1/STUVCWojoXTey7gTCsRyaENw8WZdue_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 84,
+        "name": "Restore Your Core: Session 4",
+        "category_id": 8,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/84/ikpr6XCPW9Neq0JpzSFqP1zz8WAKPFYGnieKo8y0.jpeg",
+        "duration": 543,
+        "body_focus": "Core",
+        "impact": "Low",
+        "intensity": 1,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/780336b2-05fe-4719-8ed2-ff54dbb4281e/AppleHLS1/7miAvyqCX3we7AWVrMWwmzTlD38KLe.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/780336b2-05fe-4719-8ed2-ff54dbb4281e/DASHISO1/7miAvyqCX3we7AWVrMWwmzTlD38KLe.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/780336b2-05fe-4719-8ed2-ff54dbb4281e/FileGroup1/7miAvyqCX3we7AWVrMWwmzTlD38KLe_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 85,
+        "name": "Restore Your Core: Session 5",
+        "category_id": 8,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/85/dO8Jf3TwUiXtKNRS3buB6Epv6oN95ugbCiThPNIM.jpeg",
+        "duration": 608,
+        "body_focus": "Core",
+        "impact": "Low",
+        "intensity": 1,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/5b8cd1fe-6bb0-438b-b0ba-d2bf984e661b/AppleHLS1/IoLTk45yMbjHPbbbD8eQzCPTRLGHvi.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/5b8cd1fe-6bb0-438b-b0ba-d2bf984e661b/DASHISO1/IoLTk45yMbjHPbbbD8eQzCPTRLGHvi.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/5b8cd1fe-6bb0-438b-b0ba-d2bf984e661b/FileGroup1/IoLTk45yMbjHPbbbD8eQzCPTRLGHvi_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 86,
+        "name": "Restore Your Core: Session 6",
+        "category_id": 8,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/86/OMiwQV7uNxKk8qkQywzcpaG4jgQ3XOUupZqd8GCt.jpeg",
+        "duration": 594,
+        "body_focus": "Core",
+        "impact": "Low",
+        "intensity": 1,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/ebf52e7e-c90d-4a71-8c2f-57c48390e4e6/AppleHLS1/mvpPy51RPhOsMFwjQkQnxYW5r6QUw0.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/ebf52e7e-c90d-4a71-8c2f-57c48390e4e6/DASHISO1/mvpPy51RPhOsMFwjQkQnxYW5r6QUw0.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/ebf52e7e-c90d-4a71-8c2f-57c48390e4e6/FileGroup1/mvpPy51RPhOsMFwjQkQnxYW5r6QUw0_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 87,
+        "name": "Restore Your Core: Session 7",
+        "category_id": 8,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/87/F77mcnLCbIUbdyxjEe7j27bY30jYxMYrrY3jH9iX.jpeg",
+        "duration": 622,
+        "body_focus": "Core",
+        "impact": "Low",
+        "intensity": 1,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/6386f954-66f0-4d5a-a088-75b908f6e1d4/AppleHLS1/L4Tx24BUqZoPzsSjnLC9bVk34LAlEq.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/6386f954-66f0-4d5a-a088-75b908f6e1d4/DASHISO1/L4Tx24BUqZoPzsSjnLC9bVk34LAlEq.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/6386f954-66f0-4d5a-a088-75b908f6e1d4/FileGroup1/L4Tx24BUqZoPzsSjnLC9bVk34LAlEq_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      },
+      {
+        "id": 88,
+        "name": "Restore Your Core: Session 8",
+        "category_id": 8,
+        "trainer_id": 1,
+        "thumbnail": "/assets/media/88/FeVnxAM3LB4SmL9lxwxW3dt0uTaWI0UNnT8kNyqr.jpeg",
+        "duration": 691,
+        "body_focus": "Core",
+        "impact": "Low",
+        "intensity": 1,
+        "video_data": {
+          "HLS_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/c7ef6e85-08c8-4ed9-b066-0aabab5c8542/AppleHLS1/eUNf6hzbR0Vk9eyUeuP9wDmalqKXwF.m3u8"
+          ],
+          "DASH_ISO_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/c7ef6e85-08c8-4ed9-b066-0aabab5c8542/DASHISO1/eUNf6hzbR0Vk9eyUeuP9wDmalqKXwF.mpd"
+          ],
+          "FILE_GROUP": [
+            "https://d2iijf20376vbs.cloudfront.net/c7ef6e85-08c8-4ed9-b066-0aabab5c8542/FileGroup1/eUNf6hzbR0Vk9eyUeuP9wDmalqKXwF_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FAQHeader renders snapshot correctly 1`] = `
+<RCTScrollView
+  horizontal={true}
+>
+  <View>
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "opacity": 1,
+          "paddingTop": 100,
+        }
+      }
+      testID="tab_btn"
+    >
+      <BVLinearGradient
+        colors={
+          [
+            4279220154,
+            4286300671,
+          ]
+        }
+        endPoint={
+          {
+            "x": 0.5,
+            "y": 1,
+          }
+        }
+        locations={null}
+        startPoint={
+          {
+            "x": 0.5,
+            "y": 0,
+          }
+        }
+        style={
+          {
+            "alignItems": "center",
+            "borderRadius": 50,
+            "height": 57,
+            "justifyContent": "center",
+            "marginBottom": 5,
+            "marginLeft": 9,
+            "marginRight": 9,
+            "marginTop": 5,
+            "width": 160,
+          }
+        }
+        testID="tab_bg"
+      >
+        <Text
+          style={
+            {
+              "color": "#ffffff",
+              "fontFamily": "OpenSans-Bold",
+              "fontSize": 16,
+            }
+          }
+        >
+          TECH SUPPORT
+        </Text>
+      </BVLinearGradient>
+    </View>
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "opacity": 1,
+          "paddingTop": 100,
+        }
+      }
+      testID="tab_btn"
+    >
+      <BVLinearGradient
+        colors={
+          [
+            4292796126,
+            4292796126,
+          ]
+        }
+        endPoint={
+          {
+            "x": 0.5,
+            "y": 1,
+          }
+        }
+        locations={null}
+        startPoint={
+          {
+            "x": 0.5,
+            "y": 0,
+          }
+        }
+        style={
+          {
+            "alignItems": "center",
+            "borderRadius": 50,
+            "height": 45,
+            "justifyContent": "center",
+            "marginBottom": 5,
+            "marginLeft": 9,
+            "marginRight": 9,
+            "marginTop": 10,
+            "width": 140,
+          }
+        }
+        testID="tab_bg"
+      >
+        <Text
+          style={
+            {
+              "color": "#ffffff",
+              "fontFamily": "OpenSans-Bold",
+              "fontSize": 16,
+            }
+          }
+        >
+          WORKOUTS
+        </Text>
+      </BVLinearGradient>
+    </View>
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "opacity": 1,
+          "paddingTop": 100,
+        }
+      }
+      testID="tab_btn"
+    >
+      <BVLinearGradient
+        colors={
+          [
+            4292796126,
+            4292796126,
+          ]
+        }
+        endPoint={
+          {
+            "x": 0.5,
+            "y": 1,
+          }
+        }
+        locations={null}
+        startPoint={
+          {
+            "x": 0.5,
+            "y": 0,
+          }
+        }
+        style={
+          {
+            "alignItems": "center",
+            "borderRadius": 50,
+            "height": 45,
+            "justifyContent": "center",
+            "marginBottom": 5,
+            "marginLeft": 9,
+            "marginRight": 9,
+            "marginTop": 10,
+            "width": 140,
+          }
+        }
+        testID="tab_bg"
+      >
+        <Text
+          style={
+            {
+              "color": "#ffffff",
+              "fontFamily": "OpenSans-Bold",
+              "fontSize": 16,
+            }
+          }
+        >
+          MEALS
+        </Text>
+      </BVLinearGradient>
+    </View>
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "opacity": 1,
+          "paddingTop": 100,
+        }
+      }
+      testID="tab_btn"
+    >
+      <BVLinearGradient
+        colors={
+          [
+            4292796126,
+            4292796126,
+          ]
+        }
+        endPoint={
+          {
+            "x": 0.5,
+            "y": 1,
+          }
+        }
+        locations={null}
+        startPoint={
+          {
+            "x": 0.5,
+            "y": 0,
+          }
+        }
+        style={
+          {
+            "alignItems": "center",
+            "borderRadius": 50,
+            "height": 45,
+            "justifyContent": "center",
+            "marginBottom": 5,
+            "marginLeft": 9,
+            "marginRight": 9,
+            "marginTop": 10,
+            "width": 140,
+          }
+        }
+        testID="tab_bg"
+      >
+        <Text
+          style={
+            {
+              "color": "#ffffff",
+              "fontFamily": "OpenSans-Bold",
+              "fontSize": 16,
+            }
+          }
+        >
+          COMMUNITY
+        </Text>
+      </BVLinearGradient>
+    </View>
+  </View>
+</RCTScrollView>
+`;

@@ -1,0 +1,4 @@
+- Initial loading of new meal plan screens fixed
+- Guidance search results
+- Multiple layout issues for April Challenge
+- All Guidance videos uploaded

@@ -1,0 +1,6 @@
+3.2.5-1166 Internal Test Release
+
+- Save performance data for challenges
+- Navigate to performance data from calendar
+- Navigate back to calendar from performance screen
+- Important: retest regular flow to my performance for workouts and challenges

@@ -1,0 +1,8 @@
+3.2.9-1193
+- FB-1401: Sort order :30 times
+- FB-1406: Can't select 1 o'clock
+- FB-1397: Mark all as read
+- FB-1396: Clear all (known issue deleting unread ones)
+- FB-1407: Update app icon badge count immediately
+- FB-1395: Add notification icon on Android
+- FB-1399: 12 am shows up as pm

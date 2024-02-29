@@ -1,0 +1,8 @@
+3.2.6-1167 Intermediate Test Release
+
+- Save performance data for challenges
+- Navigate to performance data from calendar
+- Navigate back to calendar from performance screen
+- Do not highlight unavailable challenge history in calendar
+
+Important: retest regular flow to my performance for workouts and challenges

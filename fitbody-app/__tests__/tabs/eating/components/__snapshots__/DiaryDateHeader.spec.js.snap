@@ -1,0 +1,152 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DiaryDateHeader renders snapshot correctly 1`] = `
+<BVLinearGradient
+  colors={
+    [
+      4294610389,
+      4291149311,
+    ]
+  }
+  endPoint={
+    {
+      "x": 0.5,
+      "y": 1,
+    }
+  }
+  locations={null}
+  startPoint={
+    {
+      "x": 0.5,
+      "y": 0,
+    }
+  }
+  style={
+    {
+      "flexDirection": "column",
+      "height": 289.8550724637681,
+      "width": 750,
+    }
+  }
+>
+  <View
+    style={
+      {
+        "alignItems": "flex-end",
+        "flexDirection": "row",
+        "height": 163.04347826086956,
+        "justifyContent": "space-between",
+        "width": 750,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "paddingHorizontal": 28.985507246376812,
+          "width": 750,
+        }
+      }
+    >
+      <View
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "opacity": 1,
+          }
+        }
+      >
+        <macro.svg
+          color="#ffffff"
+          height={54.34782608695652}
+          width={54.34782608695652}
+        />
+      </View>
+      <Text
+        style={
+          {
+            "color": "#ffffff",
+            "fontFamily": "OpenSans-Semibold",
+            "fontSize": 22.492753623188406,
+            "letterSpacing": -0.7065217391304348,
+            "lineHeight": 30.92753623188406,
+            "textAlign": "center",
+          }
+        }
+      >
+        MEALS
+      </Text>
+      <View
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "opacity": 1,
+          }
+        }
+      >
+        <grocery.svg
+          color="#ffffff"
+          height={54.34782608695652}
+          width={54.34782608695652}
+        />
+      </View>
+    </View>
+  </View>
+  <RCTScrollView
+    contentContainerStyle={
+      {
+        "alignItems": "flex-end",
+      }
+    }
+    data={[]}
+    getItem={[Function]}
+    getItemCount={[Function]}
+    getItemLayout={[Function]}
+    horizontal={true}
+    keyExtractor={[Function]}
+    maxToRenderPerBatch={100}
+    onContentSizeChange={[Function]}
+    onLayout={[Function]}
+    onMomentumScrollBegin={[Function]}
+    onMomentumScrollEnd={[Function]}
+    onScroll={[Function]}
+    onScrollBeginDrag={[Function]}
+    onScrollEndDrag={[Function]}
+    onScrollToIndexFailed={[Function]}
+    removeClippedSubviews={true}
+    renderItem={[Function]}
+    scrollEventThrottle={50}
+    showsHorizontalScrollIndicator={false}
+    stickyHeaderIndices={[]}
+    style={
+      {
+        "flex": 1,
+      }
+    }
+    viewabilityConfigCallbackPairs={[]}
+  >
+    <View />
+  </RCTScrollView>
+</BVLinearGradient>
+`;

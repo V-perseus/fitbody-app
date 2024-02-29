@@ -1,0 +1,8 @@
+3.2.6-1169 Release Candidate 2
+
+- Save performance data for challenges
+- Navigate to performance data from calendar
+- Navigate back to calendar from performance screen
+- Do not highlight unavailable challenge history in calendar
+- Preserve calendar date and mode when navigating back from my performance screen
+- Send all Firebase events from client

@@ -1,0 +1,6 @@
+- New and Improved Progress Photo Section is here!
+- Crop your progress together, collage and share
+- The weekly calendar is here!
+- Macro breakdown for each recipe
+- New buzzer when your rest time is over
+- General bug fixes and optimizations - yay!

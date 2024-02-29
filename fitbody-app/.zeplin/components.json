@@ -1,0 +1,304 @@
+{
+    "plugins": [
+        {
+            "name": "@zeplin/cli-connect-react-plugin"
+        }
+    ],
+    "projects": [
+        "60dcbe0a2b60a607e22715f2",
+        "60dcbe59b2beec06e37f0f1d"
+    ],
+    "styleguides": [
+        "61dc909a1f935c2bb68fa973",
+        "61e04accc42e4abbe6e70d26"
+    ],
+    "components": [
+        {
+            "path": "src/components/FoodItem/FoodItem.js",
+            "zeplinNames": [
+                "Diary / Recipe"
+            ]
+        },
+        {
+            "path": "src/components/RecipeCard/RecipeCard.tsx",
+            "zeplinNames": [
+                "Meals / Recipe Card",
+                "Meals / Recipe Card Macros"
+            ]
+        },
+        {
+            "path": "src/features/workouts/components/Week/Header.tsx",
+            "zeplinIds": [
+                "61e04d7ddd883b615d17e17e"
+            ]
+        },
+        {
+            "path": "src/components/Buttons/ButtonSquare.tsx",
+            "zeplinIds": [
+                "61e048fae162c854f77c08c6",
+                "61e048fa7173b650f7ad7502",
+                "61e048fb3545ceb9153e8363",
+                "61e048f92668bb5f870469a3"
+            ]
+        },
+        {
+            "path": "src/components/Buttons/ButtonRound.tsx",
+            "zeplinIds": [
+                "61e049048142925f3f7a401f",
+                "61e049031deb6bb8726ebab5",
+                "61e0490302bcf45e54902f5e",
+                "61e04901134142b6c6312ba6"
+            ]
+        },
+        {
+            "path": "src/components/Buttons/ButtonIcon.tsx",
+            "zeplinNames": [
+                "Button / 56px / Text / Left / Icon Left",
+                "Button / 56px / Text / Left / Icon Right",
+                "Button / 56px / Text / Center / Icon Right",
+                "Button / 56px / Text / Center / Icon Left",
+                "Button / 56px / Text / Right / Icon Left",
+                "Button / 56px / Text / Right / Icon Right",
+                "Button / 48px / Text / Left / Icon Left",
+                "Button / 48px / Text / Left / Icon Right",
+                "Button / 48px / Text / Center / Icon Right",
+                "Button / 48px / Text / Center / Icon Left",
+                "Button / 48px / Text / Right / Icon Left",
+                "Button / 48px / Text / Right / Icon Right",
+                "Button / 40px / Text / Left / Icon Left",
+                "Button / 40px / Text / Left / Icon Right",
+                "Button / 40px / Text / Center / Icon Right",
+                "Button / 40px / Text / Center / Icon Left",
+                "Button / 40px / Text / Right / Icon Left",
+                "Button / 40px / Text / Right / Icon Right",
+                "Button / 32px / Text / Left / Icon Left",
+                "Button / 32px / Text / Left / Icon Right",
+                "Button / 32px / Text / Center / Icon Right",
+                "Button / 32px / Text / Center / Icon Left",
+                "Button / 32px / Text / Right / Icon Left",
+                "Button / 32px / Text / Right / Icon Right",
+                "Button / 24px / Text / Left / Icon Left",
+                "Button / 24px / Text / Left / Icon Right",
+                "Button / 24px / Text / Center / Icon Right",
+                "Button / 24px / Text / Center / Icon Left",
+                "Button / 24px / Text / Right / Icon Left",
+                "Button / 24px / Text / Right / Icon Right"
+            ]
+        },
+        {
+            "path": "src/components/Buttons/ButtonFloating.tsx",
+            "zeplinIds": [
+                "61e048f273a966b70eeb9c2f"
+            ]
+        },
+        {
+            "path": "src/components/Buttons/ButtonFloatingGroup.tsx",
+            "zeplinIds": [
+                "61e048f38e44d5508619eac9"
+            ]
+        },
+        {
+            "path": "src/features/workouts/components/ConfirmationDialog.js",
+            "zeplinIds": [
+                "61e04b9159cfe14ee66bf89a",
+                "61e04b925c8725544020d3ef"
+            ]
+        },
+        {
+            "path": "src/features/workouts/components/ExerciseInfoBox/ExerciseInfoBox.js",
+            "zeplinNames": [
+                "Excercise / Info / LG / Info Block",
+                "Excercise / Info / SM / Info Equiptment",
+                "Excercise / Info / LG / Info Equiptment",
+                "Excercise / Info / LG / Info Timer Equiptment",
+                "Excercise / Info / LG / Info Timer",
+                "Excercise / Info / SM / Info Block"
+            ]
+        },
+        {
+            "path": "src/features/workouts/components/Week/Header.tsx",
+            "zeplinNames": [
+                "Week / Header"
+            ]
+        },
+        {
+            "path": "src/features/workouts/components/Week/Challenge.tsx",
+            "zeplinNames": [
+                "Week / Challenge"
+            ]
+        },
+        {
+            "path": "src/components/NutritionFacts/NutritionFacts.js",
+            "zeplinNames": [
+                "Meals / Macro Graph"
+            ]
+        },
+        {
+            "path": "src/components/Forms/FormTextInput.tsx",
+            "zeplinNames": [
+                "Form / Input + Label"
+            ]
+        },
+        {
+            "path": "src/components/Forms/FormCheckbox.tsx",
+            "zeplinNames": [
+                "Form / Checkbox",
+                "Form / Checkbox Center"
+            ]
+        },
+        {
+            "path": "src/components/SearchBar/SearchBar.js",
+            "zeplinNames": [
+                "Form / Search"
+            ]
+        },
+        {
+            "path": "src/features/workouts/components/WorkoutsHeader/WorkoutsHeader.js",
+            "zeplinNames": [
+                "Week / Goal Header"
+            ]
+        },
+        {
+            "path": "src/features/workouts/components/BottomPanel/BottomPanel.js",
+            "zeplinNames": [
+                "Excercise / Nav BG",
+                "Excercise / Nav"
+            ]
+        },
+        {
+            "path": "src/features/workouts/components/Week/CategoryCard.tsx",
+            "zeplinNames": [
+                "Week / Goal"
+            ]
+        },
+        {
+            "path": "src/features/workouts/components/CircuitCard/CircuitCard.tsx",
+            "zeplinNames": [
+                "Overview / Exercise",
+                "Overview / Circuit"
+            ]
+        },
+        {
+            "path": "src/features/workouts/components/Week/Goal.tsx",
+            "zeplinNames": [
+                "Week / Card"
+            ]
+        },
+        {
+            "path": "src/components/HistoryMonthDay/HistoryMonthDay.js",
+            "zeplinNames": [
+                "History / Calendar / Day"
+            ]
+        },
+        {
+            "path": "src/components/JournalMonthDay/JournalMonthDay.js",
+            "zeplinNames": [
+                "History / Calendar / Day Mood"
+            ]
+        },
+        {
+            "path": "src/components/MoodItem/MoodItem.js",
+            "zeplinNames": [
+                "Mood Select"
+            ]
+        },
+        {
+            "path": "src/components/ActivityItem/ActivityItem.tsx",
+            "zeplinNames": [
+                "journal-checkbox"
+            ]
+        },
+        {
+            "path": "src/components/ExtraMoodOverview/ExtraMoodOverview.tsx",
+            "zeplinNames": [
+                "Mood Tag"
+            ]
+        },
+        {
+            "path": "src/components/HistoryDay/index.js",
+            "zeplinNames": [
+                "History / Week / Detail",
+                "History / Week / Detail Empty",
+                "History / Week / Day"
+            ]
+        },
+        {
+            "path": "src/screens/tabs/eating/MealPlan/DiaryDateHeader.tsx",
+            "zeplinNames": [
+                "Diary / Header"
+            ]
+        },
+        {
+            "path": "src/screens/tabs/eating/MealPlan/DiaryDateDropdown.js",
+            "zeplinNames": [
+                "Diary / Date Dropdown"
+            ]
+        },
+        {
+            "path": "src/components/MacrosView/MacrosView.js",
+            "zeplinNames": [
+                "Diary / Macro Footer V2"
+            ]
+        },
+        {
+            "path": "src/screens/tabs/eating/RecipeTag/RecipeTag.js",
+            "zeplinNames": [
+                "Φ - Components / Tag"
+            ]
+        },
+        {
+            "path": "src/screens/tabs/eating/MealPlan/DiaryListHead.js",
+            "zeplinNames": [
+                "Diary / List Head V2",
+                "Diary / list head empty",
+                "Diary / list head"
+            ]
+        },
+        {
+            "path": "src/screens/tabs/eating/MealPlan/DiaryListItem.tsx",
+            "zeplinNames": [
+                "Diary / Recipe",
+                "Diary / Recipe Selected"
+            ]
+        },
+        {
+            "path": "src/components/FoodItem/FoodItem.js",
+            "zeplinNames": [
+                "List / Food",
+                "List / Food Image",
+                "List / Recipe",
+                "List / Meal Set"
+            ]
+        },
+        {
+            "path": "src/components/FAQ/QuestionAccordion.tsx",
+            "zeplinNames": [
+                "Settings / FAQ",
+                "Settings / FAQ Open"
+            ]
+        },
+        {
+            "path": "src/screens/tabs/account/NotificationSettings/TimeListItem.tsx",
+            "zeplinNames": [
+                "Settings / Notifications / Time / Added"
+            ]
+        },
+        {
+            "path": "src/components/Notifications/NotificationList.js",
+            "zeplinNames": [
+                "Settings / Notifications / Notification"
+            ]
+        },
+        {
+            "path": "src/features/workouts/components/ChallengeDayListItem/ChallengeDayListItem.js",
+            "zeplinNames": [
+                "Challenge / Today",
+                "Challenge / Day"
+            ]
+        }
+    ],
+    "gitlab": {
+        "repository": "few/bodylove-app",
+        "branch": "develop"
+    }
+}

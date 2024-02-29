@@ -1,0 +1,180 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DiaryListItem renders snapshot correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#ffffff",
+    }
+  }
+>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#ffffff",
+        "borderBottomColor": "#dedede",
+        "borderBottomWidth": 1,
+        "flexDirection": "row",
+        "height": 173.91304347826087,
+        "justifyContent": "space-between",
+        "opacity": 1,
+        "paddingHorizontal": 43.47826086956522,
+        "width": "100%",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#ffffff",
+          "flex": 1,
+          "flexDirection": "row",
+        }
+      }
+    >
+      <View
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+        testID="edit_recipe_btn"
+      >
+        <circle-outline.svg
+          color="#dedede"
+          height={43.47826086956522}
+          style={
+            Object {
+              "marginRight": 43.47826086956522,
+            }
+          }
+          width={43.47826086956522}
+        />
+      </View>
+      <Image
+        source={
+          Object {
+            "uri": "test_url",
+          }
+        }
+        style={
+          Object {
+            "borderRadius": 3.2,
+            "height": 67.47826086956522,
+            "marginRight": 30.797101449275363,
+            "width": 67.47826086956522,
+          }
+        }
+        testID="recipe_img"
+      />
+      <View
+        style={
+          Object {
+            "flex": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "flexDirection": "row",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#000000",
+                "fontFamily": "OpenSans",
+                "fontSize": 16.869565217391305,
+              }
+            }
+          >
+            FIT BODY RECIPE
+          </Text>
+        </View>
+        <Text
+          style={
+            Object {
+              "color": "#000000",
+              "fontFamily": "OpenSans-Bold",
+              "fontSize": 19.681159420289855,
+            }
+          }
+        >
+          recipe name
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "height": 36.231884057971016,
+          "justifyContent": "flex-end",
+          "marginLeft": 30.797101449275363,
+          "width": 72.46376811594203,
+        }
+      }
+    >
+      <View
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+        testID="favorite_recipe_btn"
+      >
+        <star.svg
+          color="#ffc34c"
+          height={16}
+          style={
+            Object {
+              "marginRight": 8,
+            }
+          }
+          width={16}
+        />
+      </View>
+      <right.svg
+        color="#333333"
+        height={18}
+        width={18}
+      />
+    </View>
+  </View>
+</View>
+`;

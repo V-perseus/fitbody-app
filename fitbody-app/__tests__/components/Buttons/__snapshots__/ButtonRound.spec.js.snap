@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ButtonRound renders snapshot correctly 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    [
+      {
+        "opacity": 1,
+      },
+      {
+        "alignItems": "center",
+        "borderRadius": 28,
+        "flexDirection": "row",
+        "height": 56,
+        "items": "center",
+        "justifyContent": "center",
+        "width": 114,
+      },
+      undefined,
+    ]
+  }
+>
+  <Text
+    style={
+      [
+        {
+          "color": "#ffffff",
+          "fontSize": 16,
+        },
+        undefined,
+      ]
+    }
+  >
+    test
+  </Text>
+</View>
+`;

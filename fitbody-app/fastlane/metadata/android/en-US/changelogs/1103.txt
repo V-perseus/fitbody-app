@@ -1,0 +1,12 @@
+Intermediate test build; only test features mentioned below;
+Do not report bugs on other aspects of the application.
+
+- My performance page works on airplane mode
+- New congratulations screen design
+- Warning message on navigate to guidance from workout complete while on airplane mode
+- New get ready screen design
+- New rest screen design
+- New performance screen design
+- New workout preview design
+- New challenge preview design
+- Today's workout button only shown in current week

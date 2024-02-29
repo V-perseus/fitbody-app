@@ -1,0 +1,13 @@
+diff --git a/node_modules/react-native-keyboard-aware-scroll-view/index.d.ts b/node_modules/react-native-keyboard-aware-scroll-view/index.d.ts
+index bf03b26..b359a36 100644
+--- a/node_modules/react-native-keyboard-aware-scroll-view/index.d.ts
++++ b/node_modules/react-native-keyboard-aware-scroll-view/index.d.ts
+@@ -141,6 +141,8 @@ interface KeyboardAwareProps {
+    * @param frames Information about the keyboard frame and animation.
+    */
+   onKeyboardDidChangeFrame?: (frames: Object) => void
++
++  getTextInputRefs?: () => Array<React.MutableRefObject<TextInput | null>>
+ }
+ 
+ interface KeyboardAwareScrollViewProps

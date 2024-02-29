@@ -1,0 +1,111 @@
+import { StyleSheet } from 'react-native'
+import globals from '../../config/globals'
+
+const styles = StyleSheet.create({
+  container: {
+    borderRadius: 15,
+    paddingTop: 26,
+    paddingLeft: 26,
+    backgroundColor: globals.styles.colors.colorWhite,
+    position: 'relative',
+    marginBottom: 40,
+  },
+  mealTitle: {
+    fontSize: 20,
+    fontFamily: globals.fonts.secondary.style.fontFamily,
+    color: globals.styles.colors.colorBlack,
+    lineHeight: 24,
+  },
+  macrosContainer: {
+    flexDirection: 'row',
+    alignItems: 'center',
+  },
+  macros: {
+    fontSize: 11,
+    fontFamily: globals.fonts.primary.semiboldStyle.fontFamily,
+    color: globals.styles.colors.colorGrayDark,
+  },
+  dot: {
+    width: 5,
+    height: 5,
+    borderRadius: 999,
+    backgroundColor: globals.styles.colors.colorPink,
+    marginLeft: 6,
+    marginRight: 6,
+  },
+  itemsContainer: {
+    marginTop: 24,
+    marginBottom: 40.5,
+    paddingHorizontal: 10,
+    alignItems: 'flex-start',
+  },
+  recipeWrapper: {
+    width: globals.window.width / 2 - 16 - 16,
+    backgroundColor: globals.styles.colors.colorWhite,
+    marginLeft: 8,
+    marginRight: 8,
+    marginBottom: 3,
+    marginTop: 16,
+    borderRadius: 7,
+    shadowOffset: { width: 0, height: 3 },
+    shadowColor: 'black',
+    shadowOpacity: 0.11,
+    shadowRadius: 15,
+    elevation: 3,
+  },
+  imageWrapper: {
+    width: '100%',
+    height: 137,
+    borderTopLeftRadius: 7,
+    borderTopRightRadius: 7,
+    overflow: 'hidden',
+  },
+  iconsContainer: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'center',
+    marginTop: 7,
+  },
+  icon: {
+    marginLeft: 1.7,
+    marginRight: 1.7,
+  },
+  itemTitle: {
+    fontSize: 20,
+    fontFamily: globals.fonts.secondary.style.fontFamily,
+    color: 'black',
+    textAlign: 'center',
+    marginTop: 3,
+    marginBottom: 16,
+    paddingHorizontal: 18,
+  },
+  category: {
+    paddingHorizontal: 5,
+    fontSize: 12,
+    fontFamily: globals.fonts.primary.style.fontFamily,
+    color: 'black',
+    textAlign: 'center',
+    marginTop: 1,
+  },
+  addSetButton: {
+    position: 'absolute',
+    top: -16,
+    right: 27,
+    width: 85,
+    height: 33,
+    borderRadius: 16.5,
+    flexDirection: 'column',
+    alignItems: 'center',
+    justifyContent: 'center',
+    backgroundColor: globals.styles.colors.colorPink,
+  },
+  addSetButtonText: {
+    fontFamily: globals.fonts.primary.semiboldStyle.fontFamily,
+    fontSize: 11,
+    letterSpacing: 0,
+    textAlign: 'center',
+    color: globals.styles.colors.colorWhite,
+  },
+})
+
+export default styles

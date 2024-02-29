@@ -1,0 +1,104 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FAQ QuestionAccordion renders snapshot correctly 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "borderBottomColor": "#dedede",
+      "borderBottomWidth": 1,
+      "opacity": 1,
+    }
+  }
+  testID="faq_btn"
+>
+  <View>
+    <View
+      style={
+        {
+          "borderBottomColor": "#dedede",
+          "borderBottomWidth": 1,
+        }
+      }
+    >
+      <BVLinearGradient
+        colors={
+          [
+            0,
+            0,
+          ]
+        }
+        endPoint={
+          {
+            "x": 0.5,
+            "y": 1,
+          }
+        }
+        locations={null}
+        startPoint={
+          {
+            "x": 0.5,
+            "y": 0,
+          }
+        }
+        style={
+          {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "height": 70,
+            "justifyContent": "space-between",
+          }
+        }
+      >
+        <Text
+          ellipsizeMode="tail"
+          numberOfLines={2}
+          style={
+            {
+              "color": "#333333",
+              "flexWrap": "wrap",
+              "fontFamily": "OpenSans",
+              "fontSize": 14,
+              "lineHeight": 20,
+              "paddingBottom": 10,
+              "paddingLeft": 20,
+              "paddingRight": 8,
+              "paddingTop": 10,
+              "width": 675,
+            }
+          }
+        >
+          TITLE
+        </Text>
+        <View
+          style={
+            {
+              "justifyContent": "center",
+              "width": 75,
+            }
+          }
+        >
+          <down.svg
+            color="#bbbbbb"
+          />
+        </View>
+      </BVLinearGradient>
+    </View>
+    <View
+      collapsable={false}
+      style={{}}
+    >
+      <View />
+    </View>
+  </View>
+</View>
+`;

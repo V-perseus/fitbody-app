@@ -1,0 +1,3 @@
++ Navigate back to goal screen
+
+See provided test instructions for details

@@ -1,0 +1,3 @@
+3.3.2-1215 Test release (production DB)
+- Throttled workout video download
+- Unload all off-screen video component during workouts

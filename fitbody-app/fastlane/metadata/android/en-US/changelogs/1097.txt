@@ -1,0 +1,4 @@
++ SignupCompleted event sent from app
++ Download workouts
+
+See provided test instructions for details
